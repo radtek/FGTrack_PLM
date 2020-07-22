@@ -1,0 +1,81 @@
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.exe.config
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.exe
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.FGTDB.BEL.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.BLL.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.BLL.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\SQLite.Designer.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.DAL.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.DAL.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.DAL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.BLL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.FGTDB.BEL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.DAL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\SQLite.Designer.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.BLL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.FGTDB_Service.resources
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.csproj.GenerateResource.Cache
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.exe
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.exe.config
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.exe
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.FGTDB.BEL.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.BLL.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.BLL.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\Oracle.DataAccess.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\SQLite.Designer.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.BLL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.FGTDB.BEL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\SQLite.Designer.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.BLL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\Interop.COMAdmin.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\Interop.SensEvents.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\Interop.COMAdmin.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\Interop.SensEvents.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.csproj.ResolveComReference.cache
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.FGTDB_Service.resources
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\EDC_Service.WSInstaller.resources
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.exe
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\FGTDB_Service.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.FGTDB.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\Oracle.DataAccess.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.BLL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.FGTDB.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\System.Data.SQLite.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.SQLITE.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\SQLite.Designer.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\HTN.BITS.ORACLE.BLL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\bin\Debug\Interop.COMAdmin.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\Interop.COMAdmin.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.csproj.ResolveComReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.FGTDB_Service.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\EDC_Service.WSInstaller.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTRACK_DASHBOARD\FGTDB_Service\obj\Debug\FGTDB_Service.pdb

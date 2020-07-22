@@ -1,0 +1,12 @@
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\bin\Release\HTN.BITS.MSC.SCN.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\bin\Release\HTN.BITS.MSC.SCN.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MCS.SCN.LIB.BaseForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MCS.SCN.LIB.BaseFormDialogMode.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MCS.SCN.LIB.BaseFormFullMode.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MCS.SCN.LIB.fMessageBox.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MCS.SCN.LIB.LocalizedForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MSC.SCN.LIB.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\MSC_SCN_LIB.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MSC.SCN.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Release\HTN.BITS.MSC.SCN.LIB.pdb

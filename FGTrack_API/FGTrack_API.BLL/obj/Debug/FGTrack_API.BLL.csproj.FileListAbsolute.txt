@@ -1,0 +1,10 @@
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\bin\Debug\Oracle.DataAccess.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\obj\Debug\FGTrack_API.BLL.csprojResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\bin\Debug\HTN.BITS.FGTRACK.BLL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\bin\Debug\HTN.BITS.FGTRACK.BLL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\bin\Debug\HTN.BITS.FGTRACK.BEL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\bin\Debug\HTN.BITS.FGTRACK.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\bin\Debug\HTN.BITS.FGTRACK.BEL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\bin\Debug\HTN.BITS.FGTRACK.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\obj\Debug\HTN.BITS.FGTRACK.BLL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BLL\obj\Debug\HTN.BITS.FGTRACK.BLL.pdb

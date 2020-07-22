@@ -1,0 +1,44 @@
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\HTN.BITS.FGTRACK.FGPRESS.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\HTN.BITS.FGTRACK.FGPRESS.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\HTN.BITS.FGTRACK.FGPRESS.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\en-US\HTN.BITS.FGTRACK.FGPRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\fr-CA\HTN.BITS.FGTRACK.FGPRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmCheckUser.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmFGReturn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmFinishGoodIn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmFinishGoodOut.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmLoading.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmPicking.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmUtility.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.Resources.Resources.en-US.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.Resources.Resources.fr-CA.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\SCN_FGTracking_FGPress.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\en-US\HTN.BITS.FGTRACK.FGPRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\fr-CA\HTN.BITS.FGTRACK.FGPRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmFGReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmFinishGoodIn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmFinishGoodOut.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmLoading.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmPicking.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\SCN_FGTracking_FGPress.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGPress\obj\Debug\HTN.BITS.FGTRACK.FGPRESS.pdb

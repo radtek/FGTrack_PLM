@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_LOADING_ORDER" targetNamespace="http://tempuri.org/DTS_LOADING_ORDER.xsd" xmlns:mstns="http://tempuri.org/DTS_LOADING_ORDER.xsd" xmlns="http://tempuri.org/DTS_LOADING_ORDER.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_LOADING_ORDER" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DTS_LOADING_ORDER" msprop:Generator_DataSetName="DTS_LOADING_ORDER" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_LOADING_HDR" msprop:Generator_UserTableName="T_LOADING_HDR" msprop:Generator_RowDeletedName="T_LOADING_HDRRowDeleted" msprop:Generator_RowChangedName="T_LOADING_HDRRowChanged" msprop:Generator_RowClassName="T_LOADING_HDRRow" msprop:Generator_RowChangingName="T_LOADING_HDRRowChanging" msprop:Generator_RowEvArgName="T_LOADING_HDRRowChangeEvent" msprop:Generator_RowEvHandlerName="T_LOADING_HDRRowChangeEventHandler" msprop:Generator_TableClassName="T_LOADING_HDRDataTable" msprop:Generator_TableVarName="tableT_LOADING_HDR" msprop:Generator_RowDeletingName="T_LOADING_HDRRowDeleting" msprop:Generator_TablePropName="T_LOADING_HDR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="WH_ID" msprop:Generator_UserColumnName="WH_ID" msprop:Generator_ColumnVarNameInTable="columnWH_ID" msprop:Generator_ColumnPropNameInRow="WH_ID" msprop:Generator_ColumnPropNameInTable="WH_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LOADING_NO" msprop:Generator_UserColumnName="LOADING_NO" msprop:Generator_ColumnVarNameInTable="columnLOADING_NO" msprop:Generator_ColumnPropNameInRow="LOADING_NO" msprop:Generator_ColumnPropNameInTable="LOADING_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DELIVERY_DATE" msprop:Generator_UserColumnName="DELIVERY_DATE" msprop:Generator_ColumnVarNameInTable="columnDELIVERY_DATE" msprop:Generator_ColumnPropNameInRow="DELIVERY_DATE" msprop:Generator_ColumnPropNameInTable="DELIVERY_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TRUCK_NO" msprop:Generator_UserColumnName="TRUCK_NO" msprop:Generator_ColumnVarNameInTable="columnTRUCK_NO" msprop:Generator_ColumnPropNameInRow="TRUCK_NO" msprop:Generator_ColumnPropNameInTable="TRUCK_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BARCODE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_UserColumnName="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="T_LOADING" msprop:Generator_UserTableName="T_LOADING" msprop:Generator_RowDeletedName="T_LOADINGRowDeleted" msprop:Generator_RowChangedName="T_LOADINGRowChanged" msprop:Generator_RowClassName="T_LOADINGRow" msprop:Generator_RowChangingName="T_LOADINGRowChanging" msprop:Generator_RowEvArgName="T_LOADINGRowChangeEvent" msprop:Generator_RowEvHandlerName="T_LOADINGRowChangeEventHandler" msprop:Generator_TableClassName="T_LOADINGDataTable" msprop:Generator_TableVarName="tableT_LOADING" msprop:Generator_RowDeletingName="T_LOADINGRowDeleting" msprop:Generator_TablePropName="T_LOADING">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LOADING_NO" msprop:Generator_UserColumnName="LOADING_NO" msprop:Generator_ColumnPropNameInRow="LOADING_NO" msprop:Generator_ColumnVarNameInTable="columnLOADING_NO" msprop:Generator_ColumnPropNameInTable="LOADING_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DELIVERY_DATE" msprop:Generator_UserColumnName="DELIVERY_DATE" msprop:Generator_ColumnVarNameInTable="columnDELIVERY_DATE" msprop:Generator_ColumnPropNameInRow="DELIVERY_DATE" msprop:Generator_ColumnPropNameInTable="DELIVERY_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TRUCK_NO" msprop:Generator_UserColumnName="TRUCK_NO" msprop:Generator_ColumnVarNameInTable="columnTRUCK_NO" msprop:Generator_ColumnPropNameInRow="TRUCK_NO" msprop:Generator_ColumnPropNameInTable="TRUCK_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_UserColumnName="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="T_LOADING_T_LOADING_HDR" msdata:parent="T_LOADING" msdata:child="T_LOADING_HDR" msdata:parentkey="LOADING_NO" msdata:childkey="LOADING_NO" msprop:Generator_UserRelationName="T_LOADING_T_LOADING_HDR" msprop:Generator_RelationVarName="relationT_LOADING_T_LOADING_HDR" msprop:Generator_UserChildTable="T_LOADING_HDR" msprop:Generator_UserParentTable="T_LOADING" msprop:Generator_ParentPropName="T_LOADINGRow" msprop:Generator_ChildPropName="GetT_LOADING_HDRRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

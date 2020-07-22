@@ -1,0 +1,27 @@
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\bin\Debug\HTN.BITS.MSC.SCN.LIB.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\bin\Debug\HTN.BITS.MSC.SCN.LIB.pdb
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.BaseForm.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.BaseFormDialogMode.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.BaseFormFullMode.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.fMessageBox.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.LocalizedForm.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MSC.SCN.LIB.Properties.Resources.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\MSC_SCN_LIB.csproj.GenerateResource.Cache
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MSC.SCN.LIB.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MSC.SCN.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\bin\Debug\HTN.BITS.MSC.SCN.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\bin\Debug\HTN.BITS.MSC.SCN.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.BaseForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.BaseFormDialogMode.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.BaseFormFullMode.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.fMessageBox.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MCS.SCN.LIB.LocalizedForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MSC.SCN.LIB.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\MSC_SCN_LIB.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MSC.SCN.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_Lib\obj\Debug\HTN.BITS.MSC.SCN.LIB.pdb

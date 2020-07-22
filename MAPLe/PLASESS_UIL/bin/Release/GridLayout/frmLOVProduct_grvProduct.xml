@@ -1,0 +1,161 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="BestFitMaxRowCount">-1</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="FocusRectStyle">RowFocus</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="NewItemRowText" />
+  <property name="GroupPanelText" />
+  <property name="PreviewFieldName" />
+  <property name="PreviewIndent">-1</property>
+  <property name="LevelIndent">-1</property>
+  <property name="GroupFooterShowMode">VisibleIfExpanded</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ViewCaption" />
+  <property name="DetailHeight">350</property>
+  <property name="Name">grvProduct</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Columns" iskey="true" value="5">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">133</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvProduct_col_PRODUCT_NO</property>
+      <property name="Caption">Product No.</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PRODUCT_NO</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">324</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvProduct_col_PRODUCT_NAME</property>
+      <property name="Caption">Product Name</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PRODUCT_NAME</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvProduct_col_FREE_STOCK</property>
+      <property name="Caption">Free</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">FREE_STOCK</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">grvProduct_col_PROD_SEQ_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PROD_SEQ_NO</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">grvProduct_col_MATERIAL_NAME</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">MATERIAL_NAME</property>
+    </property>
+  </property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="VertScrollTipFieldName" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+  </property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="FocusedRow" iskey="true" value="FocusedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FocusedCell" iskey="true" value="FocusedCell">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="SelectedRow" iskey="true" value="SelectedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="RowHeight">-1</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="Editable">false</property>
+  </property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

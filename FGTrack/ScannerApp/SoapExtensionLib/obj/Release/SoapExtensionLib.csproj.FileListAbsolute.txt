@@ -1,0 +1,15 @@
+D:\Projects\PLASESS\FGTrack\ScannerApp\SoapExtensionLib\bin\Release\SoapExtensionLib.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SoapExtensionLib\bin\Release\SoapExtensionLib.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\SoapExtensionLib.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\SoapExtensionLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SoapExtensionLib\bin\Release\SoapExtensionLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SoapExtensionLib\bin\Release\SoapExtensionLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\SoapExtensionLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\SoapExtensionLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp\SoapExtensionLib\bin\Release\SoapExtensionLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp\SoapExtensionLib\bin\Release\SoapExtensionLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\SoapExtensionLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp\SoapExtensionLib\obj\Release\SoapExtensionLib.pdb

@@ -1,0 +1,15 @@
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\HTN.BITS.STKDB.BLL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\HTN.BITS.STKDB.BLL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\HTN.BITS.STKDB.BEL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\HTN.BITS.STKDB.DAL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\SQLite.Designer.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\System.Data.SQLite.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\System.Data.SQLite.Linq.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\HTN.BITS.STKDB.DAL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\System.Data.SQLite.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\SQLite.Designer.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\System.Data.SQLite.Linq.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\bin\Release\HTN.BITS.STKDB.BEL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\obj\Release\HTN.BITS.STKDB.BLL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BLL\obj\Release\HTN.BITS.STKDB.BLL.pdb

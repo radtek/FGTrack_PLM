@@ -1,0 +1,36 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BLL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BLL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.QRCodeLib.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.QRCodeLib.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\obj\Debug\HTN.BITS.BLL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_BLL\obj\Debug\HTN.BITS.BLL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BLL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BLL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\obj\Debug\PLASESS_BLL.csproj.ResolveComReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\obj\Debug\HTN.BITS.BLL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_BLL\obj\Debug\HTN.BITS.BLL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.BLL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.BLL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.QRCodeLib.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.QRCodeLib.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\bin\Debug\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\obj\Debug\PLASESS_BLL.csproj.ResolveComReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\obj\Debug\HTN.BITS.BLL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_BLL\obj\Debug\HTN.BITS.BLL.PLASESS.pdb

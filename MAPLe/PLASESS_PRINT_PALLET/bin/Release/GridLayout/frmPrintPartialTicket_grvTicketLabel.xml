@@ -1,0 +1,373 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="BestFitMaxRowCount">-1</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="NewItemRowText" />
+  <property name="GroupPanelText" />
+  <property name="PreviewFieldName" />
+  <property name="PreviewIndent">-1</property>
+  <property name="LevelIndent">-1</property>
+  <property name="GroupFooterShowMode">VisibleIfExpanded</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ViewCaption" />
+  <property name="DetailHeight">350</property>
+  <property name="Name">grvTicketLabel</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Columns" iskey="true" value="16">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">26</property>
+      <property name="UnboundType">Boolean</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Name">grvTicketLabel_CheckMarkSelection</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowSize">false</property>
+        <property name="FixedWidth">true</property>
+        <property name="AllowSort">False</property>
+        <property name="AllowEdit">false</property>
+        <property name="ShowCaption">false</property>
+      </property>
+      <property name="Caption">Mark</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">CheckMarkSelection</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">131</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_TICKET_LABEL</property>
+      <property name="Caption">Ticket #</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">TICKET_LABEL</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">61</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">2</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_PROD_CODE</property>
+      <property name="Caption">Product
+Code</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PROD_CODE</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">153</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">3</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_DESCRIPTION</property>
+      <property name="Caption">Description</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">DESCRIPTION</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Width">61</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">4</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_PROD_WEEK</property>
+      <property name="Caption">Product
+Week</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PROD_WEEK</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Width">43</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">5</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_QTY</property>
+      <property name="Caption">Pick
+Qty</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PICKED_QTY</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Width">98</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">6</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_DELY_INST_NO</property>
+      <property name="Caption">DI #</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">DI_NO</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Width">99</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">7</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_PICK_NO</property>
+      <property name="Caption">Picking #</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PICK_NO</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Width">64</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">8</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_LOCATION_ID</property>
+      <property name="Caption">Location</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">LOCATION_ID</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Width">61</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">9</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 7pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvPrintQueue_col_PICK_USER</property>
+      <property name="Caption">Pick
+User</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PICK_USER</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Width">53</property>
+      <property name="Name">grvPrintQueue_col_SEQ_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">SEQ_NO</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Width">59</property>
+      <property name="Name">grvPrintQueue_col_WARE_ID</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">WARE_ID</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Width">91</property>
+      <property name="Name">grvPrintQueue_col_TICKET_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">TICKET_NO</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Width">64</property>
+      <property name="Name">grvPrintQueue_col_REC_DATE</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">REC_DATE</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Width">87</property>
+      <property name="Name">grvPrintQueue_col_DI_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">DI_NO</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Width">63</property>
+      <property name="Name">grvPrintQueue_col_ETD</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">ETD</property>
+    </property>
+  </property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="VertScrollTipFieldName" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+  </property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="FocusedRow" iskey="true" value="FocusedRow">
+      <property name="BackColor">PaleGreen</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FocusedCell" iskey="true" value="FocusedCell">
+      <property name="BackColor">PaleGreen</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+      </property>
+    </property>
+    <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+      <property name="BackColor">192, 255, 192</property>
+      <property name="ForeColor">Gray</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="SelectedRow" iskey="true" value="SelectedRow">
+      <property name="BackColor">PaleGreen</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="ColumnPanelRowHeight">32</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="RowHeight">-1</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="ReadOnly">true</property>
+    <property name="Editable">false</property>
+  </property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

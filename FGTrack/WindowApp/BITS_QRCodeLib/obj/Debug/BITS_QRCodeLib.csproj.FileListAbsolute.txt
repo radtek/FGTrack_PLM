@@ -1,0 +1,14 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\bin\Debug\HTN.BITS.QRCodeLib.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\bin\Debug\HTN.BITS.QRCodeLib.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\HTN.BITS.QRCodeLib.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\bin\Debug\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\bin\Debug\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Debug\HTN.BITS.QRCodeLib.pdb

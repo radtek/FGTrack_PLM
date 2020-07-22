@@ -1,0 +1,5 @@
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_DAL\bin\Release\HTN.BITS.DAL.dll
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_DAL\bin\Release\HTN.BITS.DAL.pdb
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_DAL\obj\Release\HTN.BITS.DAL.dll
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_DAL\obj\Release\HTN.BITS.DAL.pdb

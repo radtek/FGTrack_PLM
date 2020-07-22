@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_PICKING_LIST" targetNamespace="http://tempuri.org/DTS_PICKING_LIST.xsd" xmlns:mstns="http://tempuri.org/DTS_PICKING_LIST.xsd" xmlns="http://tempuri.org/DTS_PICKING_LIST.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_PICKING_LIST" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DTS_PICKING_LIST" msprop:Generator_DataSetName="DTS_PICKING_LIST" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_PICKING_HDR" msprop:Generator_UserTableName="T_PICKING_HDR" msprop:Generator_RowDeletedName="T_PICKING_HDRRowDeleted" msprop:Generator_RowChangedName="T_PICKING_HDRRowChanged" msprop:Generator_RowClassName="T_PICKING_HDRRow" msprop:Generator_RowChangingName="T_PICKING_HDRRowChanging" msprop:Generator_RowEvArgName="T_PICKING_HDRRowChangeEvent" msprop:Generator_RowEvHandlerName="T_PICKING_HDRRowChangeEventHandler" msprop:Generator_TableClassName="T_PICKING_HDRDataTable" msprop:Generator_TableVarName="tableT_PICKING_HDR" msprop:Generator_RowDeletingName="T_PICKING_HDRRowDeleting" msprop:Generator_TablePropName="T_PICKING_HDR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PICK_NO" msprop:Generator_UserColumnName="PICK_NO" msprop:Generator_ColumnPropNameInRow="PICK_NO" msprop:Generator_ColumnVarNameInTable="columnPICK_NO" msprop:Generator_ColumnPropNameInTable="PICK_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER_NAME" msprop:Generator_UserColumnName="CUSTOMER_NAME" msprop:Generator_ColumnPropNameInRow="CUSTOMER_NAME" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER_NAME" msprop:Generator_ColumnPropNameInTable="CUSTOMER_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ETA" msprop:Generator_UserColumnName="ETA" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="ETA" msprop:Generator_ColumnPropNameInTable="ETAColumn" msprop:Generator_ColumnVarNameInTable="columnETA" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="REF_NO" msprop:Generator_UserColumnName="REF_NO" msprop:Generator_ColumnPropNameInRow="REF_NO" msprop:Generator_ColumnVarNameInTable="columnREF_NO" msprop:Generator_ColumnPropNameInTable="REF_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BARCODE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="SO_NO" msprop:Generator_UserColumnName="SO_NO" msprop:Generator_ColumnPropNameInRow="SO_NO" msprop:Generator_ColumnVarNameInTable="columnSO_NO" msprop:Generator_ColumnPropNameInTable="SO_NOColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="T_PICKING_DTL" msprop:Generator_UserTableName="T_PICKING_DTL" msprop:Generator_RowDeletedName="T_PICKING_DTLRowDeleted" msprop:Generator_RowChangedName="T_PICKING_DTLRowChanged" msprop:Generator_RowClassName="T_PICKING_DTLRow" msprop:Generator_RowChangingName="T_PICKING_DTLRowChanging" msprop:Generator_RowEvArgName="T_PICKING_DTLRowChangeEvent" msprop:Generator_RowEvHandlerName="T_PICKING_DTLRowChangeEventHandler" msprop:Generator_TableClassName="T_PICKING_DTLDataTable" msprop:Generator_TableVarName="tableT_PICKING_DTL" msprop:Generator_RowDeletingName="T_PICKING_DTLRowDeleting" msprop:Generator_TablePropName="T_PICKING_DTL">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PICK_NO" msprop:Generator_UserColumnName="PICK_NO" msprop:Generator_ColumnPropNameInRow="PICK_NO" msprop:Generator_ColumnVarNameInTable="columnPICK_NO" msprop:Generator_ColumnPropNameInTable="PICK_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LINE_NO" msprop:Generator_UserColumnName="LINE_NO" msprop:Generator_ColumnPropNameInRow="LINE_NO" msprop:Generator_ColumnVarNameInTable="columnLINE_NO" msprop:Generator_ColumnPropNameInTable="LINE_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NO" msprop:Generator_UserColumnName="PRODUCT_NO" msprop:Generator_ColumnPropNameInRow="PRODUCT_NO" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NO" msprop:Generator_ColumnPropNameInTable="PRODUCT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NAME" msprop:Generator_UserColumnName="PRODUCT_NAME" msprop:Generator_ColumnPropNameInRow="PRODUCT_NAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NAME" msprop:Generator_ColumnPropNameInTable="PRODUCT_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_UserColumnName="QTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIT" msprop:Generator_UserColumnName="UNIT" msprop:Generator_ColumnPropNameInRow="UNIT" msprop:Generator_ColumnVarNameInTable="columnUNIT" msprop:Generator_ColumnPropNameInTable="UNITColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BOX_QTY" msprop:Generator_UserColumnName="BOX_QTY" msprop:Generator_ColumnPropNameInRow="BOX_QTY" msprop:Generator_ColumnVarNameInTable="columnBOX_QTY" msprop:Generator_ColumnPropNameInTable="BOX_QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NO_OF_BOX" msprop:Generator_UserColumnName="NO_OF_BOX" msprop:Generator_ColumnPropNameInRow="NO_OF_BOX" msprop:Generator_ColumnVarNameInTable="columnNO_OF_BOX" msprop:Generator_ColumnPropNameInTable="NO_OF_BOXColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="T_PICKING_HDR_T_PICKING_DTL" msdata:parent="T_PICKING_HDR" msdata:child="T_PICKING_DTL" msdata:parentkey="PICK_NO" msdata:childkey="PICK_NO" msprop:Generator_UserRelationName="T_PICKING_HDR_T_PICKING_DTL" msprop:Generator_RelationVarName="relationT_PICKING_HDR_T_PICKING_DTL" msprop:Generator_UserChildTable="T_PICKING_DTL" msprop:Generator_UserParentTable="T_PICKING_HDR" msprop:Generator_ParentPropName="T_PICKING_HDRRow" msprop:Generator_ChildPropName="GetT_PICKING_DTLRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,12 @@
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Release\app.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Release\HTN.BITS.MSC.SCN.APPUPDATE.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Release\HTN.BITS.MSC.SCN.APPUPDATE.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Release\HTN.BITS.MSC.SCN.APPUPDATE.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Release\Ionic.Zip.CF.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Release\Newtonsoft.Json.Compact.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Release\HTN.BITS.MCS.SCN.APPUPDATE.frmUpdate.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Release\HTN.BITS.MSC.SCN.APPUPDATE.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Release\MSC_SCN_APPUPDATE.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Release\HTN.BITS.MSC.SCN.APPUPDATE.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Release\HTN.BITS.MSC.SCN.APPUPDATE.pdb

@@ -1,0 +1,5 @@
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BEL\bin\Release\HTN.BITS.FGTRACK.BEL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BEL\bin\Release\HTN.BITS.FGTRACK.BEL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BEL\obj\Release\FGTrack_API.BEL.csprojResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BEL\obj\Release\HTN.BITS.FGTRACK.BEL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.BEL\obj\Release\HTN.BITS.FGTRACK.BEL.pdb

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_DELIVERY_SLIP" targetNamespace="http://tempuri.org/DTS_DELIVERY_SLIP.xsd" xmlns:mstns="http://tempuri.org/DTS_DELIVERY_SLIP.xsd" xmlns="http://tempuri.org/DTS_DELIVERY_SLIP.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_DELIVERY_SLIP" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DTS_DELIVERY_SLIP" msprop:Generator_DataSetName="DTS_DELIVERY_SLIP" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_LOADING_HDR" msprop:Generator_UserTableName="T_LOADING_HDR" msprop:Generator_RowDeletedName="T_LOADING_HDRRowDeleted" msprop:Generator_RowChangedName="T_LOADING_HDRRowChanged" msprop:Generator_RowClassName="T_LOADING_HDRRow" msprop:Generator_RowChangingName="T_LOADING_HDRRowChanging" msprop:Generator_RowEvArgName="T_LOADING_HDRRowChangeEvent" msprop:Generator_RowEvHandlerName="T_LOADING_HDRRowChangeEventHandler" msprop:Generator_TableClassName="T_LOADING_HDRDataTable" msprop:Generator_TableVarName="tableT_LOADING_HDR" msprop:Generator_RowDeletingName="T_LOADING_HDRRowDeleting" msprop:Generator_TablePropName="T_LOADING_HDR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="WH_ID" msprop:Generator_UserColumnName="WH_ID" msprop:Generator_ColumnVarNameInTable="columnWH_ID" msprop:Generator_ColumnPropNameInRow="WH_ID" msprop:Generator_ColumnPropNameInTable="WH_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LOADING_NO" msprop:Generator_UserColumnName="LOADING_NO" msprop:Generator_ColumnVarNameInTable="columnLOADING_NO" msprop:Generator_ColumnPropNameInRow="LOADING_NO" msprop:Generator_ColumnPropNameInTable="LOADING_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DELIVERY_DATE" msprop:Generator_UserColumnName="DELIVERY_DATE" msprop:Generator_ColumnVarNameInTable="columnDELIVERY_DATE" msprop:Generator_ColumnPropNameInRow="DELIVERY_DATE" msprop:Generator_ColumnPropNameInTable="DELIVERY_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TRUCK_NO" msprop:Generator_UserColumnName="TRUCK_NO" msprop:Generator_ColumnVarNameInTable="columnTRUCK_NO" msprop:Generator_ColumnPropNameInRow="TRUCK_NO" msprop:Generator_ColumnPropNameInTable="TRUCK_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_UserColumnName="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="T_LOADING_DTL" msprop:Generator_UserTableName="T_LOADING_DTL" msprop:Generator_RowDeletedName="T_LOADING_DTLRowDeleted" msprop:Generator_RowChangedName="T_LOADING_DTLRowChanged" msprop:Generator_RowClassName="T_LOADING_DTLRow" msprop:Generator_RowChangingName="T_LOADING_DTLRowChanging" msprop:Generator_RowEvArgName="T_LOADING_DTLRowChangeEvent" msprop:Generator_RowEvHandlerName="T_LOADING_DTLRowChangeEventHandler" msprop:Generator_TableClassName="T_LOADING_DTLDataTable" msprop:Generator_TableVarName="tableT_LOADING_DTL" msprop:Generator_RowDeletingName="T_LOADING_DTLRowDeleting" msprop:Generator_TablePropName="T_LOADING_DTL">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LOADING_NO" msprop:Generator_UserColumnName="LOADING_NO" msprop:Generator_ColumnVarNameInTable="columnLOADING_NO" msprop:Generator_ColumnPropNameInRow="LOADING_NO" msprop:Generator_ColumnPropNameInTable="LOADING_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER" msprop:Generator_UserColumnName="CUSTOMER" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER" msprop:Generator_ColumnPropNameInRow="CUSTOMER" msprop:Generator_ColumnPropNameInTable="CUSTOMERColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PIC" msprop:Generator_UserColumnName="PIC" msprop:Generator_ColumnVarNameInTable="columnPIC" msprop:Generator_ColumnPropNameInRow="PIC" msprop:Generator_ColumnPropNameInTable="PICColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TEL" msprop:Generator_UserColumnName="TEL" msprop:Generator_ColumnVarNameInTable="columnTEL" msprop:Generator_ColumnPropNameInRow="TEL" msprop:Generator_ColumnPropNameInTable="TELColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SO_NO" msprop:Generator_UserColumnName="SO_NO" msprop:Generator_ColumnVarNameInTable="columnSO_NO" msprop:Generator_ColumnPropNameInRow="SO_NO" msprop:Generator_ColumnPropNameInTable="SO_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REF_NO" msprop:Generator_UserColumnName="REF_NO" msprop:Generator_ColumnVarNameInTable="columnREF_NO" msprop:Generator_ColumnPropNameInRow="REF_NO" msprop:Generator_ColumnPropNameInTable="REF_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NO" msprop:Generator_UserColumnName="PRODUCT_NO" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NO" msprop:Generator_ColumnPropNameInRow="PRODUCT_NO" msprop:Generator_ColumnPropNameInTable="PRODUCT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NAME" msprop:Generator_UserColumnName="PRODUCT_NAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NAME" msprop:Generator_ColumnPropNameInRow="PRODUCT_NAME" msprop:Generator_ColumnPropNameInTable="PRODUCT_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NO_OF_BOX" msprop:Generator_UserColumnName="NO_OF_BOX" msprop:Generator_ColumnPropNameInRow="NO_OF_BOX" msprop:Generator_ColumnVarNameInTable="columnNO_OF_BOX" msprop:Generator_ColumnPropNameInTable="NO_OF_BOXColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_UserColumnName="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIT" msprop:Generator_UserColumnName="UNIT" msprop:Generator_ColumnVarNameInTable="columnUNIT" msprop:Generator_ColumnPropNameInRow="UNIT" msprop:Generator_ColumnPropNameInTable="UNITColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="T_LOADING_HDRKey1">
+      <xs:selector xpath=".//mstns:T_LOADING_HDR" />
+      <xs:field xpath="mstns:LOADING_NO" />
+    </xs:unique>
+    <xs:unique name="T_LOADING_DTLKey1">
+      <xs:selector xpath=".//mstns:T_LOADING_DTL" />
+      <xs:field xpath="mstns:LOADING_NO" />
+      <xs:field xpath="mstns:SO_NO" />
+      <xs:field xpath="mstns:PRODUCT_NO" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="T_LOADING_HDR_T_LOADING_DTL" msdata:parent="T_LOADING_HDR" msdata:child="T_LOADING_DTL" msdata:parentkey="LOADING_NO" msdata:childkey="LOADING_NO" msprop:Generator_UserRelationName="T_LOADING_HDR_T_LOADING_DTL" msprop:Generator_RelationVarName="relationT_LOADING_HDR_T_LOADING_DTL" msprop:Generator_UserChildTable="T_LOADING_DTL" msprop:Generator_UserParentTable="T_LOADING_HDR" msprop:Generator_ParentPropName="T_LOADING_HDRRow" msprop:Generator_ChildPropName="GetT_LOADING_DTLRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

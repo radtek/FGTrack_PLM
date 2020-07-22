@@ -1,0 +1,158 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="BestFitMaxRowCount">-1</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="FocusRectStyle">RowFocus</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="NewItemRowText" />
+  <property name="GroupPanelText" />
+  <property name="PreviewFieldName" />
+  <property name="PreviewIndent">-1</property>
+  <property name="LevelIndent">-1</property>
+  <property name="GroupFooterShowMode">VisibleIfExpanded</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ViewCaption" />
+  <property name="DetailHeight">350</property>
+  <property name="Name">grvMachine</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Columns" iskey="true" value="4">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">97</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvMachine_col_MC_NO</property>
+      <property name="Caption">Machine No.</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">MC_NO</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">237</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvMachine_col_MACHINE_NAME</property>
+      <property name="Caption">Machine Name</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">MACHINE_NAME</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">123</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">2</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvMachine_col_MACHINE_SIZE</property>
+      <property name="Caption">Size</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">MACHINE_SIZE</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">grvMachine_col_MACHINE_TYPE</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">MACHINE_TYPE</property>
+    </property>
+  </property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="VertScrollTipFieldName" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+  </property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="FocusedRow" iskey="true" value="FocusedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FocusedCell" iskey="true" value="FocusedCell">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="SelectedRow" iskey="true" value="SelectedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="RowHeight">-1</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="Editable">false</property>
+  </property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="MRUFilters">~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxMS4yLCBWZXJzaW9uPTExLjIuOC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADZEZXZFeHByZXNzLlh0cmFHcmlkLlZpZXdzLkJhc2UuTVJVVmlld0ZpbHRlckNvbGxlY3Rpb24BAAAAE0NvbGxlY3Rpb25CYXNlK2xpc3QDHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QCAAAACQMAAAAEAwAAABxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24FAAAICAkEAAAAAQAAAAEAAAAQBAAAAAQAAAAJBQAAAA0DDAYAAABZRGV2RXhwcmVzcy5EYXRhLnYxMS4yLCBWZXJzaW9uPTExLjIuOC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFBQAAAClEZXZFeHByZXNzLlh0cmFHcmlkLlZpZXdzLkJhc2UuVmlld0ZpbHRlcgIAAAAYZk5vbkNvbHVtbkZpbHRlckNyaXRlcmlhE0NvbGxlY3Rpb25CYXNlK2xpc3QEAypEZXZFeHByZXNzLkRhdGEuRmlsdGVyaW5nLkNyaXRlcmlhT3BlcmF0b3IGAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QCAAAACgkHAAAAAQcAAAADAAAACQgAAAABAAAAAwAAABAIAAAABAAAAAkJAAAADQMMCgAAABlEZXZFeHByZXNzLlh0cmFHcmlkLnYxMS4yBQkAAAAzRGV2RXhwcmVzcy5YdHJhR3JpZC5WaWV3cy5CYXNlLlZpZXdDb2x1bW5GaWx0ZXJJbmZvAgAAAAZGaWx0ZXIGQ29sdW1uBAEsRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkNvbHVtbkZpbHRlckluZm8KAAAACgAAAAkLAAAABgwAAAAbZ3J2TWFjaGluZV9jb2xfTUFDSElORV9UWVBFBQsAAAAsRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkNvbHVtbkZpbHRlckluZm8FAAAABFR5cGUES2luZAtEaXNwbGF5VGV4dAxGaWx0ZXJTdHJpbmcFVmFsdWUAAAEBAggICgAAAAEAAAABAAAABg0AAAAABg4AAAAUW01BQ0hJTkVfVFlQRV0gPSAnSCcKCw==</property>
+  <property name="ActiveFilterString">[MACHINE_TYPE] = 'H'</property>
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

@@ -1,0 +1,5 @@
+D:\Projects\HTN_BITS\Trip_Compensation\TCS\TCS_BEL\bin\Release\HTN.BITS.TCS.BEL.dll
+D:\Projects\HTN_BITS\Trip_Compensation\TCS\TCS_BEL\bin\Release\HTN.BITS.TCS.BEL.pdb
+D:\Projects\HTN_BITS\Trip_Compensation\TCS\TCS_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HTN_BITS\Trip_Compensation\TCS\TCS_BEL\obj\Release\HTN.BITS.TCS.BEL.dll
+D:\Projects\HTN_BITS\Trip_Compensation\TCS\TCS_BEL\obj\Release\HTN.BITS.TCS.BEL.pdb

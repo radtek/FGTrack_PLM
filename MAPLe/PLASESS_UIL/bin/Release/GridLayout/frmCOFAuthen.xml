@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmCOFAuthen</FormName>
+  <GridControl />
+  <LastDefaultView />
+  <FormSize>
+    <Width>335</Width>
+    <Height>181</Height>
+  </FormSize>
+  <FormLocation>
+    <X>632</X>
+    <Y>344</Y>
+  </FormLocation>
+</FormConfigState>

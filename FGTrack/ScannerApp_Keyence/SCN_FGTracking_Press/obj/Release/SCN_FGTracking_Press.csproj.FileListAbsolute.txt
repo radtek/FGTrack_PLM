@@ -1,0 +1,235 @@
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmAssignNG.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmCheckUser.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCargo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCase.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirm.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirmRep.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmOKCargo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductFinish.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQC.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQCReturn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmReplenishmentConfirm.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmUtility.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.en-US.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.fr-CA.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\SCN_FGTracking_Press.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\app.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\Intermec.DataCollection.CF3.5.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\app.config
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe.config
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\Intermec.Device.CF3.5.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\Intermec.DataCollection.CF3.5.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmAssignNG.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmCheckUser.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmMainMenu.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCargo.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCase.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirm.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirmRep.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmOKCargo.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductCardInfo.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductFinish.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQC.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQCReturn.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmReplenishmentConfirm.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmUtility.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Properties.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.en-US.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.fr-CA.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\SCN_FGTracking_Press.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\bin\Release\Intermec.DataCollection.CF3.5.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProduction.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmAssignNG.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCase.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirm.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirmRep.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmOKCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductFinish.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProduction.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQC.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQCReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmReplenishmentConfirm.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.fr-CA.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\SCN_FGTracking_Press.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\app.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\btLibDefNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\btScanLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\btSysLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\app.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\btLibDefNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\btScanLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\btSysLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmAssignNG.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCase.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirm.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirmRep.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmOKCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductFinish.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProduction.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQC.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQCReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmReplenishmentConfirm.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.fr-CA.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\SCN_FGTracking_Press.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\app.config
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe.config
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmAssignNG.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmCheckUser.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmMainMenu.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCargo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCase.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirm.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirmRep.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmOKCargo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductCardInfo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductFinish.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProduction.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQC.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQCReturn.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmReplenishmentConfirm.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmUtility.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Properties.Resources.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.en-US.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.fr-CA.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\SCN_FGTracking_Press.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\app.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmAssignNG.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCargo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCase.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirmRep.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmOKCargo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductFinish.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProduction.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQC.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQCReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmReplenishmentConfirm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.fr-CA.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\SCN_FGTracking_Press.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\app.config
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe.config
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.PRESS.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\ResolveAssemblyReference.cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmAssignNG.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmCheckUser.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmMainMenu.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCargo.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\FGTracking_SCN.frmNGCase.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirm.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmNGConfirmRep.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmOKCargo.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductCardInfo.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProductFinish.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmProduction.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQC.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmQCReturn.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmReplenishmentConfirm.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.frmUtility.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Properties.Resources.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.en-US.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.Resources.Resources.fr-CA.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\SCN_FGTracking_Press.csproj.GenerateResource.Cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\en-US\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\fr-CA\HTN.BITS.FGTRACK.PRESS.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.exe
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Press\obj\Release\HTN.BITS.FGTRACK.PRESS.pdb

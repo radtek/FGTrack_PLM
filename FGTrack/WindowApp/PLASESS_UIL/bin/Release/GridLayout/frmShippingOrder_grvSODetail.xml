@@ -1,0 +1,2301 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="BestFitMaxRowCount">-1</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="FocusRectStyle">None</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="NewItemRowText" />
+  <property name="GroupPanelText" />
+  <property name="PreviewFieldName" />
+  <property name="PreviewIndent">-1</property>
+  <property name="LevelIndent">-1</property>
+  <property name="GroupFooterShowMode">VisibleIfExpanded</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ViewCaption" />
+  <property name="DetailHeight">350</property>
+  <property name="Name">grvSODetail</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Columns" iskey="true" value="17">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">73</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_PRODUCT_NO</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Product #</property>
+      <property name="ColumnEditName">grvSODetail_rps_btePRODUCT_NO</property>
+      <property name="FieldName">PRODUCT_NO</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">152</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_PRODUCT_NAME</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Product Name</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PRODUCT_NAME</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">80</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">2</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_PACKAGING</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Packaging</property>
+      <property name="ColumnEditName">grvSODetail_rps_luePACKAGING</property>
+      <property name="FieldName">PACKAGING</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">38</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">3</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_QTY</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Qty</property>
+      <property name="ColumnEditName">grvSODetail_rps_QTY</property>
+      <property name="FieldName">QTY</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">QTY</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Width">29</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">4</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_UNIT_ID</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Unit</property>
+      <property name="ColumnEditName">grvSODetail_rps_lueUNIT_ID</property>
+      <property name="FieldName">UNIT_ID</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Width">53</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0.00}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_UNIT_PRICE</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">@ Price</property>
+      <property name="ColumnEditName">grvSODetail_rps_UNIT_PRICE</property>
+      <property name="FieldName">UNIT_PRICE</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Width">63</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">6</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_PO_NO</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">P/O #</property>
+      <property name="ColumnEditName">grvSODetail_rps_PO_NO</property>
+      <property name="FieldName">PO_NO</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Width">46</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">5</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_NO_OF_BOX</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">No. Of Box</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">NO_OF_BOX</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">NO_OF_BOX</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Width">51</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">7</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_REMARK</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Remark</property>
+      <property name="ColumnEditName">grvSODetail_rps_REMARK</property>
+      <property name="FieldName">REMARK</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Width">40</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">8</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_FREE_STOCK</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Free</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">FREE_STOCK</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Width">46</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">9</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_ASSIGN_QTY</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Assigned</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">ASSIGN_QTY</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Custom</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">ASSIGN_QTY</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Width">42</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">10</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_PICKED_QTY</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Picked**</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PICKED_QTY</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Custom</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">PICKED_QTY</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Width">82</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">11</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvSODetail_col_LOADED_QTY</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Loaded**</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">LOADED_QTY</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Custom</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">LOADED_QTY</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Name">grvSODetail_col_SO_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">SO_NO</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Name">grvSODetail_col_LINE_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">LINE_NO</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Name">grvSODetail_col_PROD_SEQ_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">PROD_SEQ_NO</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Name">grvSODetail_col_FLAG</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">FLAG</property>
+    </property>
+  </property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="VertScrollTipFieldName" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+    <property name="ShowFooter">true</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="AllowCellMerge">true</property>
+  </property>
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="EnableAppearanceHideSelection">false</property>
+    <property name="EnableAppearanceFocusedRow">false</property>
+    <property name="EnableAppearanceFocusedCell">false</property>
+  </property>
+  <property name="OptionsNavigation" isnull="true" iskey="true">
+    <property name="EnterMoveNextColumn">true</property>
+  </property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="OptionsPrint" isnull="true" iskey="true">
+    <property name="UsePrintStyles">true</property>
+  </property>
+  <property name="FixedLineWidth">2</property>
+  <property name="AppearancePrint" isnull="true" iskey="true">
+    <property name="HeaderPanel" iskey="true" value="HeaderPanel">
+      <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+    </property>
+    <property name="FooterPanel" iskey="true" value="FooterPanel">
+      <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="FocusedRow" iskey="true" value="FocusedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FocusedCell" iskey="true" value="FocusedCell">
+      <property name="BackColor2">White</property>
+      <property name="BackColor">White</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FooterPanel" iskey="true" value="FooterPanel">
+      <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+    </property>
+    <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="SelectedRow" iskey="true" value="SelectedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="RowHeight">-1</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="AllowAddRows">False</property>
+  </property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="FormatConditions" iskey="true" value="153">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item42" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item43" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item44" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item45" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item46" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item47" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item48" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item49" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item50" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item51" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item52" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item53" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item54" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item55" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item56" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item57" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item58" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item59" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item60" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item61" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item62" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item63" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item64" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item65" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item66" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item67" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item68" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item69" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item70" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item71" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item72" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item73" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item74" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item75" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item76" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item77" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item78" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item79" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item80" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item81" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item82" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item83" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item84" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item85" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item86" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item87" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item88" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item89" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item90" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item91" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item92" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item93" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item94" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item95" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item96" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item97" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item98" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item99" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item100" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item101" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item102" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item103" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item104" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item105" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item106" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item107" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item108" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item109" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item110" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item111" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item112" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item113" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item114" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item115" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item116" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item117" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item118" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item119" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item120" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item121" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item122" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item123" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item124" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item125" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item126" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item127" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item128" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item129" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item130" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item131" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item132" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item133" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item134" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item135" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item136" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item137" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item138" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item139" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item140" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item141" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item142" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item143" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item144" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item145" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item146" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item147" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item148" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item149" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item150" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+    <property name="Item151" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &lt;&gt; [ASSIGN_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_ASSIGN_QTY</property>
+    </property>
+    <property name="Item152" isnull="true" iskey="true">
+      <property name="Expression">[QTY] &gt; [PICKED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_PICKED_QTY</property>
+    </property>
+    <property name="Item153" isnull="true" iskey="true">
+      <property name="Expression">[PICKED_QTY] &gt; 0 AND [PICKED_QTY] &lt;&gt; [LOADED_QTY]</property>
+      <property name="Appearance" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Condition">Expression</property>
+      <property name="ColumnName">grvSODetail_col_LOADED_QTY</property>
+    </property>
+  </property>
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

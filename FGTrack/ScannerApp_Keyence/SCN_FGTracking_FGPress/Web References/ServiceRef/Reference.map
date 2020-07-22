@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://10.211.107.16/FGTrack_PM_Service/Service_FGPRESS.asmx?disco" filename="Service_FGPRESS.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://10.211.107.16/FGTrack_PM_Service/Service_FGPRESS.asmx?wsdl" filename="Service_FGPRESS.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

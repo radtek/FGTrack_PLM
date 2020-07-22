@@ -1,0 +1,56 @@
+D:\Projects\OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.DAL.dll
+D:\Projects\OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.DAL.pdb
+D:\Projects\OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.Designer.dll
+D:\Projects\OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.Designer.pdb
+D:\Projects\OWNER\Number Statistics\NSLottor\SQLite_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\OWNER\Number Statistics\NSLottor\SQLite_DAL\obj\Release\SQLite.DAL.dll
+D:\Projects\OWNER\Number Statistics\NSLottor\SQLite_DAL\obj\Release\SQLite.DAL.pdb
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.DAL.dll
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.DAL.pdb
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.Designer.dll
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\System.Data.SQLite.dll
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\System.Data.SQLite.Linq.dll
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\System.Data.SQLite.pdb
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\SQLite.Designer.pdb
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\bin\Release\System.Data.SQLite.Linq.pdb
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\obj\Release\SQLite.DAL.dll
+D:\PROJECTS\PROJECT_OWNER\Number Statistics\NSLottor\SQLite_DAL\obj\Release\SQLite.DAL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\SQLite.DAL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\SQLite.DAL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\SQLite.Designer.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\System.Data.SQLite.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\System.Data.SQLite.Linq.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\System.Data.SQLite.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\SQLite.Designer.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\bin\Release\System.Data.SQLite.Linq.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\obj\Release\SQLite.DAL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\OUTSTANDING_REPORT\AROB\SQLite_DAL\obj\Release\SQLite.DAL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\HTN.BITS.SQLITE.DAL.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\HTN.BITS.SQLITE.DAL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\SQLite.Designer.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.Linq.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\HTN.BITS.SQLITE.DAL.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\HTN.BITS.SQLITE.DAL.pdb
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\SQLite.Designer.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.dll
+D:\PROJECTS\MY PROJECT\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.Linq.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\HTN.BITS.SQLITE.DAL.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\HTN.BITS.SQLITE.DAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\HTN.BITS.SQLITE.DAL.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\HTN.BITS.SQLITE.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\HTN.BITS.SQLITE.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\HTN.BITS.SQLITE.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\HTN.BITS.SQLITE.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\obj\Release\HTN.BITS.SQLITE.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\SQLite.Designer.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.Linq.dll
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\SQLite.Designer.pdb
+D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\SQLITE_DAL\bin\Release\System.Data.SQLite.Linq.pdb

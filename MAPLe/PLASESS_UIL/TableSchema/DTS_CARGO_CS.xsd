@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_CARGO_CS" targetNamespace="http://tempuri.org/DTS_CARGO_CS.xsd" xmlns:mstns="http://tempuri.org/DTS_CARGO_CS.xsd" xmlns="http://tempuri.org/DTS_CARGO_CS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_CARGO_CS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DTS_CARGO_CS" msprop:Generator_DataSetName="DTS_CARGO_CS" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_ARRIVAL_HDR" msprop:Generator_UserTableName="T_ARRIVAL_HDR" msprop:Generator_RowDeletedName="T_ARRIVAL_HDRRowDeleted" msprop:Generator_RowChangedName="T_ARRIVAL_HDRRowChanged" msprop:Generator_RowClassName="T_ARRIVAL_HDRRow" msprop:Generator_RowChangingName="T_ARRIVAL_HDRRowChanging" msprop:Generator_RowEvArgName="T_ARRIVAL_HDRRowChangeEvent" msprop:Generator_RowEvHandlerName="T_ARRIVAL_HDRRowChangeEventHandler" msprop:Generator_TableClassName="T_ARRIVAL_HDRDataTable" msprop:Generator_TableVarName="tableT_ARRIVAL_HDR" msprop:Generator_RowDeletingName="T_ARRIVAL_HDRRowDeleting" msprop:Generator_TablePropName="T_ARRIVAL_HDR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ARRIVAL_NO" msprop:Generator_UserColumnName="ARRIVAL_NO" msprop:Generator_ColumnVarNameInTable="columnARRIVAL_NO" msprop:Generator_ColumnPropNameInRow="ARRIVAL_NO" msprop:Generator_ColumnPropNameInTable="ARRIVAL_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ARRIVAL_DATE" msprop:Generator_UserColumnName="ARRIVAL_DATE" msprop:Generator_ColumnVarNameInTable="columnARRIVAL_DATE" msprop:Generator_ColumnPropNameInRow="ARRIVAL_DATE" msprop:Generator_ColumnPropNameInTable="ARRIVAL_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="WH_ID" msprop:Generator_UserColumnName="WH_ID" msprop:Generator_ColumnVarNameInTable="columnWH_ID" msprop:Generator_ColumnPropNameInRow="WH_ID" msprop:Generator_ColumnPropNameInTable="WH_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PARTY_ID" msprop:Generator_UserColumnName="PARTY_ID" msprop:Generator_ColumnVarNameInTable="columnPARTY_ID" msprop:Generator_ColumnPropNameInRow="PARTY_ID" msprop:Generator_ColumnPropNameInTable="PARTY_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REF_NO" msprop:Generator_UserColumnName="REF_NO" msprop:Generator_ColumnVarNameInTable="columnREF_NO" msprop:Generator_ColumnPropNameInRow="REF_NO" msprop:Generator_ColumnPropNameInTable="REF_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REF_DATE" msprop:Generator_UserColumnName="REF_DATE" msprop:Generator_ColumnVarNameInTable="columnREF_DATE" msprop:Generator_ColumnPropNameInRow="REF_DATE" msprop:Generator_ColumnPropNameInTable="REF_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_UserColumnName="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PARTY_NAME" msprop:Generator_UserColumnName="PARTY_NAME" msprop:Generator_ColumnVarNameInTable="columnPARTY_NAME" msprop:Generator_ColumnPropNameInRow="PARTY_NAME" msprop:Generator_ColumnPropNameInTable="PARTY_NAMEColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="T_ARRIVAL_DTL" msprop:Generator_UserTableName="T_ARRIVAL_DTL" msprop:Generator_RowDeletedName="T_ARRIVAL_DTLRowDeleted" msprop:Generator_RowChangedName="T_ARRIVAL_DTLRowChanged" msprop:Generator_RowClassName="T_ARRIVAL_DTLRow" msprop:Generator_RowChangingName="T_ARRIVAL_DTLRowChanging" msprop:Generator_RowEvArgName="T_ARRIVAL_DTLRowChangeEvent" msprop:Generator_RowEvHandlerName="T_ARRIVAL_DTLRowChangeEventHandler" msprop:Generator_TableClassName="T_ARRIVAL_DTLDataTable" msprop:Generator_TableVarName="tableT_ARRIVAL_DTL" msprop:Generator_RowDeletingName="T_ARRIVAL_DTLRowDeleting" msprop:Generator_TablePropName="T_ARRIVAL_DTL">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ARRIVAL_NO" msdata:Caption="ARRIVAL_DATE" msprop:Generator_UserColumnName="ARRIVAL_NO" msprop:Generator_ColumnVarNameInTable="columnARRIVAL_NO" msprop:Generator_ColumnPropNameInRow="ARRIVAL_NO" msprop:Generator_ColumnPropNameInTable="ARRIVAL_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LINE_NO" msdata:Caption="ARRIVAL_NO" msprop:Generator_UserColumnName="LINE_NO" msprop:Generator_ColumnVarNameInTable="columnLINE_NO" msprop:Generator_ColumnPropNameInRow="LINE_NO" msprop:Generator_ColumnPropNameInTable="LINE_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MTL_CODE" msdata:Caption="ARRIVAL_TYPE" msprop:Generator_UserColumnName="MTL_CODE" msprop:Generator_ColumnVarNameInTable="columnMTL_CODE" msprop:Generator_ColumnPropNameInRow="MTL_CODE" msprop:Generator_ColumnPropNameInTable="MTL_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MTL_NAME" msdata:Caption="CUST_NAME" msprop:Generator_UserColumnName="MTL_NAME" msprop:Generator_ColumnVarNameInTable="columnMTL_NAME" msprop:Generator_ColumnPropNameInRow="MTL_NAME" msprop:Generator_ColumnPropNameInTable="MTL_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTY" msdata:Caption="DOCUMENT_NO" msprop:Generator_UserColumnName="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NO_OF_LABEL" msprop:Generator_UserColumnName="NO_OF_LABEL" msprop:Generator_ColumnVarNameInTable="columnNO_OF_LABEL" msprop:Generator_ColumnPropNameInRow="NO_OF_LABEL" msprop:Generator_ColumnPropNameInTable="NO_OF_LABELColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIT_ID" msprop:Generator_UserColumnName="UNIT_ID" msprop:Generator_ColumnVarNameInTable="columnUNIT_ID" msprop:Generator_ColumnPropNameInRow="UNIT_ID" msprop:Generator_ColumnPropNameInTable="UNIT_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_UserColumnName="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MTL_GRADE" msprop:Generator_UserColumnName="MTL_GRADE" msprop:Generator_ColumnPropNameInRow="MTL_GRADE" msprop:Generator_ColumnVarNameInTable="columnMTL_GRADE" msprop:Generator_ColumnPropNameInTable="MTL_GRADEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MTL_COLOR" msprop:Generator_UserColumnName="MTL_COLOR" msprop:Generator_ColumnPropNameInRow="MTL_COLOR" msprop:Generator_ColumnVarNameInTable="columnMTL_COLOR" msprop:Generator_ColumnPropNameInTable="MTL_COLORColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="T_ARRIVAL_HDR_T_ARRIVAL_DTL" msdata:parent="T_ARRIVAL_HDR" msdata:child="T_ARRIVAL_DTL" msdata:parentkey="ARRIVAL_NO" msdata:childkey="ARRIVAL_NO" msprop:Generator_UserRelationName="T_ARRIVAL_HDR_T_ARRIVAL_DTL" msprop:Generator_RelationVarName="relationT_ARRIVAL_HDR_T_ARRIVAL_DTL" msprop:Generator_UserChildTable="T_ARRIVAL_DTL" msprop:Generator_UserParentTable="T_ARRIVAL_HDR" msprop:Generator_ParentPropName="T_ARRIVAL_HDRRow" msprop:Generator_ChildPropName="GetT_ARRIVAL_DTLRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,3248 @@
+"DeployProject"
+{
+"VSVersion" = "3:701"
+"ProjectType" = "8:{AB322303-2255-48EF-A496-5904EB18DA55}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:InitialSetupProject"
+"LanguageId" = "3:1033"
+"CodePage" = "3:1252"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_01653B46AEA8457887A07018DDB9706F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_064B1CDA4D934B0791603D713BCFD453"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_C52D84A692E44028A108E6573862C543"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_CC33BABD2FFF42F1A2E785D02EF1AAA1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_D026856A0F454074B737822320711D8C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_B8D2B905AAEC42D4853C9EEF96415AD3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_F41244A945DB4AF1ADE8055D64C03415"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_4425373BAF1044D3906B417818016447"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_A38406D14E9547BF92B7D3BE6D70258D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_84A1E59FBF07401A8CAB291A3BA56003"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "OwnerKey" = "8:_1B4B853D52124BCB8A5C5F193A1DE9EF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0A51AB81B9CB44DF8E4F3CC388B9A7F7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0A79CF938B9B41349B1CECB70A9F920D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0E3913CB185945E2BCF43C946F36876B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0F8AED5F98C642A691B142DF5C6FDF07"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1756CEB3357D4C408A03B89F2AFA7A37"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1942FF5522EC478BB25B131041E2A606"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_195D21E57BED4F9EA66D359C8F5F1B40"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1B4B853D52124BCB8A5C5F193A1DE9EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1F9722EA1C9D4990816E52B47EC1DE4A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_223AFD47267C4C47BF39419836771633"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_23FA5CEFFDBF49CDA90AF88D07B03DED"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_25E10C8A29199910154F8EBDAE6B19F6"
+        "OwnerKey" = "8:_C52D84A692E44028A108E6573862C543"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_266FFF1512034DC59FD1E9BD57422014"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_26DBDB8507FF4CB3834CF146983B1F30"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2C7D2A70BC3047DFA7045E28A03012B6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2F9DAF05A67C4FDFA77BA61964AA4458"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_195D21E57BED4F9EA66D359C8F5F1B40"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_266FFF1512034DC59FD1E9BD57422014"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_064B1CDA4D934B0791603D713BCFD453"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_974EC9544AB84239827689AF826DBA9D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_72776826972F4DA6A5970FC9FDDA5352"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_BB63D31B00A1418EABACAE780794D561"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_45A303A191154B0CB24C90D9FB10991C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_0A51AB81B9CB44DF8E4F3CC388B9A7F7"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_223AFD47267C4C47BF39419836771633"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+        "OwnerKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2FF8F68BFC6B4E6AA17789E4F40659A6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3445627F564E45C3A21EDFD0B96B57F5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3898607CD0768AFBB2EA2FBE83421637"
+        "OwnerKey" = "8:_C52D84A692E44028A108E6573862C543"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4425373BAF1044D3906B417818016447"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_45A303A191154B0CB24C90D9FB10991C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_4CD8FF5CF828468FAC5D06EB8C3F6664"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_53CC58236A5CBEEA2DE92938B6B81872"
+        "OwnerKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5971C0A407BB41D59493EBF01FC6A242"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5A9016A3B2E04C0082871908D97BBDDF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5E7AE2B465DB4CDEB9FDC96AF0AD1209"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6224B8A5415D4014A3A163C30A048E0F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_626D0A1CC5D940FDBB9AE6222BCD30B8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_64AF472BC7194E5C94D0FFDB37F805C2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6713686613E145A89482ABFC9ECE61A0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6850BF719608429FBCDE8C233E1D0281"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_69FD3844B2754809B13ACB0E2511D922"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6B894830CB5C408DABE2C78D1CB8D7D1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6FD192B45CCE486AA6D19C4E9C83568C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_71D2EFF02441480F95B3706DA6F1FCC3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_72776826972F4DA6A5970FC9FDDA5352"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_768DC6B735CA4EDF8D4D1B0B49E2189F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7AB27F69F23640DD91CF2556C6834FCA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_805A8499226A45C592912250AE4DF64F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_84A1E59FBF07401A8CAB291A3BA56003"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_87B6FB49CF29435EA36B840643A7EC34"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8FA7D0D179CD425F97AFC34F437F705D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_974EC9544AB84239827689AF826DBA9D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_69FD3844B2754809B13ACB0E2511D922"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_6224B8A5415D4014A3A163C30A048E0F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_23FA5CEFFDBF49CDA90AF88D07B03DED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_0F8AED5F98C642A691B142DF5C6FDF07"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_C77DE601CA1B4C2A8E06A65BD08B5047"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_5E7AE2B465DB4CDEB9FDC96AF0AD1209"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_64AF472BC7194E5C94D0FFDB37F805C2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_F9C38630B7DE439D9C6F81CCE25B4194"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_626D0A1CC5D940FDBB9AE6222BCD30B8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_2F9DAF05A67C4FDFA77BA61964AA4458"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_DC747AB276A94B699236C9C2AF94AE80"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_6850BF719608429FBCDE8C233E1D0281"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_805A8499226A45C592912250AE4DF64F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_C0F47E89EDE949B68A642834952C1C2F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_6FD192B45CCE486AA6D19C4E9C83568C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_EED4B195B7F44F69A86CFD29C8BC7011"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_0E3913CB185945E2BCF43C946F36876B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+        "OwnerKey" = "8:_2FF8F68BFC6B4E6AA17789E4F40659A6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9C7A45E8A4AA4B6E94E142FA1872035A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9D47C1A953F5875110140221ADB8C7B3"
+        "OwnerKey" = "8:_C52D84A692E44028A108E6573862C543"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9EE45B4EB00B4ABDB3FC482FF34BE759"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A38406D14E9547BF92B7D3BE6D70258D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A88BD76FE5FA4415A425D38956513F5D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A90AD88396B24ED1A6DEE2E795CE557C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AA7A99974E0B465BAD1922F94687AE45"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B2BDE5D9DE504CE8A6A5ABD16BA0B7D0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B32543A2CE8B4274A0E9E6A7A15B6057"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B8D2B905AAEC42D4853C9EEF96415AD3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BB63D31B00A1418EABACAE780794D561"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C0F47E89EDE949B68A642834952C1C2F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C52D84A692E44028A108E6573862C543"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C77DE601CA1B4C2A8E06A65BD08B5047"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CC33BABD2FFF42F1A2E785D02EF1AAA1"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D026856A0F454074B737822320711D8C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D0D010BEA1974B7FBAFF8E3A57A16773"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D45094615A434D838ABFD5C5EE1838F6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DC747AB276A94B699236C9C2AF94AE80"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E464152D9EE749EABA2D0559706CA689"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EA7C1747A79446A986A79B3EC6DE985C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EED4B195B7F44F69A86CFD29C8BC7011"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F38221320A3940E79BE728F858984B77"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F41244A945DB4AF1ADE8055D64C03415"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F7D2EB573F3D41FB8E7C8D9BF63AFB5E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_195D21E57BED4F9EA66D359C8F5F1B40"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_CC33BABD2FFF42F1A2E785D02EF1AAA1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_266FFF1512034DC59FD1E9BD57422014"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_D026856A0F454074B737822320711D8C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_064B1CDA4D934B0791603D713BCFD453"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_B8D2B905AAEC42D4853C9EEF96415AD3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_974EC9544AB84239827689AF826DBA9D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_F41244A945DB4AF1ADE8055D64C03415"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_72776826972F4DA6A5970FC9FDDA5352"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_4425373BAF1044D3906B417818016447"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_BB63D31B00A1418EABACAE780794D561"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_45A303A191154B0CB24C90D9FB10991C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_A38406D14E9547BF92B7D3BE6D70258D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_0A51AB81B9CB44DF8E4F3CC388B9A7F7"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_84A1E59FBF07401A8CAB291A3BA56003"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_223AFD47267C4C47BF39419836771633"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_1B4B853D52124BCB8A5C5F193A1DE9EF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_06D2C4A4095A88DA8589BC4102B42B61"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F98A8684F8F536AF52C1E51A62A0A47C"
+        "OwnerKey" = "8:_C52D84A692E44028A108E6573862C543"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F9C38630B7DE439D9C6F81CCE25B4194"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\InitialSetupProject.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\InitialSetupProject.cab"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "SignOutput" = "11:FALSE"
+        "CertificateHash" = "8:"
+        "TimeStampServer" = "8:"
+        }
+    }
+    "Deployable"
+    {
+        "File"
+        {
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_01653B46AEA8457887A07018DDB9706F"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_01653B46AEA8457887A07018DDB9706F"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtsttampo\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_BC78CC222D294ECB9AC016D60CA9CC86"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_064B1CDA4D934B0791603D713BCFD453"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_064B1CDA4D934B0791603D713BCFD453"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtstwhs\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_710BD8DA7C574C50AE48E081B077D56E"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_06D2C4A4095A88DA8589BC4102B42B61"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_06D2C4A4095A88DA8589BC4102B42B61"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.LIB.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:HTN.BITS.FGTRACK.LIB.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_0A51AB81B9CB44DF8E4F3CC388B9A7F7"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_0A51AB81B9CB44DF8E4F3CC388B9A7F7"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgwhs\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_07FA51CAA69146DAB3218A3674D2D80F"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_0A79CF938B9B41349B1CECB70A9F920D"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_0A79CF938B9B41349B1CECB70A9F920D"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_press\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_11E2D63DEBD847C9BF4FE0D28238C563"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_0E3913CB185945E2BCF43C946F36876B"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.FGPRESS.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_0E3913CB185945E2BCF43C946F36876B"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.FGPRESS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgpress\\en-US\\HTN.BITS.FGTRACK.FGPRESS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_B522D6219A5847879F1016D2D2B2D901"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_0F8AED5F98C642A691B142DF5C6FDF07"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.MTSTWHS.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_0F8AED5F98C642A691B142DF5C6FDF07"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.MTSTWHS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtstwhs\\fr-CA\\HTN.BITS.FGTRACK.MTSTWHS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_32A0F2D9A47448C7A92B9A21D9BE8415"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_1756CEB3357D4C408A03B89F2AFA7A37"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtstwhs\\HTN.BITS.FGTRACK.MTSTWHS.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.MTSTWHS.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_710BD8DA7C574C50AE48E081B077D56E"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_1942FF5522EC478BB25B131041E2A606"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_1942FF5522EC478BB25B131041E2A606"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgwhs\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_07FA51CAA69146DAB3218A3674D2D80F"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_195D21E57BED4F9EA66D359C8F5F1B40"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_195D21E57BED4F9EA66D359C8F5F1B40"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_1B4B853D52124BCB8A5C5F193A1DE9EF"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.FGPRESS, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_1B4B853D52124BCB8A5C5F193A1DE9EF"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.FGPRESS.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgpress\\HTN.BITS.FGTRACK.FGPRESS.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CF892267B6D64E448EDD8A9C970C1571"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_1F9722EA1C9D4990816E52B47EC1DE4A"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_1F9722EA1C9D4990816E52B47EC1DE4A"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgwhs\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_07FA51CAA69146DAB3218A3674D2D80F"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_223AFD47267C4C47BF39419836771633"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_223AFD47267C4C47BF39419836771633"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgpress\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CF892267B6D64E448EDD8A9C970C1571"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_23FA5CEFFDBF49CDA90AF88D07B03DED"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.PRESS.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_23FA5CEFFDBF49CDA90AF88D07B03DED"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.PRESS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_press\\en-US\\HTN.BITS.FGTRACK.PRESS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_535E101F441F4491B842E51C8BD08602"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_25E10C8A29199910154F8EBDAE6B19F6"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:MobileProcessBarControl, Version=1.0.4182.19702, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_25E10C8A29199910154F8EBDAE6B19F6"
+                    {
+                    "Name" = "8:MobileProcessBarControl.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:MobileProcessBarControl.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_266FFF1512034DC59FD1E9BD57422014"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_266FFF1512034DC59FD1E9BD57422014"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_press\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_11E2D63DEBD847C9BF4FE0D28238C563"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_26DBDB8507FF4CB3834CF146983B1F30"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\HTN.BITS.SCN.LOCKDOWN.exe.config"
+            "TargetName" = "8:HTN.BITS.SCN.LOCKDOWN.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_2C7D2A70BC3047DFA7045E28A03012B6"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgpress\\HTN.BITS.FGTRACK.FGPRESS.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.FGPRESS.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_CF892267B6D64E448EDD8A9C970C1571"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_2F9DAF05A67C4FDFA77BA61964AA4458"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.Vertical.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_2F9DAF05A67C4FDFA77BA61964AA4458"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.Vertical.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\fr-CA\\HTN.BITS.FGTRACK.Vertical.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_18117C648391444E9A2768A44A443C47"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_2FA2048DD32A8712FCD4FC93CD08D6E7"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_2FA2048DD32A8712FCD4FC93CD08D6E7"
+                    {
+                    "Name" = "8:Intermec.Device.CF3.5.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Intermec.Device.CF3.5.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_2FF8F68BFC6B4E6AA17789E4F40659A6"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.SCN.LOCKDOWN.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_2FF8F68BFC6B4E6AA17789E4F40659A6"
+                    {
+                    "Name" = "8:HTN.BITS.SCN.LOCKDOWN.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\fr-CA\\HTN.BITS.SCN.LOCKDOWN.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_649C2ED822A7443A9049F1E14999EAF9"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_3445627F564E45C3A21EDFD0B96B57F5"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgwhs\\HTN.BITS.FGTRACK.FGWHS.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.FGWHS.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_07FA51CAA69146DAB3218A3674D2D80F"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_3898607CD0768AFBB2EA2FBE83421637"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SoapExtensionLib, Version=1.0.4428.28681, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_3898607CD0768AFBB2EA2FBE83421637"
+                    {
+                    "Name" = "8:SoapExtensionLib.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:SoapExtensionLib.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_4425373BAF1044D3906B417818016447"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.Vertical, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_4425373BAF1044D3906B417818016447"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.Vertical.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\HTN.BITS.FGTRACK.Vertical.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_513A50A511614068AAF4F5211FFF6724"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_45A303A191154B0CB24C90D9FB10991C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_45A303A191154B0CB24C90D9FB10991C"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_horizontal\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_15409E89898C4488B9595DD4A1632116"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_4CD8FF5CF828468FAC5D06EB8C3F6664"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_4CD8FF5CF828468FAC5D06EB8C3F6664"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_53CC58236A5CBEEA2DE92938B6B81872"
+            {
+            "SourcePath" = "8:mscorlib.tlb"
+            "TargetName" = "8:mscorlib.tlb"
+            "Tag" = "8:"
+            "Folder" = "8:_CE814F35C0A04DBBB7E1A4942D08D365"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_5971C0A407BB41D59493EBF01FC6A242"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_5971C0A407BB41D59493EBF01FC6A242"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_tampo\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_7AD2DDC6A1604606BFCA12EB87167BC9"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_5A9016A3B2E04C0082871908D97BBDDF"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_5A9016A3B2E04C0082871908D97BBDDF"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_513A50A511614068AAF4F5211FFF6724"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_5E7AE2B465DB4CDEB9FDC96AF0AD1209"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.MTSTTAMPO.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_5E7AE2B465DB4CDEB9FDC96AF0AD1209"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtsttampo\\fr-CA\\HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_296C73B5C06B49F98D4F47194E0C9C17"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6224B8A5415D4014A3A163C30A048E0F"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.PRESS.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_6224B8A5415D4014A3A163C30A048E0F"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.PRESS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_press\\fr-CA\\HTN.BITS.FGTRACK.PRESS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_7CF970D75D784B6B895C272423DD5C22"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_626D0A1CC5D940FDBB9AE6222BCD30B8"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.TAMPO.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_626D0A1CC5D940FDBB9AE6222BCD30B8"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.TAMPO.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_tampo\\en-US\\HTN.BITS.FGTRACK.TAMPO.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_911BF328DD0D42DE9149C953B38781FE"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_64AF472BC7194E5C94D0FFDB37F805C2"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.MTSTTAMPO.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_64AF472BC7194E5C94D0FFDB37F805C2"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtsttampo\\en-US\\HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_8466931B41004D9A838DE1C22B90B0FB"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6713686613E145A89482ABFC9ECE61A0"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SoapExtensionLib, Version=1.0.4428.28681, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_6713686613E145A89482ABFC9ECE61A0"
+                    {
+                    "Name" = "8:soapextensionlib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\soapextensionlib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6850BF719608429FBCDE8C233E1D0281"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.HORIZONTAL.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_6850BF719608429FBCDE8C233E1D0281"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.HORIZONTAL.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_horizontal\\fr-CA\\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_4F2DAD42EE244402AB4A5777C7B4CED0"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_69FD3844B2754809B13ACB0E2511D922"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.SCN.LOCKDOWN.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_69FD3844B2754809B13ACB0E2511D922"
+                    {
+                    "Name" = "8:HTN.BITS.SCN.LOCKDOWN.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\en-US\\HTN.BITS.SCN.LOCKDOWN.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CE814F35C0A04DBBB7E1A4942D08D365"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6B894830CB5C408DABE2C78D1CB8D7D1"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_6B894830CB5C408DABE2C78D1CB8D7D1"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtstwhs\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_710BD8DA7C574C50AE48E081B077D56E"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_6FD192B45CCE486AA6D19C4E9C83568C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.FGWHS.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_6FD192B45CCE486AA6D19C4E9C83568C"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.FGWHS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgwhs\\en-US\\HTN.BITS.FGTRACK.FGWHS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_132495578ABE4040A286624806D8CDB0"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_71D2EFF02441480F95B3706DA6F1FCC3"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_press\\HTN.BITS.FGTRACK.PRESS.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.PRESS.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_11E2D63DEBD847C9BF4FE0D28238C563"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_72776826972F4DA6A5970FC9FDDA5352"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_72776826972F4DA6A5970FC9FDDA5352"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_tampo\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_7AD2DDC6A1604606BFCA12EB87167BC9"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_768DC6B735CA4EDF8D4D1B0B49E2189F"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtsttampo\\HTN.BITS.FGTRACK.MTSTTAMPO.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.MTSTTAMPO.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_BC78CC222D294ECB9AC016D60CA9CC86"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_7AB27F69F23640DD91CF2556C6834FCA"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_7AB27F69F23640DD91CF2556C6834FCA"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_513A50A511614068AAF4F5211FFF6724"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_805A8499226A45C592912250AE4DF64F"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.HORIZONTAL.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_805A8499226A45C592912250AE4DF64F"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.HORIZONTAL.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_horizontal\\en-US\\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_C8331F2351AC4AD1994EC63D56F64CA5"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_84A1E59FBF07401A8CAB291A3BA56003"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.FGWHS, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_84A1E59FBF07401A8CAB291A3BA56003"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.FGWHS.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgwhs\\HTN.BITS.FGTRACK.FGWHS.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_07FA51CAA69146DAB3218A3674D2D80F"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_87B6FB49CF29435EA36B840643A7EC34"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_87B6FB49CF29435EA36B840643A7EC34"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_horizontal\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_15409E89898C4488B9595DD4A1632116"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_8FA7D0D179CD425F97AFC34F437F705D"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_8FA7D0D179CD425F97AFC34F437F705D"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgpress\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CF892267B6D64E448EDD8A9C970C1571"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_974EC9544AB84239827689AF826DBA9D"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_974EC9544AB84239827689AF826DBA9D"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtsttampo\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_BC78CC222D294ECB9AC016D60CA9CC86"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_998FBD6570EC77D3F6259A3FB7A2D3D0"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                "ScatterAssemblies"
+                {
+                    "_00573DA2F59FA285B65BA152BA9B430C"
+                    {
+                    "Name" = "8:prcp.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_22EAA1D3A2AC3D092DFD2EF0E71B0A2C"
+                    {
+                    "Name" = "8:bopomofo.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_2510A49E8A15D5A777C49180BF2FA0E5"
+                    {
+                    "Name" = "8:normidna.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_34BDA0FF9D2349D5505A2C545C51641C"
+                    {
+                    "Name" = "8:prc.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_64F28CBE4A69AE59ADDBBA3129BD1447"
+                    {
+                    "Name" = "8:xjis.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_655B91E15EA5BD1ACF98BB6D6865DDA4"
+                    {
+                    "Name" = "8:normnfc.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_8AC1A0D777CA0EFFAF74C4F99B0E80F2"
+                    {
+                    "Name" = "8:normnfd.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_998FBD6570EC77D3F6259A3FB7A2D3D0"
+                    {
+                    "Name" = "8:mscorlib.DLL"
+                    "Attributes" = "3:512"
+                    }
+                    "_B4DC1EFB914306A35F5CA0DF8C540014"
+                    {
+                    "Name" = "8:normnfkc.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_C6DB26FA4EB3359E76234F2D39F0ACC4"
+                    {
+                    "Name" = "8:sortkey.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_E97FC894CED696C78BC495EC3A1BFE7F"
+                    {
+                    "Name" = "8:normnfkd.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_F2E7628E0E4A031A0642C39CDDA1B51F"
+                    {
+                    "Name" = "8:sorttbls.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_F75AFF9596016465F18ADB4053F032FF"
+                    {
+                    "Name" = "8:big5.nlp"
+                    "Attributes" = "3:1"
+                    }
+                    "_FFF898401508EDB0BBB4AAE5D48F4698"
+                    {
+                    "Name" = "8:ksc.nlp"
+                    "Attributes" = "3:1"
+                    }
+                }
+            "SourcePath" = "8:mscorlib.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CE814F35C0A04DBBB7E1A4942D08D365"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_9C7A45E8A4AA4B6E94E142FA1872035A"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\HTN.BITS.FGTRACK.Vertical.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.Vertical.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_513A50A511614068AAF4F5211FFF6724"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_9D47C1A953F5875110140221ADB8C7B3"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Ionic.Zip.CF, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c"
+                "ScatterAssemblies"
+                {
+                    "_9D47C1A953F5875110140221ADB8C7B3"
+                    {
+                    "Name" = "8:Ionic.Zip.CF.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Ionic.Zip.CF.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_9EE45B4EB00B4ABDB3FC482FF34BE759"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_9EE45B4EB00B4ABDB3FC482FF34BE759"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_A38406D14E9547BF92B7D3BE6D70258D"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.HORIZONTAL, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_A38406D14E9547BF92B7D3BE6D70258D"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.HORIZONTAL.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_horizontal\\HTN.BITS.FGTRACK.HORIZONTAL.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_15409E89898C4488B9595DD4A1632116"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_A88BD76FE5FA4415A425D38956513F5D"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_A88BD76FE5FA4415A425D38956513F5D"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_horizontal\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_15409E89898C4488B9595DD4A1632116"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_A90AD88396B24ED1A6DEE2E795CE557C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_A90AD88396B24ED1A6DEE2E795CE557C"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtsttampo\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_BC78CC222D294ECB9AC016D60CA9CC86"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_AA7A99974E0B465BAD1922F94687AE45"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_AA7A99974E0B465BAD1922F94687AE45"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgpress\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_CF892267B6D64E448EDD8A9C970C1571"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_B2BDE5D9DE504CE8A6A5ABD16BA0B7D0"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_horizontal\\HTN.BITS.FGTRACK.HORIZONTAL.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.HORIZONTAL.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_15409E89898C4488B9595DD4A1632116"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B32543A2CE8B4274A0E9E6A7A15B6057"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Ionic.Zip.CF, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c"
+                "ScatterAssemblies"
+                {
+                    "_B32543A2CE8B4274A0E9E6A7A15B6057"
+                    {
+                    "Name" = "8:ionic.zip.cf.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\ionic.zip.cf.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B8D2B905AAEC42D4853C9EEF96415AD3"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.MTSTTAMPO, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_B8D2B905AAEC42D4853C9EEF96415AD3"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.MTSTTAMPO.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtsttampo\\HTN.BITS.FGTRACK.MTSTTAMPO.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_BC78CC222D294ECB9AC016D60CA9CC86"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_BB63D31B00A1418EABACAE780794D561"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.LIB, Version=1.0.4434.27257, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_BB63D31B00A1418EABACAE780794D561"
+                    {
+                    "Name" = "8:htn.bits.fgtrack.lib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\htn.bits.fgtrack.lib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_513A50A511614068AAF4F5211FFF6724"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_C0F47E89EDE949B68A642834952C1C2F"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.FGWHS.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_C0F47E89EDE949B68A642834952C1C2F"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.FGWHS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgwhs\\fr-CA\\HTN.BITS.FGTRACK.FGWHS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9ABCDC66C7CB4F1DB0782024AFA7FD2D"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_C52D84A692E44028A108E6573862C543"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.SCN.LOCKDOWN, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_C52D84A692E44028A108E6573862C543"
+                    {
+                    "Name" = "8:HTN.BITS.SCN.LOCKDOWN.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\HTN.BITS.SCN.LOCKDOWN.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_C77DE601CA1B4C2A8E06A65BD08B5047"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.MTSTWHS.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_C77DE601CA1B4C2A8E06A65BD08B5047"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.MTSTWHS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtstwhs\\en-US\\HTN.BITS.FGTRACK.MTSTWHS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_156960F2FBBC4E569C8332F7A10A34D0"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_CC33BABD2FFF42F1A2E785D02EF1AAA1"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.PRESS, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_CC33BABD2FFF42F1A2E785D02EF1AAA1"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.PRESS.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_press\\HTN.BITS.FGTRACK.PRESS.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_11E2D63DEBD847C9BF4FE0D28238C563"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_D026856A0F454074B737822320711D8C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.MTSTWHS, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_D026856A0F454074B737822320711D8C"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.MTSTWHS.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtstwhs\\HTN.BITS.FGTRACK.MTSTWHS.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_710BD8DA7C574C50AE48E081B077D56E"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_D0D010BEA1974B7FBAFF8E3A57A16773"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.Device.CF3.5, Version=3.2.0.1416, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_D0D010BEA1974B7FBAFF8E3A57A16773"
+                    {
+                    "Name" = "8:intermec.device.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_tampo\\intermec.device.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_7AD2DDC6A1604606BFCA12EB87167BC9"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_D45094615A434D838ABFD5C5EE1838F6"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_D45094615A434D838ABFD5C5EE1838F6"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_mtstwhs\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_710BD8DA7C574C50AE48E081B077D56E"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_DC747AB276A94B699236C9C2AF94AE80"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.Vertical.resources, Version=1.0.0.0, Culture=en-US"
+                "ScatterAssemblies"
+                {
+                    "_DC747AB276A94B699236C9C2AF94AE80"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.Vertical.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\en-US\\HTN.BITS.FGTRACK.Vertical.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_A49023BBC64B4DD7AF9B032F0BD426CD"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_E464152D9EE749EABA2D0559706CA689"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CheckUpdateApp, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_E464152D9EE749EABA2D0559706CA689"
+                    {
+                    "Name" = "8:checkupdateapp.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_vertical\\checkupdateapp.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_513A50A511614068AAF4F5211FFF6724"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{BA458234-9B71-4F46-8107-E91156377184}:_EA7C1747A79446A986A79B3EC6DE985C"
+            {
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_tampo\\HTN.BITS.FGTRACK.TAMPO.exe.config"
+            "TargetName" = "8:HTN.BITS.FGTRACK.TAMPO.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_7AD2DDC6A1604606BFCA12EB87167BC9"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_EED4B195B7F44F69A86CFD29C8BC7011"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.FGPRESS.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_EED4B195B7F44F69A86CFD29C8BC7011"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.FGPRESS.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_fgpress\\fr-CA\\HTN.BITS.FGTRACK.FGPRESS.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_A3034AE4FD334BA8869B735A8A7252FB"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_F38221320A3940E79BE728F858984B77"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:MobileProcessBarControl, Version=1.0.4182.19702, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_F38221320A3940E79BE728F858984B77"
+                    {
+                    "Name" = "8:mobileprocessbarcontrol.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\bits_lockdown\\mobileprocessbarcontrol.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_F41244A945DB4AF1ADE8055D64C03415"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.TAMPO, Version=1.0.0.0, Culture=neutral"
+                "ScatterAssemblies"
+                {
+                    "_F41244A945DB4AF1ADE8055D64C03415"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.TAMPO.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_tampo\\HTN.BITS.FGTRACK.TAMPO.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_7AD2DDC6A1604606BFCA12EB87167BC9"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_F7D2EB573F3D41FB8E7C8D9BF63AFB5E"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_F7D2EB573F3D41FB8E7C8D9BF63AFB5E"
+                    {
+                    "Name" = "8:intermec.datacollection.cf3.5.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_press\\intermec.datacollection.cf3.5.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_11E2D63DEBD847C9BF4FE0D28238C563"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_F98A8684F8F536AF52C1E51A62A0A47C"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Intermec.DataCollection.CF3.5, Version=4.2.0.1785, Culture=neutral, PublicKeyToken=acd169b56b6148ba"
+                "ScatterAssemblies"
+                {
+                    "_F98A8684F8F536AF52C1E51A62A0A47C"
+                    {
+                    "Name" = "8:Intermec.DataCollection.CF3.5.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Intermec.DataCollection.CF3.5.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_F9C38630B7DE439D9C6F81CCE25B4194"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:HTN.BITS.FGTRACK.TAMPO.resources, Version=1.0.0.0, Culture=fr-CA"
+                "ScatterAssemblies"
+                {
+                    "_F9C38630B7DE439D9C6F81CCE25B4194"
+                    {
+                    "Name" = "8:HTN.BITS.FGTRACK.TAMPO.resources.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\Update Scanner 22 FEB 2012\\fgtracking_tampo\\fr-CA\\HTN.BITS.FGTRACK.TAMPO.resources.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_76E8454486644EB4A5FF3BF5C71B295B"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "Folder"
+        {
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_583613331D684B06ADAF7D9013760242"
+            {
+            "Name" = "8:#1913"
+            "Condition" = "8:"
+            "Property" = "8:%CE4%"
+                "Folders"
+                {
+                }
+            }
+            "{D5B00AC1-E6C3-4CC5-90FF-8E0F53D9E5E0}:_5A1FFFCE2C814CC0BAD8017303806B64"
+            {
+            "DefaultLocation" = "8:%InstallDir%"
+            "Name" = "8:#1920"
+            "Condition" = "8:"
+            "Property" = "8:%InstallDir%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_D3A2D6FF1CE140B78CAA55405DB2AD4F"
+            {
+            "Name" = "8:#1919"
+            "Condition" = "8:"
+            "Property" = "8:%CE17%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_E7DA969C2A9C4BB9B62D13FCB6931DDB"
+            {
+            "Name" = "8:#1916"
+            "Condition" = "8:"
+            "Property" = "8:%CE11%"
+                "Folders"
+                {
+                }
+            }
+            "{F6DFDB62-1DD1-498B-89B7-27BAC542EE5A}:_EA5A41C04D184822A2B0B6FC2E9B1659"
+            {
+            "Name" = "8:#1911"
+            "Condition" = "8:"
+            "Property" = "8:%CE1%"
+                "Folders"
+                {
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_0482EBF9C7144F9DB1B788F50FD680D7"
+                    {
+                    "Name" = "8:bits_lockdown"
+                    "Condition" = "8:"
+                    "Property" = "8:_94DCE53702434863A38B08BBCD3E4801"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_649C2ED822A7443A9049F1E14999EAF9"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_12A5784D86CC47808F71130536F77453"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_CE814F35C0A04DBBB7E1A4942D08D365"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_57DE761F0D9B4C388B2FA5C8ABDD1807"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_07FA51CAA69146DAB3218A3674D2D80F"
+                    {
+                    "Name" = "8:fgtracking_fgwhs"
+                    "Condition" = "8:"
+                    "Property" = "8:_EF51D076F10E48818C942CA41C7ABB4F"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_132495578ABE4040A286624806D8CDB0"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_788DA969FB674461967E469A6385FBD6"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_9ABCDC66C7CB4F1DB0782024AFA7FD2D"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_B9062BD8102941218EA9A5171BFB8912"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_11E2D63DEBD847C9BF4FE0D28238C563"
+                    {
+                    "Name" = "8:fgtracking_press"
+                    "Condition" = "8:"
+                    "Property" = "8:_9D16D153C9614539802E840E92DD436C"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_535E101F441F4491B842E51C8BD08602"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_292893958EE846A89352EFBBFAC63247"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_7CF970D75D784B6B895C272423DD5C22"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_229AAC303AEA4573BE85F291486B5B80"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_15409E89898C4488B9595DD4A1632116"
+                    {
+                    "Name" = "8:fgtracking_horizontal"
+                    "Condition" = "8:"
+                    "Property" = "8:_8FDCE6F871594C67A314B4E906EDF494"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_4F2DAD42EE244402AB4A5777C7B4CED0"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_2B4331849CC5458899CCCBB5672D37B5"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_C8331F2351AC4AD1994EC63D56F64CA5"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_BDD79B4E1F484FB49850221F54B9F141"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_513A50A511614068AAF4F5211FFF6724"
+                    {
+                    "Name" = "8:fgtracking_vertical"
+                    "Condition" = "8:"
+                    "Property" = "8:_E91FB76493B445689C5ED174FFC33312"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_18117C648391444E9A2768A44A443C47"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_A7E313ECD907493D9EA3A385D7AE23AA"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_A49023BBC64B4DD7AF9B032F0BD426CD"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_E9437F3FA31B49FDBEE8BEAB5BD64CDF"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_710BD8DA7C574C50AE48E081B077D56E"
+                    {
+                    "Name" = "8:fgtracking_mtstwhs"
+                    "Condition" = "8:"
+                    "Property" = "8:_7920521C2A5A4E6AAB244025B417168D"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_156960F2FBBC4E569C8332F7A10A34D0"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_A96BAD758EAA4B3C9D4CEBD50C47D8EA"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_32A0F2D9A47448C7A92B9A21D9BE8415"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_4C2EEF0D861E47E995EB58E361691888"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_7AD2DDC6A1604606BFCA12EB87167BC9"
+                    {
+                    "Name" = "8:fgtracking_tampo"
+                    "Condition" = "8:"
+                    "Property" = "8:_76C95FF722E747BEACA2E19DAD748E2D"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_76E8454486644EB4A5FF3BF5C71B295B"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_9D09A1BC2B334BCC90064376927F955C"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_911BF328DD0D42DE9149C953B38781FE"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_6E8DC246CE264015BA9B4FA38E1A973D"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_BC78CC222D294ECB9AC016D60CA9CC86"
+                    {
+                    "Name" = "8:fgtracking_mtsttampo"
+                    "Condition" = "8:"
+                    "Property" = "8:_017C9A944C64467FA85A4321D3EAC9D7"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_296C73B5C06B49F98D4F47194E0C9C17"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_6266027C51AB4E6494EE35AB8FEB14D2"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_8466931B41004D9A838DE1C22B90B0FB"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_7CD56F906E144EC5A478153EE0809DAE"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                    "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_CF892267B6D64E448EDD8A9C970C1571"
+                    {
+                    "Name" = "8:fgtracking_fgpress"
+                    "Condition" = "8:"
+                    "Property" = "8:_C5BC370347EA411C99E522B2E53BFB8A"
+                        "Folders"
+                        {
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_A3034AE4FD334BA8869B735A8A7252FB"
+                            {
+                            "Name" = "8:fr-CA"
+                            "Condition" = "8:"
+                            "Property" = "8:_6FFDA0CEA73B4C72BC4CD3A31D9E9D2B"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{5943FCFD-5B64-4EE4-96C9-4618EC95352A}:_B522D6219A5847879F1016D2D2B2D901"
+                            {
+                            "Name" = "8:en-US"
+                            "Condition" = "8:"
+                            "Property" = "8:_AC4394A4AF5E4A48AC680EA407FA169F"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:InitialSetupProject"
+        "Manufacturer" = "8:Microsoft"
+        "OSVersionMin" = "8:4.0"
+        "OSVersionMax" = "8:6.99"
+        "NoUninstall" = "11:FALSE"
+        "Compress" = "11:FALSE"
+        "CESetupDLL" = "8:"
+        }
+        "ProjectOutput"
+        {
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "Shortcut"
+        {
+            "{971D45E9-E38C-49AC-B36E-4C5BEA533350}:_1B729AC813114453BE6C7578DEB324FA"
+            {
+            "Name" = "8:LOCKDOWN"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "Target" = "8:_C52D84A692E44028A108E6573862C543"
+            "Folder" = "8:_D3A2D6FF1CE140B78CAA55405DB2AD4F"
+            "WorkingFolder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            }
+            "{971D45E9-E38C-49AC-B36E-4C5BEA533350}:_2EAD0F2AC5274D06ABF230A406BCE820"
+            {
+            "Name" = "8:LOCKDOWN"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "Target" = "8:_C52D84A692E44028A108E6573862C543"
+            "Folder" = "8:_E7DA969C2A9C4BB9B62D13FCB6931DDB"
+            "WorkingFolder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            }
+            "{971D45E9-E38C-49AC-B36E-4C5BEA533350}:_976A971BFDE742F0B2B0171F5064F203"
+            {
+            "Name" = "8:LOCKDOWN"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "Target" = "8:_C52D84A692E44028A108E6573862C543"
+            "Folder" = "8:_583613331D684B06ADAF7D9013760242"
+            "WorkingFolder" = "8:_0482EBF9C7144F9DB1B788F50FD680D7"
+            }
+        }
+    }
+}

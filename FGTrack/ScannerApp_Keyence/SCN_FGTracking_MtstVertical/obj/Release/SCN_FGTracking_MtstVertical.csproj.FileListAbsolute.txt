@@ -1,0 +1,186 @@
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.fr-CA.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\fr-CA\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\fr-CA\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe.config
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\fr-CA\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\Intermec.Device.CF3.5.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\Intermec.DataCollection.CF3.5.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.fr-CA.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\fr-CA\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\bin\Release\Intermec.DataCollection.CF3.5.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.fr-CA.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.ja-JP.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\btLibDefNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\btScanLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\btSysLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\btLibDefNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\btScanLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\btSysLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.ja-JP.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe.config
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.ja-JP.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe.config
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.MTSTVER.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\ResolveAssemblyReference.cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.ja-JP.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\en-US\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\ja-JP\HTN.BITS.FGTRACK.MTSTVER.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.exe
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Release\HTN.BITS.FGTRACK.MTSTVER.pdb

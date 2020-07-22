@@ -1,0 +1,10 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\Winforms.Components\bin\Debug\Winforms.Components.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\Winforms.Components\bin\Debug\Winforms.Components.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\Winforms.Components\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\Winforms.Components\obj\Debug\Winforms.Components.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\Winforms.Components\obj\Debug\Winforms.Components.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\Winforms.Components\bin\Debug\Winforms.Components.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\Winforms.Components\bin\Debug\Winforms.Components.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\Winforms.Components\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\Winforms.Components\obj\Debug\Winforms.Components.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\Winforms.Components\obj\Debug\Winforms.Components.pdb

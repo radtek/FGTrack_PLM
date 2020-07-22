@@ -1,0 +1,216 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A8539CF0-53A4-4CD5-A69A-FBDA42B97CDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HTN.BITS.FGTRACK.MTSTVER</RootNamespace>
+    <AssemblyName>HTN.BITS.FGTRACK.MTSTVER</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.02</OSVersion>
+    <DeployDirSuffix>SCN_FGTracking_MtstVertical</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Intermec.DataCollection.CF3.5, Version=5.10.2.116, Culture=neutral, PublicKeyToken=acd169b56b6148ba, processorArchitecture=MSIL" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\GlobalVariable.cs" />
+    <Compile Include="Components\MobileConfiguration.cs" />
+    <Compile Include="Components\ServiceProvider.cs" />
+    <Compile Include="frmCheckUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckUser.designer.cs">
+      <DependentUpon>frmCheckUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmFGReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFGReturn.Designer.cs">
+      <DependentUpon>frmFGReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMTSTIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMTSTIn.designer.cs">
+      <DependentUpon>frmMTSTIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMTSTOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMTSTOut.designer.cs">
+      <DependentUpon>frmMTSTOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProductCardInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProductCardInfo.designer.cs">
+      <DependentUpon>frmProductCardInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUtility.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUtility.Designer.cs">
+      <DependentUpon>frmUtility.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FullScreenHandle.cs" />
+    <Compile Include="PlatformDetection.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCheckUser.resx">
+      <DependentUpon>frmCheckUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFGReturn.resx">
+      <DependentUpon>frmFGReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMTSTIn.resx">
+      <DependentUpon>frmMTSTIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMTSTOut.resx">
+      <DependentUpon>frmMTSTOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProductCardInfo.resx">
+      <DependentUpon>frmProductCardInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUtility.resx">
+      <DependentUpon>frmUtility.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Resources.en-US.resx" />
+    <EmbeddedResource Include="Resources\Resources.fr-CA.resx" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Web References\ServiceRef\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\Danger_Shield.png" />
+    <Content Include="Images\Safe_Shield.png" />
+    <Content Include="Images\Unknown_Shield.png" />
+    <Content Include="Images\Warning_Shield.png" />
+    <Content Include="plasess.ico" />
+    <None Include="Web References\ServiceRef\Service_MtstVER.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Web References\ServiceRef\ProductCard1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ServiceRef\ProductCardStatusFG1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ServiceRef\QCReturn1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\ServiceRef\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ServiceRef\Service_MtstVER.wsdl" />
+    <None Include="Web References\ServiceRef\TransferOrderInfo1.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://192.168.10.95/FGTrackService/Service_MtstVER.asmx">
+      <UrlBehavior>Static</UrlBehavior>
+      <RelPath>Web References\ServiceRef\</RelPath>
+      <UpdateFromURL>http://192.168.10.95/FGTrackService/Service_MtstVER.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SCN_FGTracking_Lib\SCN_FGTracking_Lib.csproj">
+      <Project>{79472B9B-36EF-4100-806F-1DF77BBB3F78}</Project>
+      <Name>SCN_FGTracking_Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

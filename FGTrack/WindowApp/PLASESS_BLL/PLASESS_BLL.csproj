@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1609958F-104A-416E-B4D4-63E3F339734A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HTN.BITS.BLL.PLASESS</RootNamespace>
+    <AssemblyName>HTN.BITS.BLL.PLASESS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=2.112.3.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\HTN_ORACLE\odp.net\bin\2.x\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministratorBLL.cs" />
+    <Compile Include="ArrivalBLL.cs" />
+    <Compile Include="DeliveryOrderBLL.cs" />
+    <Compile Include="GlobalDB.cs" />
+    <Compile Include="InfoBLL.cs" />
+    <Compile Include="InterfaceDataBLL.cs" />
+    <Compile Include="JobOrderBLL.cs" />
+    <Compile Include="LoadingOrderBLL.cs" />
+    <Compile Include="MachineBLL.cs" />
+    <Compile Include="MaterialBLL.cs" />
+    <Compile Include="MaterialTypeBLL.cs" />
+    <Compile Include="PartyBLL.cs" />
+    <Compile Include="PrintingBuilder.cs" />
+    <Compile Include="ProductBLL.cs" />
+    <Compile Include="ProductionTypeBLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QCReturnBLL.cs" />
+    <Compile Include="QueryBLL.cs" />
+    <Compile Include="ShippingOrderBLL.cs" />
+    <Compile Include="TransferOrderBLL.cs" />
+    <Compile Include="UploadPlanBLL.cs" />
+    <Compile Include="UtilityBLL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BITS_BEL\BITS_BEL.csproj">
+      <Project>{B0A08877-F1B9-4C30-BC93-2A77359958EB}</Project>
+      <Name>BITS_BEL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BITS_DAL\BITS_DAL.csproj">
+      <Project>{FC5E8433-ABD8-4A19-B041-297294410788}</Project>
+      <Name>BITS_DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BITS_QRCodeLib\BITS_QRCodeLib.csproj">
+      <Project>{79E4DD87-2AA7-4AE6-BBD8-D56045D75390}</Project>
+      <Name>BITS_QRCodeLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

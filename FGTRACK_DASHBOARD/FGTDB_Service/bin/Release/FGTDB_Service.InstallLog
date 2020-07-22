@@ -1,0 +1,169 @@
+﻿Installing assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Installing service FGTDB_Service...
+Service FGTDB_Service has been successfully installed.
+Creating EventLog source FGTDB_Service in log Application...
+Committing assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Warning: The source FGTDB_Service is not registered on the local machine.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Warning: The source FGTDB_Service is not registered on the local machine.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Warning: The source FGTDB_Service is not registered on the local machine.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Warning: The source FGTDB_Service is not registered on the local machine.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Warning: The source FGTDB_Service is not registered on the local machine.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Warning: The source FGTDB_Service is not registered on the local machine.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Warning: The source FGTDB_Service is not registered on the local machine.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Installing assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Installing service FGTDB_Service...
+Service FGTDB_Service has been successfully installed.
+Creating EventLog source FGTDB_Service in log Application...
+Committing assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+   logtoconsole = 
+Removing EventLog source FGTDB_Service.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Uninstalling assembly 'D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\PROJECTS\PLASESS_HI-TECH\FGTrack_DASHBOARD\FGTRACK\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Removing EventLog source FGTDB_Service.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Attempt to stop service FGTDB_Service.
+Installing assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Installing service FGTDB_Service...
+Service FGTDB_Service has been successfully installed.
+Creating EventLog source FGTDB_Service in log Application...
+Committing assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Uninstalling assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Removing EventLog source FGTDB_Service.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Installing assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Installing service FGTDB_Service...
+Service FGTDB_Service has been successfully installed.
+Creating EventLog source FGTDB_Service in log Application...
+Committing assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Uninstalling assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Removing EventLog source FGTDB_Service.
+Service FGTDB_Service is being removed from the system...
+Service FGTDB_Service was successfully removed from the system.
+Installing assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Installing service FGTDB_Service...
+Creating EventLog source FGTDB_Service in log Application...
+Rolling back assembly 'D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.exe
+   logfile = D:\Repositories\FGTrack_PLH\FGTRACK_DASHBOARD\FGTDB_Service\bin\Release\FGTDB_Service.InstallLog
+Restoring event log to previous state for source FGTDB_Service.

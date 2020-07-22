@@ -1,0 +1,12 @@
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Release\app.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Release\HTN.BITS.MSC.SCN.BLL.dll.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Release\HTN.BITS.MSC.SCN.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Release\HTN.BITS.MSC.SCN.BLL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Release\HTN.BITS.MSC.SCN.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Release\Newtonsoft.Json.Compact.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Release\HTN.BITS.MSC.SCN.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Release\HTN.BITS.MSC.SCN.BLL.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Release\MSC_SCN_BLL.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Release\HTN.BITS.MSC.SCN.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Release\HTN.BITS.MSC.SCN.BLL.pdb

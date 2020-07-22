@@ -1,0 +1,67 @@
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.Components.SplashInitForm.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmReplenish.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmInputMB.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmInputTRES.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmMixing.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmCheckUser.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmMainMenu.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.Properties.Resources.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.Resources.Resources.en-US.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.Resources.Resources.ja-JP.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\MSC_SCN_UIL.csproj.GenerateResource.Cache
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\app.config
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.UIL.exe.config
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.UIL.exe
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.UIL.pdb
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\en-US\HTN.BITS.MSC.SCN.UIL.resources.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\ja-JP\HTN.BITS.MSC.SCN.UIL.resources.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\btCommLibNet.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\btFileLibNet.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\btLibDefNet.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\btScanLibNet.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\btSysLibNet.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BEL.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BLL.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.LIB.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\Newtonsoft.Json.Compact.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BLL.pdb
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BEL.pdb
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.LIB.pdb
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\en-US\HTN.BITS.MSC.SCN.UIL.resources.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\ja-JP\HTN.BITS.MSC.SCN.UIL.resources.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.exe
+D:\Repositories\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\app.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.UIL.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.UIL.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.UIL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\en-US\HTN.BITS.MSC.SCN.UIL.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\ja-JP\HTN.BITS.MSC.SCN.UIL.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\Intermec.Device.CF3.5.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BLL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\bin\Debug\HTN.BITS.MSC.SCN.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.Components.SplashInitForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmReplenish.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmInputMB.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmInputTRES.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmMixing.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MCS.SCN.UIL.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\MSC_SCN_UIL.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\en-US\HTN.BITS.MSC.SCN.UIL.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\ja-JP\HTN.BITS.MSC.SCN.UIL.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_BUI\obj\Debug\HTN.BITS.MSC.SCN.UIL.pdb

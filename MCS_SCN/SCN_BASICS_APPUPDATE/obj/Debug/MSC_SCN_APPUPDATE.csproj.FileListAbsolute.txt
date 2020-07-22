@@ -1,0 +1,36 @@
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\bin\Debug\app.config
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.UPDATE.exe.config
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.UPDATE.exe
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.UPDATE.pdb
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\bin\Debug\Ionic.Zip.CF.dll
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\bin\Debug\Newtonsoft.Json.Compact.dll
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\obj\Debug\ResolveAssemblyReference.cache
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.SCN.UPDATE.frmUpdate.resources
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.UPDATE.Properties.Resources.resources
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\obj\Debug\MSC_SCN_APPUPDATE.csproj.GenerateResource.Cache
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.UPDATE.exe
+D:\REPOSITORIES\BASICS_PRO_MVC\BASICS_PRO_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.UPDATE.pdb
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\app.config
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.APPUPDATE.exe.config
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.APPUPDATE.exe
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.APPUPDATE.pdb
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\Ionic.Zip.CF.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\Newtonsoft.Json.Compact.dll
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MCS.SCN.APPUPDATE.frmUpdate.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.APPUPDATE.Properties.Resources.resources
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\MSC_SCN_APPUPDATE.csproj.GenerateResource.Cache
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.APPUPDATE.exe
+D:\Repositories\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.APPUPDATE.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\app.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.APPUPDATE.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.APPUPDATE.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\HTN.BITS.MSC.SCN.APPUPDATE.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\Ionic.Zip.CF.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MCS.SCN.APPUPDATE.frmUpdate.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.APPUPDATE.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\MSC_SCN_APPUPDATE.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.APPUPDATE.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BASICS_APPUPDATE\obj\Debug\HTN.BITS.MSC.SCN.APPUPDATE.pdb

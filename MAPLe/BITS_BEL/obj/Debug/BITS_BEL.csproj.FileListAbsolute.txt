@@ -1,0 +1,15 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\obj\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\obj\Debug\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\obj\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\obj\Debug\HTN.BITS.BEL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_BEL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_BEL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_BEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_BEL\obj\Debug\HTN.BITS.BEL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_BEL\obj\Debug\HTN.BITS.BEL.PLASESS.pdb

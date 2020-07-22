@@ -1,0 +1,15 @@
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SoapExtensionLib\bin\Debug\SoapExtensionLib.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SoapExtensionLib\bin\Debug\SoapExtensionLib.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SoapExtensionLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SoapExtensionLib\obj\Debug\SoapExtensionLib.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SoapExtensionLib\obj\Debug\SoapExtensionLib.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SoapExtensionLib\bin\Debug\SoapExtensionLib.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SoapExtensionLib\bin\Debug\SoapExtensionLib.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SoapExtensionLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SoapExtensionLib\obj\Debug\SoapExtensionLib.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SoapExtensionLib\obj\Debug\SoapExtensionLib.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SoapExtensionLib\bin\Debug\SoapExtensionLib.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SoapExtensionLib\bin\Debug\SoapExtensionLib.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SoapExtensionLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SoapExtensionLib\obj\Debug\SoapExtensionLib.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SoapExtensionLib\obj\Debug\SoapExtensionLib.pdb

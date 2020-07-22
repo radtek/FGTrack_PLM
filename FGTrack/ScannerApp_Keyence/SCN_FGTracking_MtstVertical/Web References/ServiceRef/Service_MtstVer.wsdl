@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckValidationUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTOInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="toNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetTOInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetTOInfoResult" type="tns:TransferOrderInfo" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="TransferOrderInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TO_NO" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetUpdatePC_MTST_In">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="toNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUpdatePC_MTST_InResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetUpdatePC_MTST_InResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ProductCard">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ORI_LABEL" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SERIAL_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PROD_SEQ_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PRODUCT_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PRODUCT_NAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_TYPE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_LOT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHIFT" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LINE_NO" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="MC_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="QTY" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="BOX_QTY" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="BOX_SCANNED" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ASG_NG" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="NG_QTY" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="UNIT_ID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetUpdatePC_MTST_Out">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUpdatePC_MTST_OutResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetUpdatePC_MTST_OutResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetProductCardStatusResult" type="tns:ProductCardStatusFG" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ProductCardStatusFG">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:ProductCard">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="WH" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="STATUS" type="s:string" />
+              <s:element minOccurs="0" maxOccurs="1" name="PROCESS_NO" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="PROCESS_DATE" nillable="true" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="BREAK_QTY" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:element name="GetQCReturnOrderInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="qcReturnNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetQCReturnOrderInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetQCReturnOrderInfoResult" type="tns:QCReturn" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="QCReturn">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="WH_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="RT_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="NO_OF_LABEL" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetReturnProductCardInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="qcReturnNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetReturnProductCardInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetReturnProductCardInfoResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateReturnProductCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="qcReturnNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateReturnProductCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateReturnProductCardResult" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="totalBox" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckValidationUser" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckValidationUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetTOInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetTOInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetTOInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetTOInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_InSoapIn">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_In" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_InSoapOut">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_InResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_OutSoapIn">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_Out" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_OutSoapOut">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_OutResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetProductCardStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetProductCardStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetQCReturnOrderInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetQCReturnOrderInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetQCReturnOrderInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetQCReturnOrderInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetReturnProductCardInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetReturnProductCardInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetReturnProductCardInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetReturnProductCardInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateReturnProductCardSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateReturnProductCard" />
+  </wsdl:message>
+  <wsdl:message name="UpdateReturnProductCardSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateReturnProductCardResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service_MtstVERSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">for check validation user scanner</wsdl:documentation>
+      <wsdl:input message="tns:CheckValidationUserSoapIn" />
+      <wsdl:output message="tns:CheckValidationUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTOInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Transfer Order Info</wsdl:documentation>
+      <wsdl:input message="tns:GetTOInfoSoapIn" />
+      <wsdl:output message="tns:GetTOInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_In">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Update Product Card MTST In</wsdl:documentation>
+      <wsdl:input message="tns:GetUpdatePC_MTST_InSoapIn" />
+      <wsdl:output message="tns:GetUpdatePC_MTST_InSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_Out">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Update Product Card MTST Out</wsdl:documentation>
+      <wsdl:input message="tns:GetUpdatePC_MTST_OutSoapIn" />
+      <wsdl:output message="tns:GetUpdatePC_MTST_OutSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Product Card Status</wsdl:documentation>
+      <wsdl:input message="tns:GetProductCardStatusSoapIn" />
+      <wsdl:output message="tns:GetProductCardStatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetQCReturnOrderInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get QC Return Order Info</wsdl:documentation>
+      <wsdl:input message="tns:GetQCReturnOrderInfoSoapIn" />
+      <wsdl:output message="tns:GetQCReturnOrderInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetReturnProductCardInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Return Product Card Info</wsdl:documentation>
+      <wsdl:input message="tns:GetReturnProductCardInfoSoapIn" />
+      <wsdl:output message="tns:GetReturnProductCardInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReturnProductCard">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update Return Product Card</wsdl:documentation>
+      <wsdl:input message="tns:UpdateReturnProductCardSoapIn" />
+      <wsdl:output message="tns:UpdateReturnProductCardSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service_MtstVERSoap" type="tns:Service_MtstVERSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTOInfo">
+      <soap:operation soapAction="http://tempuri.org/GetTOInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_In">
+      <soap:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_In" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_Out">
+      <soap:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_Out" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <soap:operation soapAction="http://tempuri.org/GetProductCardStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetQCReturnOrderInfo">
+      <soap:operation soapAction="http://tempuri.org/GetQCReturnOrderInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReturnProductCardInfo">
+      <soap:operation soapAction="http://tempuri.org/GetReturnProductCardInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReturnProductCard">
+      <soap:operation soapAction="http://tempuri.org/UpdateReturnProductCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service_MtstVERSoap12" type="tns:Service_MtstVERSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap12:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTOInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetTOInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_In">
+      <soap12:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_In" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_Out">
+      <soap12:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_Out" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <soap12:operation soapAction="http://tempuri.org/GetProductCardStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetQCReturnOrderInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetQCReturnOrderInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetReturnProductCardInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetReturnProductCardInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReturnProductCard">
+      <soap12:operation soapAction="http://tempuri.org/UpdateReturnProductCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service_MtstVER">
+    <wsdl:port name="Service_MtstVERSoap" binding="tns:Service_MtstVERSoap">
+      <soap:address location="http://10.211.107.16/FGTrack_PM_Service/Service_MtstVER.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service_MtstVERSoap12" binding="tns:Service_MtstVERSoap12">
+      <soap12:address location="http://10.211.107.16/FGTrack_PM_Service/Service_MtstVER.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

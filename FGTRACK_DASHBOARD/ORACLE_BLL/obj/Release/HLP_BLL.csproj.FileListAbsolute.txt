@@ -1,0 +1,9 @@
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\bin\Release\HLP_BLL.dll
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\bin\Release\HLP_BLL.pdb
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\bin\Release\HLP_BEL.dll
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\bin\Release\HTN.BITS.DAL.dll
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\bin\Release\HTN.BITS.DAL.pdb
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\bin\Release\HLP_BEL.pdb
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\obj\Release\HLP_BLL.dll
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\HLP_BLL\obj\Release\HLP_BLL.pdb

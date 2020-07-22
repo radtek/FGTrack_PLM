@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckValidationUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckExistMachine">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mcNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckExistMachineResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CheckExistMachineResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="processMode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetProductCardInfoResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ProductCard">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ORI_LABEL" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SERIAL_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PROD_SEQ_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PRODUCT_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PRODUCT_NAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_TYPE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_LOT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHIFT" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LINE_NO" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="MC_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="QTY" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="BOX_QTY" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="BOX_SCANNED" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ASG_NG" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="NG_QTY" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="UNIT_ID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UpdProductCard">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="processMode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="mcNo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="nQty" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdProductCardResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdProductCardResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetJobLotList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="jobNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetJobLotListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetJobLotListResult" type="tns:ArrayOfJobLot" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfJobLot">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="JobLot" nillable="true" type="tns:JobLot" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="JobLot">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LINE_NO" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_LOT" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetJobLotInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="jobNo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="lineNo" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetJobLotInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetJobLotInfoResult" type="tns:ProductCard" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateNGQty">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="jobNo" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="lineNo" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="nQty" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateNGQtyResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateNGQtyResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUpdatePC_QC_Info">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="qcStatus" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUpdatePC_QC_InfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetUpdatePC_QC_InfoResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPC_NGInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetPC_NGInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetPC_NGInfoResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateReplenishConfirm">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="mode" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="qty" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpdateReplenishConfirmResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UpdateReplenishConfirmResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetProductCardStatusResult" type="tns:ProductCard_Status" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ProductCard_Status">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:ProductCard">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="STATUS" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="PROCESS_DATE" nillable="true" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="REP_QTY" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckValidationUser" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckValidationUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckExistMachineSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckExistMachine" />
+  </wsdl:message>
+  <wsdl:message name="CheckExistMachineSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckExistMachineResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetProductCardInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetProductCardInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdProductCardSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdProductCard" />
+  </wsdl:message>
+  <wsdl:message name="UpdProductCardSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdProductCardResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetJobLotListSoapIn">
+    <wsdl:part name="parameters" element="tns:GetJobLotList" />
+  </wsdl:message>
+  <wsdl:message name="GetJobLotListSoapOut">
+    <wsdl:part name="parameters" element="tns:GetJobLotListResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetJobLotInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetJobLotInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetJobLotInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetJobLotInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateNGQtySoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateNGQty" />
+  </wsdl:message>
+  <wsdl:message name="UpdateNGQtySoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateNGQtyResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_QC_InfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_QC_Info" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_QC_InfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_QC_InfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetPC_NGInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetPC_NGInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetPC_NGInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetPC_NGInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpdateReplenishConfirmSoapIn">
+    <wsdl:part name="parameters" element="tns:UpdateReplenishConfirm" />
+  </wsdl:message>
+  <wsdl:message name="UpdateReplenishConfirmSoapOut">
+    <wsdl:part name="parameters" element="tns:UpdateReplenishConfirmResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetProductCardStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetProductCardStatusResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service_HorizontalSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">for check validation user scanner</wsdl:documentation>
+      <wsdl:input message="tns:CheckValidationUserSoapIn" />
+      <wsdl:output message="tns:CheckValidationUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistMachine">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Check Existing Machine</wsdl:documentation>
+      <wsdl:input message="tns:CheckExistMachineSoapIn" />
+      <wsdl:output message="tns:CheckExistMachineSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Product Card Info</wsdl:documentation>
+      <wsdl:input message="tns:GetProductCardInfoSoapIn" />
+      <wsdl:output message="tns:GetProductCardInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdProductCard">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update Product Card</wsdl:documentation>
+      <wsdl:input message="tns:UpdProductCardSoapIn" />
+      <wsdl:output message="tns:UpdProductCardSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetJobLotList">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Job Lot List</wsdl:documentation>
+      <wsdl:input message="tns:GetJobLotListSoapIn" />
+      <wsdl:output message="tns:GetJobLotListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetJobLotInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Job Lot Info</wsdl:documentation>
+      <wsdl:input message="tns:GetJobLotInfoSoapIn" />
+      <wsdl:output message="tns:GetJobLotInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateNGQty">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update NG Qty</wsdl:documentation>
+      <wsdl:input message="tns:UpdateNGQtySoapIn" />
+      <wsdl:output message="tns:UpdateNGQtySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_QC_Info">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Update Product Card QC Info</wsdl:documentation>
+      <wsdl:input message="tns:GetUpdatePC_QC_InfoSoapIn" />
+      <wsdl:output message="tns:GetUpdatePC_QC_InfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPC_NGInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Product Card NG Confirm Info</wsdl:documentation>
+      <wsdl:input message="tns:GetPC_NGInfoSoapIn" />
+      <wsdl:output message="tns:GetPC_NGInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReplenishConfirm">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update QC NG Confirm</wsdl:documentation>
+      <wsdl:input message="tns:UpdateReplenishConfirmSoapIn" />
+      <wsdl:output message="tns:UpdateReplenishConfirmSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Product Card Status</wsdl:documentation>
+      <wsdl:input message="tns:GetProductCardStatusSoapIn" />
+      <wsdl:output message="tns:GetProductCardStatusSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service_HorizontalSoap" type="tns:Service_HorizontalSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistMachine">
+      <soap:operation soapAction="http://tempuri.org/CheckExistMachine" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardInfo">
+      <soap:operation soapAction="http://tempuri.org/GetProductCardInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdProductCard">
+      <soap:operation soapAction="http://tempuri.org/UpdProductCard" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetJobLotList">
+      <soap:operation soapAction="http://tempuri.org/GetJobLotList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetJobLotInfo">
+      <soap:operation soapAction="http://tempuri.org/GetJobLotInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateNGQty">
+      <soap:operation soapAction="http://tempuri.org/UpdateNGQty" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_QC_Info">
+      <soap:operation soapAction="http://tempuri.org/GetUpdatePC_QC_Info" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPC_NGInfo">
+      <soap:operation soapAction="http://tempuri.org/GetPC_NGInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReplenishConfirm">
+      <soap:operation soapAction="http://tempuri.org/UpdateReplenishConfirm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <soap:operation soapAction="http://tempuri.org/GetProductCardStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service_HorizontalSoap12" type="tns:Service_HorizontalSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap12:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistMachine">
+      <soap12:operation soapAction="http://tempuri.org/CheckExistMachine" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetProductCardInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdProductCard">
+      <soap12:operation soapAction="http://tempuri.org/UpdProductCard" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetJobLotList">
+      <soap12:operation soapAction="http://tempuri.org/GetJobLotList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetJobLotInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetJobLotInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateNGQty">
+      <soap12:operation soapAction="http://tempuri.org/UpdateNGQty" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_QC_Info">
+      <soap12:operation soapAction="http://tempuri.org/GetUpdatePC_QC_Info" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPC_NGInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetPC_NGInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateReplenishConfirm">
+      <soap12:operation soapAction="http://tempuri.org/UpdateReplenishConfirm" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <soap12:operation soapAction="http://tempuri.org/GetProductCardStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service_Horizontal">
+    <wsdl:port name="Service_HorizontalSoap" binding="tns:Service_HorizontalSoap">
+      <soap:address location="http://192.168.10.95/FGTrackService/Service_Horizontal.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service_HorizontalSoap12" binding="tns:Service_HorizontalSoap12">
+      <soap12:address location="http://192.168.10.95/FGTrackService/Service_Horizontal.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

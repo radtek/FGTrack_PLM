@@ -1,0 +1,16 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_DAL\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb

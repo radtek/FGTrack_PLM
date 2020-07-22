@@ -1,0 +1,20 @@
+D:\Projects\PLASESS\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.dll
+D:\Projects\PLASESS\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\BITS_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.dll
+D:\Projects\PLASESS\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_BEL\bin\Release\HTN.BITS.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_BEL\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_BEL\obj\Release\HTN.BITS.BEL.pdb

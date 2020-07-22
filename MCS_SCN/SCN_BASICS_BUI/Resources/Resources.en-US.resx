@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Danger_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\danger_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Safe_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\safe_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Unknown_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\unknown_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Warning_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\warning_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TITLE_PLEASE_CHECK" xml:space="preserve">
+    <value>Please Check</value>
+  </data>
+  <data name="TITLE_INFORMATION" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="ERR_ALREADY_SCAN_MIXED" xml:space="preserve">
+    <value>Already scan mixed</value>
+  </data>
+  <data name="ERR_PENDING_FOR_MATIN" xml:space="preserve">
+    <value>Error pending for material in</value>
+  </data>
+  <data name="ERR_PENDING_FOR_MATOUT" xml:space="preserve">
+    <value>Error pending for material out</value>
+  </data>
+  <data name="ERR_SYSTEM_ERROR" xml:space="preserve">
+    <value>Error system error</value>
+  </data>
+  <data name="MIXING_COMPLETE" xml:space="preserve">
+    <value>Mixing completed</value>
+  </data>
+  <data name="ERR_WRONG_LABEL" xml:space="preserve">
+    <value>Wrong label</value>
+  </data>
+  <data name="ERR_ALREADY_SCAN_REP" xml:space="preserve">
+    <value>Already scan replenishment</value>
+  </data>
+  <data name="ERR_MATERIAL_MISMATCH" xml:space="preserve">
+    <value>Material mismatch</value>
+  </data>
+  <data name="REPLENISH_COMPLETE" xml:space="preserve">
+    <value>Replenishment completed</value>
+  </data>
+  <data name="frmCheckUser_lblScanUser" xml:space="preserve">
+    <value>SCAN USER</value>
+  </data>
+  <data name="frmInputTRES_btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="frmInputTRES_btnOk" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="frmInputTRES_lbl01TRES" xml:space="preserve">
+    <value>TRES :</value>
+  </data>
+  <data name="frmMainMenu_lblForExit" xml:space="preserve">
+    <value>EXIT</value>
+  </data>
+  <data name="frmMainMenu_lblForMixing" xml:space="preserve">
+    <value>MIXING</value>
+  </data>
+  <data name="frmMainMenu_lblForReplenish" xml:space="preserve">
+    <value>REPLENISH</value>
+  </data>
+  <data name="frmMainMenu_lblForUtility" xml:space="preserve">
+    <value>UTILITY</value>
+  </data>
+  <data name="frmMixing_lbl01Color" xml:space="preserve">
+    <value>Color :</value>
+  </data>
+  <data name="frmMixing_lbl01FormMixing" xml:space="preserve">
+    <value>MIXING</value>
+  </data>
+  <data name="frmMixing_lbl01Grade" xml:space="preserve">
+    <value>Grade :</value>
+  </data>
+  <data name="frmMixing_lbl01MatCode" xml:space="preserve">
+    <value>MTL Code :</value>
+  </data>
+  <data name="frmMixing_lbl01MatName" xml:space="preserve">
+    <value>MTL Name :</value>
+  </data>
+  <data name="frmMixing_lbl01MixingNo" xml:space="preserve">
+    <value>Mixing# :</value>
+  </data>
+  <data name="frmMixing_lbl01Qty" xml:space="preserve">
+    <value>Qty :</value>
+  </data>
+  <data name="frmMixing_lbl01SerialNo" xml:space="preserve">
+    <value>Serial# :</value>
+  </data>
+  <data name="frmMixing_lbl01SerialNoScan" xml:space="preserve">
+    <value>Serial# :</value>
+  </data>
+  <data name="frmMixing_lbl01TotalQty" xml:space="preserve">
+    <value>Total QTY :</value>
+  </data>
+  <data name="frmMixing_lbl01TRES" xml:space="preserve">
+    <value>TRES (%) :</value>
+  </data>
+  <data name="frmReplenish_lbl01BagQty" xml:space="preserve">
+    <value>Bag qty :</value>
+  </data>
+  <data name="frmReplenish_lbl01Color" xml:space="preserve">
+    <value>Color :</value>
+  </data>
+  <data name="frmReplenish_lbl01FormReplenish" xml:space="preserve">
+    <value>REPLENISH</value>
+  </data>
+  <data name="frmReplenish_lbl01Grade" xml:space="preserve">
+    <value>Grade :</value>
+  </data>
+  <data name="frmReplenish_lbl01JobOrder" xml:space="preserve">
+    <value>JobOrder# :</value>
+  </data>
+  <data name="frmReplenish_lbl01McNo" xml:space="preserve">
+    <value>MC# :</value>
+  </data>
+  <data name="frmReplenish_lbl01MtlCode" xml:space="preserve">
+    <value>MTL Code :</value>
+  </data>
+  <data name="frmReplenish_lbl01MtlName" xml:space="preserve">
+    <value>MTL Name :</value>
+  </data>
+  <data name="frmReplenish_lbl01Qty" xml:space="preserve">
+    <value>Qty :</value>
+  </data>
+  <data name="frmReplenish_lbl01ProductNo" xml:space="preserve">
+    <value>Product# :</value>
+  </data>
+  <data name="frmReplenish_lbl01SerialNo" xml:space="preserve">
+    <value>Serial# :</value>
+  </data>
+  <data name="frmReplenish_lbl01SerialNoScan" xml:space="preserve">
+    <value>Serial# :</value>
+  </data>
+  <data name="frmReplenish_lbl01TotalQty" xml:space="preserve">
+    <value>Total QTY :</value>
+  </data>
+  <data name="User_Green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\user_green.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="User_Purple" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\user_purple.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frmInputMB_btnOk" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="frmInputMB_lbl01MB" xml:space="preserve">
+    <value>M/B (K.G.) :</value>
+  </data>
+  <data name="MSG_AUTH_FAIL" xml:space="preserve">
+    <value>Unauthorized</value>
+  </data>
+  <data name="MSG_EMPTY_MB_VOL" xml:space="preserve">
+    <value>Please input master batch volume (K.G.)</value>
+  </data>
+  <data name="MSG_EMPTY_NO_OF_LABEL" xml:space="preserve">
+    <value>Please input label quantity</value>
+  </data>
+  <data name="MSG_EMPTY_TRES" xml:space="preserve">
+    <value>Please input TRES value</value>
+  </data>
+  <data name="MSG_TRES_VAL_OVER" xml:space="preserve">
+    <value>TRES values must between 0.01 to 100.00</value>
+  </data>
+</root>

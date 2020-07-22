@@ -1,0 +1,161 @@
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.exe
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.dll
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.xml
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmAssignNG.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmMainMenu.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCargo.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCase.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirm.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmOKCargo.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductFinish.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProduction.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQC.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQCReturn.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmReplenishmentConfirm.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Properties.Resources.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.en-US.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.fr-CA.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\SCN_FGTracking_Vertical.csproj.GenerateResource.Cache
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.exe
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.exe
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.xml
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmAssignNG.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmMainMenu.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCargo.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCase.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirm.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmOKCargo.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductFinish.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProduction.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQC.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQCReturn.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmReplenishmentConfirm.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Properties.Resources.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.en-US.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.fr-CA.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\SCN_FGTracking_Vertical.csproj.GenerateResource.Cache
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.exe
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmCheckUser.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductCardInfo.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirmRep.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmUtility.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\App.config
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.exe.config
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\CheckUpdateApp.exe
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.Device.CF3.5.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\CheckUpdateApp.pdb
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmCheckUser.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmMainMenu.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCargo.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCase.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductCardInfo.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmAssignNG.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirmRep.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirm.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmOKCargo.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductFinish.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProduction.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQC.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQCReturn.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmReplenishmentConfirm.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmUtility.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Properties.Resources.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.en-US.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.fr-CA.resources
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\SCN_FGTracking_Vertical.csproj.GenerateResource.Cache
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\App.config
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.exe.config
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.exe
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\CheckUpdateApp.exe
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\CheckUpdateApp.pdb
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.exe
+D:\Projects\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\App.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\CheckUpdateApp.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\CheckUpdateApp.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmCheckUser.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCargo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCase.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmAssignNG.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirmRep.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirm.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmOKCargo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductFinish.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProduction.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQC.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQCReturn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmReplenishmentConfirm.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmUtility.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.en-US.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.fr-CA.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\SCN_FGTracking_Vertical.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\en-US\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\fr-CA\HTN.BITS.FGTRACK.Vertical.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCargo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGCase.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmAssignNG.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirmRep.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmNGConfirm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmOKCargo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProductFinish.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmProduction.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQC.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmQCReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmReplenishmentConfirm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\SCN_FGTracking_Vertical.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Vertical\obj\Debug\HTN.BITS.FGTRACK.Vertical.pdb

@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGTDB_Service", "FGTDB_Service\FGTDB_Service.csproj", "{22D43D8C-753E-4C0F-BB0A-7323154B5033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORACLE_BLL", "ORACLE_BLL\ORACLE_BLL.csproj", "{8C7FFFC1-95EE-4FA8-807B-7FB580BD0424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORACLE_DAL", "ORACLE_DAL\ORACLE_DAL.csproj", "{525B894F-6565-47AC-B1A0-56598255E2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLITE_BLL", "SQLITE_BLL\SQLITE_BLL.csproj", "{B7F65AD4-D7DE-42E5-A691-55A494E201F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLITE_DAL", "SQLITE_DAL\SQLITE_DAL.csproj", "{FC5E8433-ABD8-4A19-B041-297294410788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGTDB_BEL", "FGTDB_BEL\FGTDB_BEL.csproj", "{5492D959-27D1-481C-87A0-8E103D43BA2D}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FGTDASHBOARD", "FGTDASHBOARD\", "{C149B987-64D7-45D7-B401-6EC93A33FC1F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{5492D959-27D1-481C-87A0-8E103D43BA2D}|HTN.BITS.FGTDB.BEL.dll;{B7F65AD4-D7DE-42E5-A691-55A494E201F8}|HTN.BITS.SQLITE.BLL.dll;{FC5E8433-ABD8-4A19-B041-297294410788}|HTN.BITS.SQLITE.DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/FGTDASHBOARD"
+		Debug.AspNetCompiler.PhysicalPath = "FGTDASHBOARD\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FGTDASHBOARD\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FGTDASHBOARD"
+		Release.AspNetCompiler.PhysicalPath = "FGTDASHBOARD\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FGTDASHBOARD\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54655"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22D43D8C-753E-4C0F-BB0A-7323154B5033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D43D8C-753E-4C0F-BB0A-7323154B5033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D43D8C-753E-4C0F-BB0A-7323154B5033}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{22D43D8C-753E-4C0F-BB0A-7323154B5033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D43D8C-753E-4C0F-BB0A-7323154B5033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D43D8C-753E-4C0F-BB0A-7323154B5033}.Release|x86.ActiveCfg = Release|Any CPU
+		{8C7FFFC1-95EE-4FA8-807B-7FB580BD0424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7FFFC1-95EE-4FA8-807B-7FB580BD0424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7FFFC1-95EE-4FA8-807B-7FB580BD0424}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8C7FFFC1-95EE-4FA8-807B-7FB580BD0424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7FFFC1-95EE-4FA8-807B-7FB580BD0424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7FFFC1-95EE-4FA8-807B-7FB580BD0424}.Release|x86.ActiveCfg = Release|Any CPU
+		{525B894F-6565-47AC-B1A0-56598255E2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525B894F-6565-47AC-B1A0-56598255E2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525B894F-6565-47AC-B1A0-56598255E2B4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{525B894F-6565-47AC-B1A0-56598255E2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525B894F-6565-47AC-B1A0-56598255E2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525B894F-6565-47AC-B1A0-56598255E2B4}.Release|x86.ActiveCfg = Release|Any CPU
+		{B7F65AD4-D7DE-42E5-A691-55A494E201F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F65AD4-D7DE-42E5-A691-55A494E201F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F65AD4-D7DE-42E5-A691-55A494E201F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B7F65AD4-D7DE-42E5-A691-55A494E201F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F65AD4-D7DE-42E5-A691-55A494E201F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F65AD4-D7DE-42E5-A691-55A494E201F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Debug|x86.ActiveCfg = Debug|x86
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Debug|x86.Build.0 = Debug|x86
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Release|x86.ActiveCfg = Release|x86
+		{FC5E8433-ABD8-4A19-B041-297294410788}.Release|x86.Build.0 = Release|x86
+		{5492D959-27D1-481C-87A0-8E103D43BA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5492D959-27D1-481C-87A0-8E103D43BA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5492D959-27D1-481C-87A0-8E103D43BA2D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5492D959-27D1-481C-87A0-8E103D43BA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5492D959-27D1-481C-87A0-8E103D43BA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5492D959-27D1-481C-87A0-8E103D43BA2D}.Release|x86.ActiveCfg = Release|Any CPU
+		{C149B987-64D7-45D7-B401-6EC93A33FC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C149B987-64D7-45D7-B401-6EC93A33FC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C149B987-64D7-45D7-B401-6EC93A33FC1F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C149B987-64D7-45D7-B401-6EC93A33FC1F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C149B987-64D7-45D7-B401-6EC93A33FC1F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C149B987-64D7-45D7-B401-6EC93A33FC1F}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

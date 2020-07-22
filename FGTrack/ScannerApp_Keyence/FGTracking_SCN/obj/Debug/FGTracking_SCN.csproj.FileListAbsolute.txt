@@ -1,0 +1,44 @@
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\bin\Debug\FGTracking_SCN.exe
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\bin\Debug\FGTracking_SCN.pdb
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\obj\Debug\FGTracking_SCN.Form1.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\obj\Debug\FGTracking_SCN.frmMainMenu.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\obj\Debug\FGTracking_SCN.Properties.Resources.resources
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\obj\Debug\FGTracking_SCN.csproj.GenerateResource.Cache
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\obj\Debug\FGTracking_SCN.exe
+J:\Projects\PLASESS\FINISH_GOOD_TRACKING\FG_Tracking\FGTracking_SCN\obj\Debug\FGTracking_SCN.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.frmLockDown.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\obj\Debug\FGTracking_SCN.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\HTN.BITS.SCN.LOCKDOWN.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\HTN.BITS.SCN.LOCKDOWN.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\bin\Debug\HTN.BITS.SCN.LOCKDOWN.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\app.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\HTN.BITS.SCN.LOCKDOWN.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\HTN.BITS.SCN.LOCKDOWN.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\HTN.BITS.SCN.LOCKDOWN.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\en-US\HTN.BITS.SCN.LOCKDOWN.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\ja-JP\HTN.BITS.SCN.LOCKDOWN.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\Ionic.Zip.CF.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\SoapExtensionLib.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\bin\Debug\SoapExtensionLib.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.frmLockDown.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\FGTracking_SCN.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\en-US\HTN.BITS.SCN.LOCKDOWN.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\ja-JP\HTN.BITS.SCN.LOCKDOWN.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\FGTracking_SCN\obj\Debug\HTN.BITS.SCN.LOCKDOWN.pdb

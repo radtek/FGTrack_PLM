@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmPickingList</FormName>
+  <GridControl>grdPickingList</GridControl>
+  <LastDefaultView>GridView</LastDefaultView>
+  <FormSize>
+    <Width>845</Width>
+    <Height>590</Height>
+  </FormSize>
+  <FormLocation>
+    <X>217</X>
+    <Y>90</Y>
+  </FormLocation>
+</FormConfigState>

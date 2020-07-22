@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITS_DAL", "BITS_DAL\BITS_DAL.csproj", "{13DBB39F-B396-42A2-8992-FB8C7E7ED0ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FGTrackService_BLL", "FGTrackService_BLL\FGTrackService_BLL.csproj", "{71DB97B9-C47F-466D-AEC6-DA577EDACF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITS_BEL", "BITS_BEL\BITS_BEL.csproj", "{BBD015E0-46CC-4899-9902-9C8098958633}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FGTrackService", "FGTrackService\", "{956A9E87-17DE-4537-9AEB-9E64665EF4A1}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{71DB97B9-C47F-466D-AEC6-DA577EDACF38}|FGTrackService.BLL.dll;{13DBB39F-B396-42A2-8992-FB8C7E7ED0ED}|HTN.BITS.DAL.dll;{BBD015E0-46CC-4899-9902-9C8098958633}|HTN.BITS.BEL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/FGTrackService"
+		Debug.AspNetCompiler.PhysicalPath = "FGTrackService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FGTrackService\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FGTrackService"
+		Release.AspNetCompiler.PhysicalPath = "FGTrackService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FGTrackService\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4493"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13DBB39F-B396-42A2-8992-FB8C7E7ED0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DBB39F-B396-42A2-8992-FB8C7E7ED0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DBB39F-B396-42A2-8992-FB8C7E7ED0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DBB39F-B396-42A2-8992-FB8C7E7ED0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DB97B9-C47F-466D-AEC6-DA577EDACF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DB97B9-C47F-466D-AEC6-DA577EDACF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DB97B9-C47F-466D-AEC6-DA577EDACF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DB97B9-C47F-466D-AEC6-DA577EDACF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD015E0-46CC-4899-9902-9C8098958633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD015E0-46CC-4899-9902-9C8098958633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD015E0-46CC-4899-9902-9C8098958633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD015E0-46CC-4899-9902-9C8098958633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956A9E87-17DE-4537-9AEB-9E64665EF4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956A9E87-17DE-4537-9AEB-9E64665EF4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956A9E87-17DE-4537-9AEB-9E64665EF4A1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{956A9E87-17DE-4537-9AEB-9E64665EF4A1}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

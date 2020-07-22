@@ -1,0 +1,5 @@
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_BEL\bin\Debug\HTN.BITS.BEL.MILKRUN.dll
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_BEL\bin\Debug\HTN.BITS.BEL.MILKRUN.pdb
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_BEL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_BEL\obj\Debug\HTN.BITS.BEL.MILKRUN.dll
+D:\Projects\HTN_LCB\MILKRUN_LCB\WindowApp\BITS_BEL\obj\Debug\HTN.BITS.BEL.MILKRUN.pdb

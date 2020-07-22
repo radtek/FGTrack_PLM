@@ -1,0 +1,42 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.pdb
+D:\BACKUP PROJECT\FGTrack\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\BACKUP PROJECT\FGTrack\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\BACKUP PROJECT\FGTrack\BITS_QRCodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\BACKUP PROJECT\FGTrack\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\BACKUP PROJECT\FGTrack\BITS_QRCodeLib\obj\Release\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\BACKUP PROJECT\FGTrack\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.dll
+D:\BACKUP PROJECT\FGTrack\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_QRCodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_QRCodeLib\obj\Release\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_QRCodeLib\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_QRCodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.Resources.Resources.resources
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_QRCodeLib\obj\Release\BITS_QRCodeLib.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_QRCodeLib\obj\Release\HTN.BITS.QRCodeLib.pdb

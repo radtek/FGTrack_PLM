@@ -1,0 +1,569 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="PreviewLineCount">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="LevelIndent">-1</property>
+  <property name="BestFitMaxRowCount">-1</property>
+  <property name="FocusRectStyle">RowFocus</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="GroupFooterShowMode">VisibleIfExpanded</property>
+  <property name="ChildGridLevelName" />
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="VertScrollTipFieldName" />
+  <property name="NewItemRowText" />
+  <property name="GroupPanelText" />
+  <property name="PreviewFieldName" />
+  <property name="BorderStyle">Default</property>
+  <property name="ViewCaption">Material Supply Daily Record</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailHeight">350</property>
+  <property name="Name">brvQrySummary</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="ViewCaptionHeight">35</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="ReadOnly">true</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowDetailButtons">false</property>
+    <property name="ShowFooter">true</property>
+    <property name="ShowViewCaption">true</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="AllowCellMerge">true</property>
+  </property>
+  <property name="BandPanelRowHeight">-1</property>
+  <property name="Columns" iskey="true" value="13">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+      <property name="FieldName">ITEM_GROUP</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Caption"> </property>
+      <property name="Name">col_ITEM_GROUP</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="FieldName">REP_NO</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">REP_NO</property>
+      <property name="Name">col_REP_NO</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+      <property name="FieldName">REP_DATE</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Caption"> Scan Date</property>
+      <property name="Name">col_REP_DATE</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+      <property name="FieldName">SCAN_TIME</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Caption">Scan Time</property>
+      <property name="Name">col_SCAN_TIME</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+      <property name="FieldName">MC_NO</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Caption">M/C No</property>
+      <property name="Name">col_MC_NO</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Gray</property>
+      </property>
+      <property name="Width">112</property>
+      <property name="FieldName">PRODUCT_NO</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Caption">Part Name</property>
+      <property name="Name">col_PRODUCT_NO</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="Width">166</property>
+      <property name="FieldName">MTL_CODE</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Caption">Code</property>
+      <property name="Name">col_MTL_CODE</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">107</property>
+      <property name="FieldName">MTL_NAME</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Caption">Name</property>
+      <property name="Name">col_MTL_NAME</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">107</property>
+      <property name="FieldName">MTL_GRADE</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Caption">Grade</property>
+      <property name="Name">col_MTL_GRADE</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">107</property>
+      <property name="FieldName">MTL_COLOR</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Caption">Color</property>
+      <property name="Name">col_MTL_COLOR</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">134</property>
+      <property name="FieldName">TOTAL_WEIGHT</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Caption"> </property>
+      <property name="Name">col_TOTAL_WEIGHT</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+      <property name="FieldName">UNIT_ID</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Caption">Unit</property>
+      <property name="Name">col_UNIT_ID</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">90</property>
+      <property name="FieldName">REP_USER</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Caption"> </property>
+      <property name="Name">col_USER</property>
+    </property>
+  </property>
+  <property name="MinBandPanelRowCount">1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="GroupFooter" iskey="true" value="GroupFooter">
+      <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+    </property>
+    <property name="FocusedRow" iskey="true" value="FocusedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FocusedCell" iskey="true" value="FocusedCell">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FooterPanel" iskey="true" value="FooterPanel">
+      <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+    </property>
+    <property name="ViewCaption" iskey="true" value="ViewCaption">
+      <property name="TextOptions" isnull="true" iskey="true">
+        <property name="HAlignment">Center</property>
+      </property>
+      <property name="Font">Tahoma, 15pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+        <property name="UseTextOptions">true</property>
+      </property>
+    </property>
+    <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="SelectedRow" iskey="true" value="SelectedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="RowHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="Bands" iskey="true" value="7">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="RowCount">2</property>
+      <property name="MinWidth">20</property>
+      <property name="Columns" iskey="true" value="1">
+        <property name="Item1">col_ITEM_GROUP</property>
+      </property>
+      <property name="Name">banITEM</property>
+      <property name="Caption">Item</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="MinWidth">20</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">col_REP_DATE</property>
+        <property name="Item2">col_SCAN_TIME</property>
+      </property>
+      <property name="Name">banDate</property>
+      <property name="Caption">Date</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">224</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="MinWidth">20</property>
+      <property name="Columns" iskey="true" value="1">
+        <property name="Item1">col_MC_NO</property>
+      </property>
+      <property name="Name">banMC_NO</property>
+      <property name="Caption">Injection</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="MinWidth">20</property>
+      <property name="Columns" iskey="true" value="1">
+        <property name="Item1">col_PRODUCT_NO</property>
+      </property>
+      <property name="Name">gridBand1</property>
+      <property name="Caption">Part No.</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">112</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="MinWidth">20</property>
+      <property name="Columns" iskey="true" value="5">
+        <property name="Item1">col_MTL_CODE</property>
+        <property name="Item2">col_MTL_NAME</property>
+        <property name="Item3">col_MTL_GRADE</property>
+        <property name="Item4">col_MTL_COLOR</property>
+        <property name="Item5">col_UNIT_ID</property>
+      </property>
+      <property name="Name">banMaterial</property>
+      <property name="Caption">Material</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">599</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="MinWidth">20</property>
+      <property name="Columns" iskey="true" value="1">
+        <property name="Item1">col_TOTAL_WEIGHT</property>
+      </property>
+      <property name="Name">banTOTAL_WEIGHT</property>
+      <property name="Caption">Total Weight (Kgs)</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">134</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="MinWidth">20</property>
+      <property name="Columns" iskey="true" value="1">
+        <property name="Item1">col_USER</property>
+      </property>
+      <property name="Name">ban_USER</property>
+      <property name="Caption">USER</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">90</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

@@ -1,0 +1,29 @@
+INSERT INTO STOCK_BY_CUSTOMER ( 
+    PARTY_ID,
+    PARTY_NAME,
+    WH_ID,
+    PRODUCT_NO,
+    PRODUCT_NAME,
+    PRODUCT_TYPE_ID,
+    PRODUCT_TYPE_NAME,
+    BOX_QTY,
+    QTY,
+    NO_OF_BOX,
+    FLAG,
+    LASTUPDATE
+) 
+VALUES ( 
+    @PARTY_ID,
+    @PARTY_NAME,
+    @WH_ID,
+    @PRODUCT_NO,
+    @PRODUCT_NAME,
+    @PRODUCT_TYPE_ID,
+    @PRODUCT_TYPE_NAME,
+    @BOX_QTY,
+    @QTY,
+    @NO_OF_BOX,
+    @FLAG,
+    @LASTUPDATE
+);
+

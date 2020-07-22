@@ -1,0 +1,505 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.exe.config
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.exe
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BLL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.LIB.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.QRCodeLib.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Winforms.Components.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Oracle.DataAccess.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BLL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.QRCodeLib.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Winforms.Components.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.LIB.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\th\HTN.BITS.LIB.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvJobOrder.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvLoadingOrder.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvProduct.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvQCReturn.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvShippingOrder.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseChildForm.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseChildFormPopup.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseDialogForm.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseForm.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.frmUserInfo.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.ReportViewer.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.SysFileInfo.DIA_CopyFiles.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.frmLogin.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmAdjustInInterface.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmAsmInterface.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmPurchaseInterface.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVMachine.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVMtlType.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVParty.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVProduct.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVRole.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMachine.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMaterialType.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmParty.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmProduct.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmProductionType.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPickingList.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopResultUpRevision.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopTestReport.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPrintProductCard.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPrintRTProductCard.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmProductionSummaryDaily.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmProductTracking.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockAsOn.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockAsOnDate.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInOut.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInSummary.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockOutSummary.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupJobTracking.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupLoadingInfo.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupPickingInfo.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockAsOnDate.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockOutSummaryDetial.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupSummaryDailyDetail.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_CUSTOMER_RETURN.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_DELIVERY_ORDER.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_DELIVERY_SLIP.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_FG_QC_RETURN.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_FG_RETURN_WH.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_JOB_ORDER.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_LOADING_ORDER.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MACHINE.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PARTLIST_IN_PALLET.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PICKING_LIST.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD_1.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmJobOrder.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmLoadingOrder.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmShippingOrder.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCReturn_Customer.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCReturn_WH.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\PLASESS_UIL.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.exe.licenses
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.exe
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.exe.config
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.exe
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.BonusSkins.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.Charts.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.Data.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.PivotGrid.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.Printing.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.Reports.v11.2.Designer.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.Utils.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraBars.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraCharts.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraEditors.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraGrid.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraLayout.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraNavBar.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraPivotGrid.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraPrinting.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.Extensions.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraTreeList.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BLL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.LIB.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Winforms.Components.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\office.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraLayout.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.PivotGrid.v11.2.Core.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\office.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BLL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.Data.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.Utils.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraTreeList.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraEditors.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraPivotGrid.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraGrid.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraCharts.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraBars.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.Extensions.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Winforms.Components.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraNavBar.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\HTN.BITS.LIB.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\DevExpress.XtraPrinting.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraNavBar.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\th\HTN.BITS.LIB.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\PLASESS_UIL.csproj.ResolveComReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmProgram.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmProgramType.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmRole.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmUser.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvJobOrder.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvLoadingOrder.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvProduct.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvQCReturn.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvShippingOrder.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseChildForm.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseChildFormPopup.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseDialogForm.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseForm.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.frmUserInfo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.ReportViewer.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.SysFileInfo.DIA_CopyFiles.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.ConfirmForms.frmCOFAuthen.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.ConfirmForms.frmCOFPrintCard.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.frmLogin.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.frmMainMenu.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmAdjustInInterface.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmAsmInterface.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmPurchaseInterface.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVPartyProduct.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVMachine.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVMtlType.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVParty.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVProduct.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVRole.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMachine.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMaterialType.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmParty.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmProduct.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmProductionType.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPickingList.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopResultUpRevision.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopTestReport.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopUpload_SO.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPrintProductCard.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPrintRTProductCard.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Properties.Resources.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmDeliveryLotSummary.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInHistory.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmProductionSummaryDaily.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmProductTracking.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockAsOn.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockAsOnDate.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInOut.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInSummary.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockOutSummary.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupJobTracking.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupLoadingInfo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupPickingInfo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockAsOnDate.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockOutSummaryDetial.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupSummaryDailyDetail.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PALLET_DETAIL.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD_8545.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_CUSTOMER_RETURN.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_DELIVERY_ORDER.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_DELIVERY_SLIP.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_FG_QC_RETURN.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_FG_RETURN_WH.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_JOB_ORDER.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_LOADING_ORDER.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MACHINE.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PARTLIST_IN_PALLET.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PICKING_LIST.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD_1.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_TRANSFER_ORDER.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmDeliveryOrder.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmJobOrder.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmLoadingOrder.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmShippingOrder.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmProductCardInfo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCReturn_Customer.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCReturn_WH.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCTransfer_Order.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\PLASESS_UIL.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.exe.licenses
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.exe
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_UIL\bin\Debug\Oracle.DataAccess.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.UIL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.BonusSkins.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.Charts.v11.2.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.Data.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.PivotGrid.v11.2.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.Printing.v11.2.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.Reports.v11.2.Designer.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.Utils.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraBars.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraCharts.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraEditors.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraGrid.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraLayout.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraNavBar.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraPivotGrid.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraPrinting.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.Extensions.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraTreeList.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.BEL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.BLL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.QRCodeLib.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\Winforms.Components.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\office.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraLayout.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.PivotGrid.v11.2.Core.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\office.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.BLL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.BEL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.Data.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.Utils.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraTreeList.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraEditors.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraPivotGrid.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraGrid.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraCharts.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraBars.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraReports.v11.2.Extensions.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.QRCodeLib.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\Winforms.Components.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraNavBar.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\HTN.BITS.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\DevExpress.XtraPrinting.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraNavBar.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraNavBar.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraNavBar.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraNavBar.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\th\HTN.BITS.LIB.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\de\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\es\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\PLASESS_UIL.csproj.ResolveComReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmProgram.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmProgramType.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmRole.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Administrator.frmUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvJobOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvLoadingOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvProduct.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvQCReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.AdvanceSearch.frmAdvShippingOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseChildForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseChildFormPopup.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseDialogForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.BaseForm.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.CSV.frmUploadCSV.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.frmUserInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.ReportViewer.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Component.SysFileInfo.DIA_CopyFiles.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.ConfirmForms.frmCOFAuthen.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.ConfirmForms.frmCOFPrintCard.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.frmLogin.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmAdjustInInterface.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmAsmInterface.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Interface.frmPurchaseInterface.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVDocumentOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVMtl.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVPartyProduct.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVMachine.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVMtlType.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVParty.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVProduct.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.LOVForms.frmLOVRole.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmBOM.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMaterialSP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMachine.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMaterial.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmMaterialType.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmParty.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmProduct.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Master.frmProductionType.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPickingList.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPOPLabelOption.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopResultUpRevision.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopTestReport.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPopUpload_SO.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPrintMaterialCard.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPrintProductCard.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.PopupForms.frmPrintRTProductCard.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmDeliveryLotSummary.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmDocListInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmMixedDailyRecord.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmRepDailyRecord.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockAsOnDate_Mtl.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInHistory.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmProductionSummaryDaily.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmProductTracking.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockAsOn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockAsOnDate.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInOut.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInSummary.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockInSummary_Mtl.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockOutSummary.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query.frmStockOutSummary_Mtl.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupJobTracking.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupLoadingInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupPickingInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockAsOnDate.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockAsOnDate_Mtl.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockInSummaryDetial_Mtl.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockOutSummaryDetial.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupStockOutSummaryDetial_Mtl.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Query_Popup.frmQupSummaryDailyDetail.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_CARGO_CS.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MATERIAL_CARD_LABEL.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MATERIAL_CARD_LABEL_1.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MATERIAL_CARD_LABEL_2.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MATERIAL_CARD_LABEL_3.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MATERIAL_CARD_LABEL_PRESS.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MTL_IN_SHEET.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PALLET_DETAIL.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD_8545.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_CUSTOMER_RETURN.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_DELIVERY_ORDER.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_DELIVERY_SLIP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_FG_QC_RETURN.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_FG_RETURN_WH.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_JOB_ORDER.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_LOADING_ORDER.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_MACHINE.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PARTLIST_IN_PALLET.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PICKING_LIST.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_PRODUCT_CARD_1.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Reports.RPT_TRANSFER_ORDER.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmArrival.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmDeliveryOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmJobOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmLoadingOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmShippingOrder.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Transaction.frmUploadPlan.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCReturn_Customer.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCReturn_WH.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.Utility.frmQCTransfer_Order.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\PLASESS_UIL.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.exe.licenses
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_UIL\obj\Debug\HTN.BITS.UIL.PLASESS.pdb

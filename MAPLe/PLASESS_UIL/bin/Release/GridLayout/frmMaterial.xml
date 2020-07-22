@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmMaterial</FormName>
+  <GridControl>grdMaterial</GridControl>
+  <LastDefaultView>GridView</LastDefaultView>
+  <FormSize>
+    <Width>1424</Width>
+    <Height>792</Height>
+  </FormSize>
+  <FormLocation>
+    <X>0</X>
+    <Y>0</Y>
+  </FormLocation>
+</FormConfigState>

@@ -1,0 +1,24 @@
+D:\Repositories\MCS_SCN\SCN_BLL\bin\Debug\app.config
+D:\Repositories\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BLL.dll.config
+D:\Repositories\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BLL.dll
+D:\Repositories\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BLL.pdb
+D:\Repositories\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BEL.dll
+D:\Repositories\MCS_SCN\SCN_BLL\bin\Debug\Newtonsoft.Json.Compact.dll
+D:\Repositories\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BEL.pdb
+D:\Repositories\MCS_SCN\SCN_BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\MCS_SCN\SCN_BLL\obj\Debug\HTN.BITS.MSC.SCN.BLL.Properties.Resources.resources
+D:\Repositories\MCS_SCN\SCN_BLL\obj\Debug\MSC_SCN_BLL.csproj.GenerateResource.Cache
+D:\Repositories\MCS_SCN\SCN_BLL\obj\Debug\HTN.BITS.MSC.SCN.BLL.dll
+D:\Repositories\MCS_SCN\SCN_BLL\obj\Debug\HTN.BITS.MSC.SCN.BLL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Debug\app.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BLL.dll.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BLL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\bin\Debug\HTN.BITS.MSC.SCN.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Debug\HTN.BITS.MSC.SCN.BLL.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Debug\MSC_SCN_BLL.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Debug\HTN.BITS.MSC.SCN.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BLL\obj\Debug\HTN.BITS.MSC.SCN.BLL.pdb

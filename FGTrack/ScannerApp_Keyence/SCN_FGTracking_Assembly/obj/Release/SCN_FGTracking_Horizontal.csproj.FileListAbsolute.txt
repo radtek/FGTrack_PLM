@@ -1,0 +1,209 @@
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\fr-CA\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmAssignNG.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmCheckUser.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmNGConfirmRep.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmOKCargo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductFinish.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmQC.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmUtility.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.en-US.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.fr-CA.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\SCN_FGTracking_Horizontal.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\fr-CA\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\app.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\Intermec.DataCollection.CF3.5.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\app.config
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe.config
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\fr-CA\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\Intermec.Device.CF3.5.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\Intermec.DataCollection.CF3.5.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmAssignNG.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmCheckUser.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmMainMenu.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmNGConfirmRep.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmOKCargo.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductCardInfo.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductFinish.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmQC.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmUtility.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Properties.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.en-US.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.fr-CA.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\SCN_FGTracking_Horizontal.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\fr-CA\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\Intermec.DataCollection.CF3.5.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmAssignNG.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmNGConfirmRep.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmOKCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductFinish.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmQC.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.fr-CA.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\SCN_FGTracking_Horizontal.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\app.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\fr-CA\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\btLibDefNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\btScanLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\btSysLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Horizontal\obj\Release\fr-CA\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\app.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\btLibDefNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\btScanLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\btSysLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\Microsoft.Windowsce.Forms.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\mscorlib.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\System.Windows.Forms.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmAssignNG.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmNGConfirmRep.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmOKCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductFinish.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmQC.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.ja-JP.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\SCN_FGTracking_Horizontal.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\app.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe.config
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\btLibDefNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\btScanLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\btSysLibNet.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\Microsoft.Windowsce.Forms.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\mscorlib.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\System.Windows.Forms.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmAssignNG.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmNGConfirmRep.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmOKCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductFinish.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmQC.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.ja-JP.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\SCN_FGTracking_Horizontal.csproj.GenerateResource.Cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp - Copy - Copy\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\app.config
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe.config
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\Microsoft.Windowsce.Forms.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\mscorlib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\System.Windows.Forms.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmAssignNG.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmCheckUser.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmMainMenu.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmNGConfirmRep.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmOKCargo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductCardInfo.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductFinish.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmQC.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmUtility.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Properties.Resources.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.en-US.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.ja-JP.resources
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\SCN_FGTracking_Horizontal.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\Repositories\FGTrack_PLH\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmAssignNG.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmCheckUser.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmMainMenu.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmNGConfirmRep.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmOKCargo.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductCardInfo.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmProductFinish.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmQC.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.frmUtility.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Properties.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.en-US.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.Resources.Resources.ja-JP.resources
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\SCN_FGTracking_Horizontal.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\app.config
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe.config
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.exe
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\Microsoft.Windowsce.Forms.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\mscorlib.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\System.Windows.Forms.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\en-US\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\ja-JP\HTN.BITS.FGTRACK.HORIZONTAL.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\MAPLe Mexico\MAPLe Scanner\Modify\ScannerApp_Keyence\SCN_FGTracking_Horizontal\obj\Release\HTN.BITS.FGTRACK.HORIZONTAL.pdb

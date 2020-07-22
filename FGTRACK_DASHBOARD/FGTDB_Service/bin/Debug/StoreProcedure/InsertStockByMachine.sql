@@ -1,0 +1,41 @@
+INSERT INTO STOCK_BY_MACHINE ( 
+    PARTY_ID,
+    PARTY_NAME,
+    START_DATE,
+    END_DATE,
+    STATUS,
+    PLAN_QTY,
+    PRODUCT_TYPE,
+    PROD_TYPE_S,
+    PRODUCT_NO,
+    PRODUCT_NAME,
+    STOCK_PCS,
+    STOCK_BOX,
+    MC_NO,
+    MACHINE_NAME,
+    MIN_BOX,
+    MAX_BOX,
+    FLAG,
+    LASTUPDATE 
+) 
+VALUES ( 
+    @PARTY_ID,
+    @PARTY_NAME,
+    @START_DATE,
+    @END_DATE,
+    @STATUS,
+    @PLAN_QTY,
+    @PRODUCT_TYPE,
+    @PROD_TYPE_S,
+    @PRODUCT_NO,
+    @PRODUCT_NAME,
+    @STOCK_PCS,
+    @STOCK_BOX,
+    @MC_NO,
+    @MACHINE_NAME,
+    @MIN_BOX,
+    @MAX_BOX,
+    @FLAG,
+    @LASTUPDATE 
+);
+

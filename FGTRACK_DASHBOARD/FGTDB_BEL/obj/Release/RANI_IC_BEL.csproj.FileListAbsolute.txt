@@ -1,0 +1,5 @@
+D:\Projects\RANI\RANI_IC\RANI_IC\RANI_IC_BEL\bin\Release\RANI.IC.BEL.dll
+D:\Projects\RANI\RANI_IC\RANI_IC\RANI_IC_BEL\bin\Release\RANI.IC.BEL.pdb
+D:\Projects\RANI\RANI_IC\RANI_IC\RANI_IC_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\RANI\RANI_IC\RANI_IC\RANI_IC_BEL\obj\Release\RANI.IC.BEL.dll
+D:\Projects\RANI\RANI_IC\RANI_IC\RANI_IC_BEL\obj\Release\RANI.IC.BEL.pdb

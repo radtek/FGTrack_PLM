@@ -1,0 +1,15 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\obj\Release\HTN.BITS.BEL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_BEL\obj\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_BEL\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_BEL\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_BEL\obj\Release\HTN.BITS.BEL.PLASESS.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_BEL\obj\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\obj\Release\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_BEL\obj\Release\HTN.BITS.BEL.PLASESS.pdb

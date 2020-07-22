@@ -1,0 +1,10 @@
+D:\Repositories\MCS_SCN\SCN_BEL\bin\Debug\HTN.BITS.MSC.SCN.BEL.dll
+D:\Repositories\MCS_SCN\SCN_BEL\bin\Debug\HTN.BITS.MSC.SCN.BEL.pdb
+D:\Repositories\MCS_SCN\SCN_BEL\obj\Debug\ResolveAssemblyReference.cache
+D:\Repositories\MCS_SCN\SCN_BEL\obj\Debug\HTN.BITS.MSC.SCN.BEL.dll
+D:\Repositories\MCS_SCN\SCN_BEL\obj\Debug\HTN.BITS.MSC.SCN.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BEL\bin\Debug\HTN.BITS.MSC.SCN.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BEL\bin\Debug\HTN.BITS.MSC.SCN.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BEL\obj\Debug\HTN.BITS.MSC.SCN.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MCS_SCN\SCN_BEL\obj\Debug\HTN.BITS.MSC.SCN.BEL.pdb

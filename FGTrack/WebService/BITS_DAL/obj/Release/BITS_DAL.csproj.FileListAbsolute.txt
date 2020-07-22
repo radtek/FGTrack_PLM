@@ -1,0 +1,20 @@
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_DAL\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\bin\Release\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Release\HTN.BITS.DAL.pdb

@@ -1,0 +1,695 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="PreviewLineCount">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="LevelIndent">-1</property>
+  <property name="BestFitMaxRowCount">-1</property>
+  <property name="FocusRectStyle">RowFocus</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="GroupFooterShowMode">VisibleIfExpanded</property>
+  <property name="ChildGridLevelName" />
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="VertScrollTipFieldName" />
+  <property name="NewItemRowText" />
+  <property name="GroupPanelText" />
+  <property name="PreviewFieldName" />
+  <property name="BorderStyle">Default</property>
+  <property name="ViewCaption">DELIVERY LOT SUMMARY</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailHeight">350</property>
+  <property name="Name">brvQrySummary</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="ViewCaptionHeight">35</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="ReadOnly">true</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowDetailButtons">false</property>
+    <property name="ShowFooter">true</property>
+    <property name="ShowViewCaption">true</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+  </property>
+  <property name="BandPanelRowHeight">-1</property>
+  <property name="Columns" iskey="true" value="16">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtString</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">64</property>
+      <property name="FieldName">PROD_TYPE</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Caption">TYPE</property>
+      <property name="Name">brvQrySummary_col_PROD_TYPE</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtString</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+      </property>
+      <property name="Width">95</property>
+      <property name="FieldName">PRODUCT_NO</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Caption">PRODUCT NO</property>
+      <property name="Name">brvQrySummary_col_PRODUCT_NO</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtString</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">162</property>
+      <property name="FieldName">PRODUCT_NAME</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Caption">PRODUCT NAME</property>
+      <property name="Name">brvQrySummary_col_PRODUCT_NAME</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtNumber</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="Width">47</property>
+      <property name="FieldName">BOX_QTY</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Caption">BOX QTY</property>
+      <property name="Name">brvQrySummary_col_BOX_QTY</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtString</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">47</property>
+      <property name="FieldName">UNIT_ID</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Caption">UNIT</property>
+      <property name="Name">brvQrySummary_col_UNIT</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtDate</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:dd-MM-yyyy}</property>
+        <property name="FormatType">DateTime</property>
+      </property>
+      <property name="Width">58</property>
+      <property name="FieldName">DELIVERY_DATE</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Caption">DATE</property>
+      <property name="Name">brvQrySummary_col_DELIVERY_DATE</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">50</property>
+      <property name="FieldName">ASSIGN</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Caption">PD CARD</property>
+      <property name="Name">brvQrySummary_col_ASSIGN</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">35</property>
+      <property name="FieldName">LOT</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Caption">LOT</property>
+      <property name="Name">brvQrySummary_col_LOT</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">50</property>
+      <property name="FieldName">INJT</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Caption">INJT</property>
+      <property name="Name">brvQrySummary_col_INJT</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">50</property>
+      <property name="FieldName">TRIM</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Caption">TRIM</property>
+      <property name="Name">brvQrySummary_col_TRIM</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">50</property>
+      <property name="FieldName">ELEC</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Caption">ELEC</property>
+      <property name="Name">brvQrySummary_col_ELEC</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">50</property>
+      <property name="FieldName">PQC</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Caption">PQC</property>
+      <property name="Name">brvQrySummary_col_PQC</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">50</property>
+      <property name="FieldName">QC</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">12</property>
+      <property name="Caption">QC</property>
+      <property name="Name">brvQrySummary_col_QC</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="BackColor">224, 224, 224</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">50</property>
+      <property name="FieldName">FG</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">13</property>
+      <property name="Caption">FINISH</property>
+      <property name="Name">brvQrySummary_col_FG</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtNumber</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="Width">42</property>
+      <property name="FieldName">QTY</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">14</property>
+      <property name="Caption">(PCS)</property>
+      <property name="Name">brvQrySummary_col_QTY</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">QTY</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="ColumnEditName">rps_txtNumber</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="Width">46</property>
+      <property name="FieldName">NO_OF_BOX</property>
+      <property name="Fixed">None</property>
+      <property name="VisibleIndex">15</property>
+      <property name="Caption">(BOX)</property>
+      <property name="Name">brvQrySummary_col_NO_OF_BOX</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">NO_OF_BOX</property>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="MinBandPanelRowCount">1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="GroupFooter" iskey="true" value="GroupFooter">
+      <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+    </property>
+    <property name="FocusedRow" iskey="true" value="FocusedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FocusedCell" iskey="true" value="FocusedCell">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="ViewCaption" iskey="true" value="ViewCaption">
+      <property name="TextOptions" isnull="true" iskey="true">
+        <property name="HAlignment">Near</property>
+      </property>
+      <property name="Font">Tahoma, 15pt, style=Bold</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+        <property name="UseTextOptions">true</property>
+      </property>
+    </property>
+    <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="SelectedRow" iskey="true" value="SelectedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="RowHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="Bands" iskey="true" value="4">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Columns" iskey="true" value="5">
+        <property name="Item1">brvQrySummary_col_PROD_TYPE</property>
+        <property name="Item2">brvQrySummary_col_PRODUCT_NO</property>
+        <property name="Item3">brvQrySummary_col_PRODUCT_NAME</property>
+        <property name="Item4">brvQrySummary_col_BOX_QTY</property>
+        <property name="Item5">brvQrySummary_col_UNIT</property>
+      </property>
+      <property name="Name">brvQrySummary_ban_PRODUCT</property>
+      <property name="Caption">PRODUCT</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">415</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Columns" iskey="true" value="1">
+        <property name="Item1">brvQrySummary_col_DELIVERY_DATE</property>
+      </property>
+      <property name="Name">gridBand1</property>
+      <property name="Caption">DELIVERY</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">58</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Columns" iskey="true" value="8">
+        <property name="Item1">brvQrySummary_col_ASSIGN</property>
+        <property name="Item2">brvQrySummary_col_LOT</property>
+        <property name="Item3">brvQrySummary_col_INJT</property>
+        <property name="Item4">brvQrySummary_col_TRIM</property>
+        <property name="Item5">brvQrySummary_col_ELEC</property>
+        <property name="Item6">brvQrySummary_col_PQC</property>
+        <property name="Item7">brvQrySummary_col_QC</property>
+        <property name="Item8">brvQrySummary_col_FG</property>
+      </property>
+      <property name="Name">brvQrySummary_ban_PRODUCTION</property>
+      <property name="Caption">LOT NO.</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="VAlignment">Center</property>
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">385</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">brvQrySummary_col_QTY</property>
+        <property name="Item2">brvQrySummary_col_NO_OF_BOX</property>
+      </property>
+      <property name="Name">brvQrySummary_ban_FG</property>
+      <property name="Caption">TOTAL</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="VAlignment">Center</property>
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Width">88</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummary" iskey="true" value="2">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="DisplayFormat">{0:#,##0}</property>
+      <property name="SummaryType">Sum</property>
+      <property name="FieldName">QTY</property>
+      <property name="Tag" isnull="true" />
+      <property name="ShowInGroupColumnFooterName">brvQrySummary_col_QTY</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="DisplayFormat">{0:#,##0}</property>
+      <property name="SummaryType">Sum</property>
+      <property name="FieldName">NO_OF_BOX</property>
+      <property name="Tag" isnull="true" />
+      <property name="ShowInGroupColumnFooterName">brvQrySummary_col_NO_OF_BOX</property>
+    </property>
+  </property>
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

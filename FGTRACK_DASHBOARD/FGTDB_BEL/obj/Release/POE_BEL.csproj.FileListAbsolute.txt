@@ -1,0 +1,15 @@
+D:\Projects\HTN_BITS\Purchase_Order\POE\POE_BEL\bin\Release\HTN.BITS.POE.BEL.dll
+D:\Projects\HTN_BITS\Purchase_Order\POE\POE_BEL\bin\Release\HTN.BITS.POE.BEL.pdb
+D:\Projects\HTN_BITS\Purchase_Order\POE\POE_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HTN_BITS\Purchase_Order\POE\POE_BEL\obj\Release\HTN.BITS.POE.BEL.dll
+D:\Projects\HTN_BITS\Purchase_Order\POE\POE_BEL\obj\Release\HTN.BITS.POE.BEL.pdb
+D:\Projects\POE\POE_BEL\bin\Release\HTN.BITS.POE.BEL.dll
+D:\Projects\POE\POE_BEL\bin\Release\HTN.BITS.POE.BEL.pdb
+D:\Projects\POE\POE_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\POE\POE_BEL\obj\Release\HTN.BITS.POE.BEL.dll
+D:\Projects\POE\POE_BEL\obj\Release\HTN.BITS.POE.BEL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\POE\POE_BEL\bin\Release\HTN.BITS.POE.BEL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\POE\POE_BEL\bin\Release\HTN.BITS.POE.BEL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\POE\POE_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\POE\POE_BEL\obj\Release\HTN.BITS.POE.BEL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\POE\POE_BEL\obj\Release\HTN.BITS.POE.BEL.pdb

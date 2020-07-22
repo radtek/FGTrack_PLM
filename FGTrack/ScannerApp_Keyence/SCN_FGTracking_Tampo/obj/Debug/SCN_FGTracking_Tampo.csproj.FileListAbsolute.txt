@@ -1,0 +1,61 @@
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\HTN.BITS.FGTRACK.TAMPO.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\HTN.BITS.FGTRACK.TAMPO.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\HTN.BITS.FGTRACK.TAMPO.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\en-US\HTN.BITS.FGTRACK.TAMPO.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\fr-CA\HTN.BITS.FGTRACK.TAMPO.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmAssignNG.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmCheckUser.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmNGConfirmRep.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmOKCargo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProductFinish.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmQC.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmUtility.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Resources.Resources.en-US.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Resources.Resources.fr-CA.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\SCN_FGTracking_Tampo.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\en-US\HTN.BITS.FGTRACK.TAMPO.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\fr-CA\HTN.BITS.FGTRACK.TAMPO.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.pdb
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmAssignNG.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmNGConfirmRep.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmOKCargo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProductFinish.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProduction.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmQC.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmQCReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Resources.Resources.fr-CA.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_Tampo\obj\Debug\SCN_FGTracking_Tampo.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmAssignNG.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmNGConfirmRep.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmOKCargo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProcessFinish.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProductFinish.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmProduction.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmQC.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmQCReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\HTN.BITS.FGTRACK.TAMPO.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Tampo\obj\Debug\SCN_FGTracking_Tampo.csproj.GenerateResource.Cache

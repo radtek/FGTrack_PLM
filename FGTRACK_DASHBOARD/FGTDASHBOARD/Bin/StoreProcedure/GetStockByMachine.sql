@@ -1,0 +1,37 @@
+SELECT
+    PARTY_ID,
+    PARTY_NAME,
+    START_DATE,
+    END_DATE,
+    STATUS,
+    PLAN_QTY,
+    PRODUCT_TYPE,
+    PROD_TYPE_S,
+    PRODUCT_NO,
+    PRODUCT_NAME,
+    STOCK_PCS,
+    STOCK_BOX,
+    MC_NO,
+    MACHINE_NAME,
+    MIN_BOX,
+    MAX_BOX,
+    MAX(FLAG)
+FROM STOCK_BY_MACHINE
+WHERE  UPPER( PARTY_ID ) LIKE '%' || UPPER( @strPARTY_ID ) || '%'
+GROUP BY PARTY_ID,
+         START_DATE,
+         END_DATE,
+         MC_NO,
+         PARTY_NAME,         
+         STATUS,
+         PLAN_QTY,
+         PRODUCT_TYPE,
+         PROD_TYPE_S,
+         PRODUCT_NO,
+         PRODUCT_NAME,
+         STOCK_PCS,
+         STOCK_BOX,         
+         MACHINE_NAME,
+         MIN_BOX,
+         MAX_BOX
+;

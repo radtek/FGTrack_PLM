@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_FG_QC_RETURN" targetNamespace="http://tempuri.org/DTS_FG_QC_RETURN.xsd" xmlns:mstns="http://tempuri.org/DTS_FG_QC_RETURN.xsd" xmlns="http://tempuri.org/DTS_FG_QC_RETURN.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_FG_QC_RETURN" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DTS_FG_QC_RETURN" msprop:Generator_UserDSName="DTS_FG_QC_RETURN" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_RETURN_HDR" msprop:Generator_UserTableName="T_RETURN_HDR" msprop:Generator_RowDeletedName="T_RETURN_HDRRowDeleted" msprop:Generator_TableClassName="T_RETURN_HDRDataTable" msprop:Generator_RowChangedName="T_RETURN_HDRRowChanged" msprop:Generator_RowClassName="T_RETURN_HDRRow" msprop:Generator_RowChangingName="T_RETURN_HDRRowChanging" msprop:Generator_RowEvArgName="T_RETURN_HDRRowChangeEvent" msprop:Generator_RowEvHandlerName="T_RETURN_HDRRowChangeEventHandler" msprop:Generator_TablePropName="T_RETURN_HDR" msprop:Generator_TableVarName="tableT_RETURN_HDR" msprop:Generator_RowDeletingName="T_RETURN_HDRRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RT_NO" msprop:Generator_UserColumnName="RT_NO" msprop:Generator_ColumnPropNameInRow="RT_NO" msprop:Generator_ColumnVarNameInTable="columnRT_NO" msprop:Generator_ColumnPropNameInTable="RT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RT_DATE" msprop:Generator_UserColumnName="RT_DATE" msprop:Generator_ColumnPropNameInRow="RT_DATE" msprop:Generator_ColumnVarNameInTable="columnRT_DATE" msprop:Generator_ColumnPropNameInTable="RT_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="WH_ID" msprop:Generator_UserColumnName="WH_ID" msprop:Generator_ColumnPropNameInRow="WH_ID" msprop:Generator_ColumnVarNameInTable="columnWH_ID" msprop:Generator_ColumnPropNameInTable="WH_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_UserColumnName="REMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="no_of_label" msprop:Generator_UserColumnName="no_of_label" msprop:Generator_ColumnPropNameInRow="no_of_label" msprop:Generator_ColumnVarNameInTable="columnno_of_label" msprop:Generator_ColumnPropNameInTable="no_of_labelColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ISSUED_BY" msprop:Generator_UserColumnName="ISSUED_BY" msprop:Generator_ColumnPropNameInRow="ISSUED_BY" msprop:Generator_ColumnVarNameInTable="columnISSUED_BY" msprop:Generator_ColumnPropNameInTable="ISSUED_BYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ISSUED_DATE" msprop:Generator_UserColumnName="ISSUED_DATE" msprop:Generator_ColumnPropNameInRow="ISSUED_DATE" msprop:Generator_ColumnVarNameInTable="columnISSUED_DATE" msprop:Generator_ColumnPropNameInTable="ISSUED_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BARCODE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:anyType" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

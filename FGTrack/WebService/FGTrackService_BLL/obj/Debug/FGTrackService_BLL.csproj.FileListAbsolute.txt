@@ -1,0 +1,34 @@
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\FGTrackService_BLL\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.dll
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.pdb
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.dll
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.pdb
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.dll
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.dll
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.dll
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.BEL.dll
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.BEL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.BEL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\FGTrackService.BLL.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.BEL.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\bin\Debug\HTN.BITS.BEL.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\FGTrackService_BLL\obj\Debug\FGTrackService.BLL.pdb

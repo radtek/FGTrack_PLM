@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckValidationUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDeliveryOrderInfo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetDeliveryOrderInfoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetDeliveryOrderInfoResult" type="tns:DeliveryOrderInfo" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DeliveryOrderInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="DO_NO" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetUpdatePC_MTST_In">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUpdatePC_MTST_InResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetUpdatePC_MTST_InResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ProductCard">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="ORI_LABEL" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SERIAL_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PROD_SEQ_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PRODUCT_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PRODUCT_NAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_TYPE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="JOB_LOT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SHIFT" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LINE_NO" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="MC_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="QTY" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="BOX_QTY" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="BOX_SCANNED" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="ASG_NG" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="NG_QTY" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="UNIT_ID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetUpdatePC_MTST_Out">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetUpdatePC_MTST_OutResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetUpdatePC_MTST_OutResult" type="tns:ProductCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardStatus">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetProductCardStatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetProductCardStatusResult" type="tns:ProductCard_Status" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ProductCard_Status">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:ProductCard">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="STATUS" type="s:string" />
+              <s:element minOccurs="1" maxOccurs="1" name="PROCESS_DATE" nillable="true" type="s:dateTime" />
+              <s:element minOccurs="1" maxOccurs="1" name="REP_QTY" type="s:int" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckValidationUser" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckValidationUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetDeliveryOrderInfoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetDeliveryOrderInfo" />
+  </wsdl:message>
+  <wsdl:message name="GetDeliveryOrderInfoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetDeliveryOrderInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_InSoapIn">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_In" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_InSoapOut">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_InResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_OutSoapIn">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_Out" />
+  </wsdl:message>
+  <wsdl:message name="GetUpdatePC_MTST_OutSoapOut">
+    <wsdl:part name="parameters" element="tns:GetUpdatePC_MTST_OutResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardStatusSoapIn">
+    <wsdl:part name="parameters" element="tns:GetProductCardStatus" />
+  </wsdl:message>
+  <wsdl:message name="GetProductCardStatusSoapOut">
+    <wsdl:part name="parameters" element="tns:GetProductCardStatusResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service_MtstVerticalSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">for check validation user scanner</wsdl:documentation>
+      <wsdl:input message="tns:CheckValidationUserSoapIn" />
+      <wsdl:output message="tns:CheckValidationUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryOrderInfo">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Product Card Info</wsdl:documentation>
+      <wsdl:input message="tns:GetDeliveryOrderInfoSoapIn" />
+      <wsdl:output message="tns:GetDeliveryOrderInfoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_In">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Update Product Card MTST In</wsdl:documentation>
+      <wsdl:input message="tns:GetUpdatePC_MTST_InSoapIn" />
+      <wsdl:output message="tns:GetUpdatePC_MTST_InSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_Out">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Update Product Card MTST Out</wsdl:documentation>
+      <wsdl:input message="tns:GetUpdatePC_MTST_OutSoapIn" />
+      <wsdl:output message="tns:GetUpdatePC_MTST_OutSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Get Product Card Status</wsdl:documentation>
+      <wsdl:input message="tns:GetProductCardStatusSoapIn" />
+      <wsdl:output message="tns:GetProductCardStatusSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service_MtstVerticalSoap" type="tns:Service_MtstVerticalSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryOrderInfo">
+      <soap:operation soapAction="http://tempuri.org/GetDeliveryOrderInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_In">
+      <soap:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_In" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_Out">
+      <soap:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_Out" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <soap:operation soapAction="http://tempuri.org/GetProductCardStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service_MtstVerticalSoap12" type="tns:Service_MtstVerticalSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap12:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDeliveryOrderInfo">
+      <soap12:operation soapAction="http://tempuri.org/GetDeliveryOrderInfo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_In">
+      <soap12:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_In" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUpdatePC_MTST_Out">
+      <soap12:operation soapAction="http://tempuri.org/GetUpdatePC_MTST_Out" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductCardStatus">
+      <soap12:operation soapAction="http://tempuri.org/GetProductCardStatus" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service_MtstVertical">
+    <wsdl:port name="Service_MtstVerticalSoap" binding="tns:Service_MtstVerticalSoap">
+      <soap:address location="http://10.211.107.16/FGTrack_PM_Service/Service_MtstVertical.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service_MtstVerticalSoap12" binding="tns:Service_MtstVerticalSoap12">
+      <soap12:address location="http://10.211.107.16/FGTrack_PM_Service/Service_MtstVertical.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

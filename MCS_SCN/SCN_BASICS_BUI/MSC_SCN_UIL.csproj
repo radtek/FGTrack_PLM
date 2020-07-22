@@ -1,0 +1,299 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{03C0E9F4-31DA-4FB1-A9F3-66C0474B17B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HTN.BITS.MSC.SCN.UIL</RootNamespace>
+    <AssemblyName>HTN.BITS.MSC.SCN.UIL</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <DeployDirSuffix>mcs</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>update.ico</ApplicationIcon>
+    <DeployDirPrefix>%25CSIDL_PROGRAM_FILES%25</DeployDirPrefix>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="btCommLibNet, Version=1.5.0.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\Windows CE Tools\SDKs\BT-W SDK-HT\Lib\ARMv4I\btCommLibNet.dll</HintPath>
+    </Reference>
+    <Reference Include="btFileLibNet, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\Windows CE Tools\SDKs\BT-W SDK-HT\Lib\ARMv4I\btFileLibNet.dll</HintPath>
+    </Reference>
+    <Reference Include="btLibDefNet, Version=1.5.0.7, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\Windows CE Tools\SDKs\BT-W SDK-HT\Lib\ARMv4I\btLibDefNet.dll</HintPath>
+    </Reference>
+    <Reference Include="btScanLibNet, Version=1.5.0.5, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\Windows CE Tools\SDKs\BT-W SDK-HT\Lib\ARMv4I\btScanLibNet.dll</HintPath>
+    </Reference>
+    <Reference Include="btSysLibNet, Version=1.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files (x86)\Windows CE Tools\SDKs\BT-W SDK-HT\Lib\ARMv4I\btSysLibNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Intermec.DataCollection.CF3.5, Version=5.10.2.116, Culture=neutral, PublicKeyToken=acd169b56b6148ba, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Windowsce.Forms" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Newtonsoft.Json.Compact, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\SCN_BLL\bin\Debug\Newtonsoft.Json.Compact.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\TextDecimalOnly.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\TextDecimalOnly.Designer.cs">
+      <DependentUpon>TextDecimalOnly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\TextNumberOnly.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\TextNumberOnly.Designer.cs">
+      <DependentUpon>TextNumberOnly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\Encryption.cs" />
+    <Compile Include="Components\eProcessMode.cs" />
+    <Compile Include="Components\GlobalVariable.cs" />
+    <Compile Include="Components\InitializationApp.cs" />
+    <Compile Include="Components\MobileConfiguration.cs" />
+    <Compile Include="Components\SplashInitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Components\SplashInitForm.Designer.cs">
+      <DependentUpon>SplashInitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\TextUpperCaseScan.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Components\TextUpperCaseScan.Designer.cs">
+      <DependentUpon>TextUpperCaseScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\UiUtility.cs" />
+    <Compile Include="Components\UserAuthentication.cs" />
+    <Compile Include="frmReplenish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReplenish.Designer.cs">
+      <DependentUpon>frmReplenish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInputMB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInputMB.Designer.cs">
+      <DependentUpon>frmInputMB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInputTRES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInputTRES.Designer.cs">
+      <DependentUpon>frmInputTRES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMixing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMixing.Designer.cs">
+      <DependentUpon>frmMixing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckUser.Designer.cs">
+      <DependentUpon>frmCheckUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FullScreenHandle.cs" />
+    <Compile Include="PlatformDetection.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Components\SplashInitForm.resx">
+      <DependentUpon>SplashInitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReplenish.resx">
+      <DependentUpon>frmReplenish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInputMB.resx">
+      <DependentUpon>frmInputMB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInputTRES.resx">
+      <DependentUpon>frmInputTRES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMixing.resx">
+      <DependentUpon>frmMixing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckUser.resx">
+      <DependentUpon>frmCheckUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Resources.en-US.resx" />
+    <EmbeddedResource Include="Resources\Resources.ja-JP.resx" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\ajax_loader_blue_32.gif" />
+    <Content Include="Images\back-green.png" />
+    <Content Include="Images\back-purple.png" />
+    <Content Include="Images\Battery_1.png" />
+    <Content Include="Images\Battery_2.png" />
+    <Content Include="Images\Battery_3.png" />
+    <Content Include="Images\Battery_4.png" />
+    <Content Include="Images\Battery_5.png" />
+    <Content Include="Images\Battery_6.png" />
+    <Content Include="Images\CI_PutAway.png" />
+    <Content Include="Images\CI_Receiving.png" />
+    <Content Include="Images\CO_Loading.png" />
+    <Content Include="Images\CO_Picking.png" />
+    <Content Include="Images\Danger_Shield.png" />
+    <Content Include="Images\F_Back1.png" />
+    <Content Include="Images\F_Back2.png" />
+    <Content Include="Images\F_Back3.png" />
+    <Content Include="Images\F_Back4.png" />
+    <Content Include="Images\F_Back5.png" />
+    <Content Include="Images\F_Back6.png" />
+    <Content Include="Images\F_Back7.png" />
+    <Content Include="Images\F_Back8.png" />
+    <Content Include="Images\F_Back9.png" />
+    <Content Include="Images\F_CargoIn.png" />
+    <Content Include="Images\F_CargoOut.png" />
+    <Content Include="Images\F_QC.png" />
+    <Content Include="Images\F_Setting.png" />
+    <Content Include="Images\F_Utility.png" />
+    <Content Include="Images\H_Line.png" />
+    <Content Include="Images\H_User1.png" />
+    <Content Include="Images\H_User2.png" />
+    <Content Include="Images\H_User3.png" />
+    <Content Include="Images\H_User4.png" />
+    <Content Include="Images\H_User5.png" />
+    <Content Include="Images\Icon_AC.png" />
+    <Content Include="Images\Icon_Battery.png" />
+    <Content Include="Images\Icon_CargoIn.png" />
+    <Content Include="Images\Icon_CargoOut.png" />
+    <Content Include="Images\Icon_Connect.png" />
+    <Content Include="Images\Icon_DotGray.png" />
+    <Content Include="Images\Icon_DotGreen.png" />
+    <Content Include="Images\Icon_Exit.png" />
+    <Content Include="Images\Icon_Location.png" />
+    <Content Include="Images\Icon_QC.png" />
+    <Content Include="Images\Icon_QTY.png" />
+    <Content Include="Images\Icon_Setting.png" />
+    <Content Include="Images\Icon_User.png" />
+    <Content Include="Images\Icon_User2.png" />
+    <Content Include="Images\Icon_Utility.png" />
+    <Content Include="Images\QC_Hold.png" />
+    <Content Include="Images\QC_NG.png" />
+    <Content Include="Images\QC_UnHold.png" />
+    <Content Include="Images\Safe_Shield.png" />
+    <Content Include="Images\SplashInitScanner.png" />
+    <Content Include="Images\ST_EN.png" />
+    <Content Include="Images\ST_Language.png" />
+    <Content Include="Images\ST_TH.png" />
+    <Content Include="Images\Unknown_Shield.png" />
+    <Content Include="Images\updateBG.png" />
+    <Content Include="Images\User_Green.png" />
+    <Content Include="Images\User_Purple.png" />
+    <Content Include="Images\UT_CheckLabel.png" />
+    <Content Include="Images\UT_Relocation.png" />
+    <Content Include="Images\Warning_Shield.png" />
+    <Content Include="update.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SCN_BASICS_Lib\MSC_SCN_LIB.csproj">
+      <Project>{79472B9B-36EF-4100-806F-1DF77BBB3F78}</Project>
+      <Name>MSC_SCN_LIB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCN_BEL\MSC_SCN_BEL.csproj">
+      <Project>{57CBDAC0-9960-4026-A928-5B1285972AA5}</Project>
+      <Name>MSC_SCN_BEL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SCN_BLL\MSC_SCN_BLL.csproj">
+      <Project>{A88B520E-346C-45DA-B180-A6CAC959F12B}</Project>
+      <Name>MSC_SCN_BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

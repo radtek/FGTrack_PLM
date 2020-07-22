@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B0A08877-F1B9-4C30-BC93-2A77359958EB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HTN.BITS.BEL.PLASESS</RootNamespace>
+    <AssemblyName>HTN.BITS.BEL.PLASESS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Location.cs" />
+    <Compile Include="Material.cs" />
+    <Compile Include="MaterialCard.cs" />
+    <Compile Include="M_ARRIVAL_TYPE.cs" />
+    <Compile Include="Packaging.cs" />
+    <Compile Include="ReturnType.cs" />
+    <Compile Include="T_ARRIVAL_DTL.cs" />
+    <Compile Include="T_ARRIVAL_DTL_SUB.cs" />
+    <Compile Include="T_ARRIVAL_HDR.cs" />
+    <Compile Include="ULPlan.cs" />
+    <Compile Include="ULPlanDetail.cs" />
+    <Compile Include="UnplanInType.cs" />
+    <Compile Include="DeliveryOrder.cs" />
+    <Compile Include="DeliveryOrderDtl.cs" />
+    <Compile Include="FormConfigState.cs" />
+    <Compile Include="IF_ControlOrder.cs" />
+    <Compile Include="JobLotPlan.cs" />
+    <Compile Include="JobOrder.cs" />
+    <Compile Include="JobOrderHdr.cs" />
+    <Compile Include="LoadingOrder.cs" />
+    <Compile Include="Machine.cs" />
+    <Compile Include="MaterialType.cs" />
+    <Compile Include="MenuAuthentication.cs" />
+    <Compile Include="M_Program.cs" />
+    <Compile Include="Pallet.cs" />
+    <Compile Include="Party.cs" />
+    <Compile Include="PickingDtl.cs" />
+    <Compile Include="PickingHdr.cs" />
+    <Compile Include="PostType.cs" />
+    <Compile Include="ProdProcess.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="ProductCard.cs" />
+    <Compile Include="ProductionType.cs" />
+    <Compile Include="ProgramType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QCReturnDtl.cs" />
+    <Compile Include="QCReturnHdr.cs" />
+    <Compile Include="Role.cs" />
+    <Compile Include="RoleProgram.cs" />
+    <Compile Include="RollBackDocument.cs" />
+    <Compile Include="ShippingOrder.cs" />
+    <Compile Include="ShippingOrderDtl.cs" />
+    <Compile Include="TransferOrderDtl.cs" />
+    <Compile Include="TransferOrderHdr.cs" />
+    <Compile Include="TransferOrderList.cs" />
+    <Compile Include="TransferOrderRpt.cs" />
+    <Compile Include="Unit.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserRole.cs" />
+    <Compile Include="Warehouse.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

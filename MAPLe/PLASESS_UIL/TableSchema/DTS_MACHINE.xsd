@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_MACHINE" targetNamespace="http://tempuri.org/DTS_MACHINE.xsd" xmlns:mstns="http://tempuri.org/DTS_MACHINE.xsd" xmlns="http://tempuri.org/DTS_MACHINE.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_MACHINE" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DTS_MACHINE" msprop:Generator_UserDSName="DTS_MACHINE" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="M_MACHINE" msprop:Generator_UserTableName="M_MACHINE" msprop:Generator_RowDeletedName="M_MACHINERowDeleted" msprop:Generator_TableClassName="M_MACHINEDataTable" msprop:Generator_RowChangedName="M_MACHINERowChanged" msprop:Generator_RowClassName="M_MACHINERow" msprop:Generator_RowChangingName="M_MACHINERowChanging" msprop:Generator_RowEvArgName="M_MACHINERowChangeEvent" msprop:Generator_RowEvHandlerName="M_MACHINERowChangeEventHandler" msprop:Generator_TablePropName="M_MACHINE" msprop:Generator_TableVarName="tableM_MACHINE" msprop:Generator_RowDeletingName="M_MACHINERowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MC_NO" msprop:Generator_UserColumnName="MC_NO" msprop:Generator_ColumnPropNameInRow="MC_NO" msprop:Generator_ColumnVarNameInTable="columnMC_NO" msprop:Generator_ColumnPropNameInTable="MC_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MACHINE_NAME" msprop:Generator_UserColumnName="MACHINE_NAME" msprop:Generator_ColumnPropNameInRow="MACHINE_NAME" msprop:Generator_ColumnVarNameInTable="columnMACHINE_NAME" msprop:Generator_ColumnPropNameInTable="MACHINE_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BARCODE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:anyType" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

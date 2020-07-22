@@ -1,0 +1,36 @@
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmFGReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmMTSTIn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmMTSTOut.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.Resources.Resources.fr-CA.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MTSTTampo\obj\Debug\SCN_FGTracking_MTSTTampo.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmFGReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmMTSTIn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmMTSTOut.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\SCN_FGTracking_MTSTTampo.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\App.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\en-US\HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\ja-JP\HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\en-US\HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\ja-JP\HTN.BITS.FGTRACK.MTSTTAMPO.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MTSTTampo\obj\Debug\HTN.BITS.FGTRACK.MTSTTAMPO.pdb

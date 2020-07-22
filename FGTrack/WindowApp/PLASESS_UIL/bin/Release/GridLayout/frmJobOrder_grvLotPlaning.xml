@@ -1,0 +1,463 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="BestFitMaxRowCount">-1</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="FocusRectStyle">RowFocus</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="NewItemRowText" />
+  <property name="GroupPanelText" />
+  <property name="PreviewFieldName" />
+  <property name="PreviewIndent">-1</property>
+  <property name="LevelIndent">-1</property>
+  <property name="GroupFooterShowMode">VisibleIfExpanded</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ViewCaption" />
+  <property name="DetailHeight">350</property>
+  <property name="Name">grvLotPlaning</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Columns" iskey="true" value="12">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">27</property>
+      <property name="UnboundType">Boolean</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Name">grvLotPlaning_CheckMarkSelection</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowSize">false</property>
+        <property name="FixedWidth">true</property>
+        <property name="AllowSort">False</property>
+        <property name="AllowEdit">false</property>
+        <property name="ShowCaption">false</property>
+      </property>
+      <property name="Caption">Mark</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">CheckMarkSelection</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">30</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_LINE_NO</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="FixedWidth">true</property>
+        <property name="AllowEdit">false</property>
+        <property name="TabStop">false</property>
+        <property name="AllowMove">false</property>
+      </property>
+      <property name="Caption">#</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">LINE_NO</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">#</property>
+          <property name="SummaryType">Max</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">LINE_NO</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">91</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">2</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:dd-MM-yyyy}</property>
+        <property name="FormatType">DateTime</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_LOT_DATE</property>
+      <property name="Caption">Plan Date</property>
+      <property name="ColumnEditName">grvLotPlaning_rps_dtpSHIFT_DATE</property>
+      <property name="FieldName">SHIFT_DATE</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">49</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">3</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_LOT_SHIFT</property>
+      <property name="Caption">Shift</property>
+      <property name="ColumnEditName">grvLotPlaning_rps_txtSHIFT_ID</property>
+      <property name="FieldName">SHIFT_ID</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Width">97</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">4</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_NO_OF_LABEL</property>
+      <property name="Caption">No. Of Label</property>
+      <property name="ColumnEditName">grvLotPlanning_rps_calNO_OF_LABEL</property>
+      <property name="FieldName">NO_OF_LABEL</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">NO_OF_LABEL</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Width">96</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">5</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_LABEL_QTY</property>
+      <property name="Caption">Qty/Label</property>
+      <property name="ColumnEditName">grvLotPlaning_rps_txtQTY_PER_LABEL</property>
+      <property name="FieldName">QTY_PER_LABEL</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">6</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_TOTAL_QTY</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+      </property>
+      <property name="Caption">Total Qty</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">TOTAL_QTY</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TOTAL_QTY</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">7</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_FINISHED</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+        <property name="TabStop">false</property>
+        <property name="AllowMove">false</property>
+      </property>
+      <property name="Caption">Completed</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">FINISHED_QTY</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">8</property>
+      <property name="DisplayFormat" isnull="true" iskey="true">
+        <property name="FormatString">{0:#,##0}</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Far</property>
+        </property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_BALANCE</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+        <property name="TabStop">false</property>
+        <property name="AllowMove">false</property>
+      </property>
+      <property name="Caption">Balance</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">BALANCE_QTY</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="DisplayFormat">{0:#,##0}</property>
+          <property name="SummaryType">Sum</property>
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">BALANCE_QTY</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Width">149</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">9</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="TextOptions" isnull="true" iskey="true">
+          <property name="HAlignment">Center</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+          <property name="UseTextOptions">true</property>
+        </property>
+      </property>
+      <property name="Name">grvLotPlaning_col_STATUS</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowEdit">false</property>
+        <property name="TabStop">false</property>
+        <property name="AllowMove">false</property>
+      </property>
+      <property name="Caption">Status</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">STATUS</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">grvLotPlaning_col_JOB_NO</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">JOB_NO</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">grvLotPlanning_col_FLAG</property>
+      <property name="ColumnEditName" />
+      <property name="FieldName">FLAG</property>
+    </property>
+  </property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="VertScrollTipFieldName" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+    <property name="ShowFooter">true</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="ShowDetailButtons">false</property>
+  </property>
+  <property name="OptionsNavigation" isnull="true" iskey="true">
+    <property name="EnterMoveNextColumn">true</property>
+  </property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="FocusedRow" iskey="true" value="FocusedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="FocusedCell" iskey="true" value="FocusedCell">
+      <property name="BackColor2">White</property>
+      <property name="BackColor">White</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+    <property name="SelectedRow" iskey="true" value="SelectedRow">
+      <property name="BackColor2">GradientInactiveCaption</property>
+      <property name="BackColor">GradientActiveCaption</property>
+      <property name="ForeColor">Black</property>
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseBackColor">true</property>
+        <property name="UseForeColor">true</property>
+      </property>
+    </property>
+  </property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="OptionsCustomization" isnull="true" iskey="true">
+    <property name="AllowGroup">false</property>
+    <property name="AllowColumnMoving">false</property>
+    <property name="AllowQuickHideColumns">false</property>
+  </property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="RowHeight">-1</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="AllowAddRows">False</property>
+    <property name="Editable">false</property>
+  </property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="GroupSummary" iskey="true" value="4">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="DisplayFormat">{0:#,##0}</property>
+      <property name="SummaryType">Sum</property>
+      <property name="FieldName">TOTAL_QTY</property>
+      <property name="Tag" isnull="true" />
+      <property name="ShowInGroupColumnFooterName" />
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="DisplayFormat">{0:#,##0}</property>
+      <property name="SummaryType">Sum</property>
+      <property name="FieldName">NO_OF_LABEL</property>
+      <property name="Tag" isnull="true" />
+      <property name="ShowInGroupColumnFooterName">grvLotPlaning_col_NO_OF_LABEL</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="DisplayFormat">{0:#,##0}</property>
+      <property name="SummaryType">Sum</property>
+      <property name="FieldName">BALANCE_QTY</property>
+      <property name="Tag" isnull="true" />
+      <property name="ShowInGroupColumnFooterName">grvLotPlaning_col_BALANCE</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="DisplayFormat">#</property>
+      <property name="SummaryType">Max</property>
+      <property name="FieldName">LINE_NO</property>
+      <property name="Tag" isnull="true" />
+      <property name="ShowInGroupColumnFooterName">grvLotPlaning_col_LINE_NO</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

@@ -1,0 +1,532 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Winforms.Components</name>
+    </assembly>
+    <members>
+        <member name="T:Winforms.Components.ApplicationIdleData.WarnSettings">
+            <summary>
+            Settings to control how Warn and WarnAsync events are raised.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.WarnSettings.Tick">
+            <summary>
+            Warn and WarnAsync events wil be raised on each Tick once the WarnTime has been reached.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.WarnSettings.Once">
+            <summary>
+            Warn and WarnAsync events wil be raised once only when the WarnTime is reached.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.WarnSettings.Off">
+            <summary>
+            Warn and WarnAsync events will not be raised.
+            </summary>
+        </member>
+        <member name="T:Winforms.Components.ApplicationIdleData.TickEventArgs">
+            <summary>
+            Class that contains a bool that indicates whether the TimeRemaining is less than or equal to WarnTime.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdleData.TickEventArgs.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the TickEventArgs class.
+            </summary>
+            <param name="isWarnPeriod">Indicates whether the TimeRemaining is less than or equal to WarnTime.</param>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdleData.TickEventArgs.IsWarnPeriod">
+            <summary>
+            Gets whether the TimeRemaining is less than or equal to WarnTime. 
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.NotifyIconEx.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.NotifyIconEx.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Winforms.Components.NotifyIconEx.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Winforms.Components.ApplicationIdleData.ActivityMessages">
+            <summary>
+            Windows messages that will cause the component to consider the application not idle.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCMOUSEMOVE">
+            <summary>
+            Cursor moved while within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCLBUTTONDOWN">
+            <summary>
+            Mouse left button pressed while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCLBUTTONUP">
+            <summary>
+            Mouse left button released while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCLBUTTONDBLCLK">
+            <summary>
+            Mouse left button double-clicked while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCRBUTTONDOWN">
+            <summary>
+            Mouse right button pressed while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCRBUTTONUP">
+            <summary>
+            Mouse right button released while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCRBUTTONDBLCLK">
+            <summary>
+            Mouse right button double-clicked while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCMBUTTONDOWN">
+            <summary>
+            Mouse middle button pressed while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCMBUTTONUP">
+            <summary>
+            Mouse middle button released while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_NCMBUTTONDBLCLK">
+            <summary>
+            Mouse middle button double-clicked while the cursor was within the nonclient area.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_KEYDOWN">
+            <summary>
+            Key pressed.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_KEYUP">
+            <summary>
+            Key released.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_SYSKEYDOWN">
+            <summary>
+            F10 key, or held down the ALT key and then another key pressed.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_SYSKEYUP">
+            <summary>
+            Key released that was pressed while the ALT key was held down.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_MOUSEMOVE">
+            <summary>
+            Cursor moved.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_LBUTTONDOWN">
+            <summary>
+            Mouse left button pressed.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_LBUTTONUP">
+            <summary>
+            Mouse left button released.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_LBUTTONDBLCLK">
+            <summary>
+            Mouse left button double-clicked.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_RBUTTONDOWN">
+            <summary>
+            Mouse right button pressed.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_RBUTTONUP">
+            <summary>
+            Mouse right button released.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_RBUTTONDBLCLK">
+            <summary>
+            Mouse right button double-clicked.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_MBUTTONDOWN">
+            <summary>
+            Mouse middle button pressed.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_MBUTTONUP">
+            <summary>
+            Mouse middle button releaseed.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_MBUTTONDBLCLK">
+            <summary>
+            Mouse middle button double-clicked.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdleData.ActivityMessages.WM_MOUSEWHEEL">
+            <summary>
+            Mouse wheel rotated.
+            </summary>
+        </member>
+        <member name="T:Winforms.Components.ApplicationIdleData.ActivityEventArgs">
+            <summary>
+            Class that contains the one of the ActivityMessages that the component used to consider the application not idle.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdleData.ActivityEventArgs.#ctor(Winforms.Components.ApplicationIdleData.ActivityMessages)">
+            <summary>
+            Initializes a new instance of the ActivityEventArgs class.
+            </summary>
+            <param name="message">One of the ActivityMessages.</param>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdleData.ActivityEventArgs.Message">
+            <summary>
+            Gets the one of the ActivityMessages that the component used to consider the application not idle. 
+            </summary>
+        </member>
+        <member name="T:Winforms.Components.ApplicationIdle">
+            <summary>
+            A WinForms component that determines whether an application has received any defined ActivityMessages for a specified TimeSpan.
+            </summary>
+        </member>
+        <member name="F:Winforms.Components.ApplicationIdle.ZeroTime">
+            <summary>
+            A System.TimeSpan with all values zero.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.#ctor">
+            <summary>
+            Initializes a new instance of the ApplicationIdle component.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.Start">
+            <summary>
+            Starts the component.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.TogglePause">
+            <summary>
+            Toggles the pause state of the component.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.Stop">
+            <summary>
+            Stops the component.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.Restart">
+            <summary>
+            Stops, and then starts the component.
+            </summary>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.GetVersion">
+            <summary>
+            Gets the System.Version of this component.
+            </summary>
+            <returns>The System.Version of this component</returns>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnIdle(System.EventArgs)">
+            <summary>
+            Raises the Idle event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnStarted(System.EventArgs)">
+            <summary>
+            Raises the Started event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnPaused(System.EventArgs)">
+            <summary>
+            Raises the Paused event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnUnPaused(System.EventArgs)">
+            <summary>
+            Raises the UnPaused event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnStopped(System.EventArgs)">
+            <summary>
+            Raises the Stopped event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnTick(Winforms.Components.ApplicationIdleData.TickEventArgs)">
+            <summary>
+            Raises the Tick event.
+            </summary>
+            <param name="e">A TickEventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnWarn(System.EventArgs)">
+            <summary>
+            Raises the WarnEvent.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnActivity(Winforms.Components.ApplicationIdleData.ActivityEventArgs)">
+            <summary>
+            Raises the Activity event.
+            </summary>
+            <param name="e">An ActivityEventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnIdleTimeChanged(System.EventArgs)">
+            <summary>
+            Raises the IdleTimeChanged event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnTickIntervalChanged(System.EventArgs)">
+            <summary>
+            Raises the TickIntervalChanged event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnWarnTimeChanged(System.EventArgs)">
+            <summary>
+            Raises the WarnTimeChanged event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnWarnSettingChanged(System.EventArgs)">
+            <summary>
+            Raises the WarnSettingChanged event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnIdleAsync(System.EventArgs)">
+            <summary>
+            Raises the IdleAsync event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnStartedAsync(System.EventArgs)">
+            <summary>
+            Raises the StartedAsync event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnPausedAsync(System.EventArgs)">
+            <summary>
+            Raises the PausedAsync event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnUnPausedAsync(System.EventArgs)">
+            <summary>
+            Raises the UnPausedAsync event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnStoppedAsync(System.EventArgs)">
+            <summary>
+            Raises the StoppedAsync event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnTickAsync(Winforms.Components.ApplicationIdleData.TickEventArgs)">
+            <summary>
+            Raises the TickAsync event.
+            </summary>
+            <param name="e">A TickEventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnWarnAsync(System.EventArgs)">
+            <summary>
+            Raises the WarnAsync event.
+            </summary>
+            <param name="e">A System.EventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnActivityAsync(Winforms.Components.ApplicationIdleData.ActivityEventArgs)">
+            <summary>
+            Raises the ActivityAsync event.
+            </summary>
+            <param name="e">An ActivityEventArgs that contains the event data.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnAsyncCompleted(System.IAsyncResult)">
+            <summary>
+            Raised when an asynchronous event callsback.
+            </summary>
+            <param name="asyncResult">An IAsyncResult that represents the status of the asynchronous operation.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnTickAsyncCompleted(System.IAsyncResult)">
+            <summary>
+            Raised when the TickAsync event callsback.
+            </summary>
+            <param name="asyncResult">An IAsyncResult that represents the status of the asynchronous operation.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.OnActivityAsyncCompleted(System.IAsyncResult)">
+            <summary>
+            Raised when the ActivityAsync event callsback.
+            </summary>
+            <param name="asyncResult">An IAsyncResult that represents the status of the asynchronous operation.</param>
+        </member>
+        <member name="M:Winforms.Components.ApplicationIdle.Dispose(System.Boolean)">
+            <summary>
+            Releases all resources used by the component.
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.Idle">
+            <summary>
+            Raised when the IdleTime is reached.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.Started">
+            <summary>
+            Raised when the component is started.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.Paused">
+            <summary>
+            Raised when the component is paused.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.UnPaused">
+            <summary>
+            Raised when the component is unpaused.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.Stopped">
+            <summary>
+            Raised when the component is stopped.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.Tick">
+            <summary>
+            Raised when the component 'ticks'.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.Warn">
+            <summary>
+            May be raised when the WarnTime is reached and on each subsequent Tick depending on the WarnSetting.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.Activity">
+            <summary>
+            Raised when the component detects an activity that is defined in ActivityMessages.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.IdleTimeChanged">
+            <summary>
+            Raised when the IdleTime has been changed.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.TickIntervalChanged">
+            <summary>
+            Raised when the TickInterval has been changed.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.WarnTimeChanged">
+            <summary>
+            Raised when the WarnTime has been changed.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.WarnSettingChanged">
+            <summary>
+            Raised when the WarnSetting has been changed.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.IdleAsync">
+            <summary>
+            Raised asynchronously on a seperate thread when the IdleTime is reached.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.StartedAsync">
+            <summary>
+            Raised asynchronously on a seperate thread when the component is started.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.PausedAsync">
+            <summary>
+            Raised asynchronously on a seperate thread when the component is paused.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.UnPausedAsync">
+            <summary>
+            Raised asynchronously on a seperate thread when the component is unpaused.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.StoppedAsync">
+            <summary>
+            Raised asynchronously on a seperate thread when the component is stopped.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.TickAsync">
+            <summary>
+            Raised asynchronously on a seperate thread when the component 'ticks'.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.WarnAsync">
+            <summary>
+            May be raised asynchronously on a seperate thread when the WarnTime is reached and on each subsequent Tick depending on the WarnSetting.
+            </summary>
+        </member>
+        <member name="E:Winforms.Components.ApplicationIdle.ActivityAsync">
+            <summary>
+            Raised asynchronously on a seperate thread when the component detects an activity that is defined in ActivityMessages.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.IdleTime">
+            <summary>
+            Gets or sets the TimeSpan after which the application should be considered idle if no defined ActivityMessages are received.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.TickInterval">
+            <summary>
+            Gets or sets the TimeSpan at which the component 'ticks'.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.WarnTime">
+            <summary>
+            Gets or sets the TimeSpan at which warning events will be generated depending on the WarnSettings.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.WarnSetting">
+            <summary>
+            Gets or sets the WarnSettings value used to control warning events generation.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.TimeRemaining">
+            <summary>
+            Gets the TimeSpan representing the time until Idle assuming no activity is detected.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.TimeElapsed">
+            <summary>
+            Gets the TimeSpan representing the time since the last activity was detected.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.IsRunning">
+            <summary>
+            Gets whether the component is currently running.
+            </summary>
+        </member>
+        <member name="P:Winforms.Components.ApplicationIdle.IsPaused">
+            <summary>
+            Gets whether the component is currently paused.
+            </summary>
+        </member>
+    </members>
+</doc>

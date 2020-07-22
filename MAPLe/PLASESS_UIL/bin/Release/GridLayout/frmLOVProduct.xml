@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmLOVProduct</FormName>
+  <GridControl>grdProduct</GridControl>
+  <LastDefaultView>GridView</LastDefaultView>
+  <FormSize>
+    <Width>571</Width>
+    <Height>394</Height>
+  </FormSize>
+  <FormLocation>
+    <X>674</X>
+    <Y>328</Y>
+  </FormLocation>
+</FormConfigState>

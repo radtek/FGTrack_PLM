@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_PARTLIST_IN_PALLET" targetNamespace="http://tempuri.org/DTS_PARTLIST_IN_PALLET.xsd" xmlns:mstns="http://tempuri.org/DTS_PARTLIST_IN_PALLET.xsd" xmlns="http://tempuri.org/DTS_PARTLIST_IN_PALLET.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_PARTLIST_IN_PALLET" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DTS_PARTLIST_IN_PALLET" msprop:Generator_DataSetName="DTS_PARTLIST_IN_PALLET" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PART_LIST_HDR" msprop:Generator_UserTableName="PART_LIST_HDR" msprop:Generator_RowDeletedName="PART_LIST_HDRRowDeleted" msprop:Generator_RowChangedName="PART_LIST_HDRRowChanged" msprop:Generator_RowClassName="PART_LIST_HDRRow" msprop:Generator_RowChangingName="PART_LIST_HDRRowChanging" msprop:Generator_RowEvArgName="PART_LIST_HDRRowChangeEvent" msprop:Generator_RowEvHandlerName="PART_LIST_HDRRowChangeEventHandler" msprop:Generator_TableClassName="PART_LIST_HDRDataTable" msprop:Generator_TableVarName="tablePART_LIST_HDR" msprop:Generator_RowDeletingName="PART_LIST_HDRRowDeleting" msprop:Generator_TablePropName="PART_LIST_HDR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LOADING_NO" msprop:Generator_UserColumnName="LOADING_NO" msprop:Generator_ColumnVarNameInTable="columnLOADING_NO" msprop:Generator_ColumnPropNameInRow="LOADING_NO" msprop:Generator_ColumnPropNameInTable="LOADING_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DELIVERY_DATE" msprop:Generator_UserColumnName="DELIVERY_DATE" msprop:Generator_ColumnVarNameInTable="columnDELIVERY_DATE" msprop:Generator_ColumnPropNameInRow="DELIVERY_DATE" msprop:Generator_ColumnPropNameInTable="DELIVERY_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER" msprop:Generator_UserColumnName="CUSTOMER" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER" msprop:Generator_ColumnPropNameInRow="CUSTOMER" msprop:Generator_ColumnPropNameInTable="CUSTOMERColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PREPARE_BY" msprop:Generator_UserColumnName="PREPARE_BY" msprop:Generator_ColumnVarNameInTable="columnPREPARE_BY" msprop:Generator_ColumnPropNameInRow="PREPARE_BY" msprop:Generator_ColumnPropNameInTable="PREPARE_BYColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PART_LIST_DTL" msprop:Generator_UserTableName="PART_LIST_DTL" msprop:Generator_RowDeletedName="PART_LIST_DTLRowDeleted" msprop:Generator_RowChangedName="PART_LIST_DTLRowChanged" msprop:Generator_RowClassName="PART_LIST_DTLRow" msprop:Generator_RowChangingName="PART_LIST_DTLRowChanging" msprop:Generator_RowEvArgName="PART_LIST_DTLRowChangeEvent" msprop:Generator_RowEvHandlerName="PART_LIST_DTLRowChangeEventHandler" msprop:Generator_TableClassName="PART_LIST_DTLDataTable" msprop:Generator_TableVarName="tablePART_LIST_DTL" msprop:Generator_RowDeletingName="PART_LIST_DTLRowDeleting" msprop:Generator_TablePropName="PART_LIST_DTL">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LOADING_NO" msprop:Generator_UserColumnName="LOADING_NO" msprop:Generator_ColumnVarNameInTable="columnLOADING_NO" msprop:Generator_ColumnPropNameInRow="LOADING_NO" msprop:Generator_ColumnPropNameInTable="LOADING_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER" msprop:Generator_UserColumnName="CUSTOMER" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER" msprop:Generator_ColumnPropNameInRow="CUSTOMER" msprop:Generator_ColumnPropNameInTable="CUSTOMERColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SO_NO" msprop:Generator_UserColumnName="SO_NO" msprop:Generator_ColumnVarNameInTable="columnSO_NO" msprop:Generator_ColumnPropNameInRow="SO_NO" msprop:Generator_ColumnPropNameInTable="SO_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REF_NO" msprop:Generator_UserColumnName="REF_NO" msprop:Generator_ColumnVarNameInTable="columnREF_NO" msprop:Generator_ColumnPropNameInRow="REF_NO" msprop:Generator_ColumnPropNameInTable="REF_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NO" msprop:Generator_UserColumnName="PRODUCT_NO" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NO" msprop:Generator_ColumnPropNameInRow="PRODUCT_NO" msprop:Generator_ColumnPropNameInTable="PRODUCT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PROD_SEQ" msprop:Generator_UserColumnName="PROD_SEQ" msprop:Generator_ColumnPropNameInRow="PROD_SEQ" msprop:Generator_ColumnVarNameInTable="columnPROD_SEQ" msprop:Generator_ColumnPropNameInTable="PROD_SEQColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ASSIGN" msprop:Generator_UserColumnName="ASSIGN" msprop:Generator_ColumnPropNameInRow="ASSIGN" msprop:Generator_ColumnVarNameInTable="columnASSIGN" msprop:Generator_ColumnPropNameInTable="ASSIGNColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="INJT" msprop:Generator_UserColumnName="INJT" msprop:Generator_ColumnVarNameInTable="columnINJT" msprop:Generator_ColumnPropNameInRow="INJT" msprop:Generator_ColumnPropNameInTable="INJTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TRIM" msprop:Generator_UserColumnName="TRIM" msprop:Generator_ColumnVarNameInTable="columnTRIM" msprop:Generator_ColumnPropNameInRow="TRIM" msprop:Generator_ColumnPropNameInTable="TRIMColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ELEC" msprop:Generator_UserColumnName="ELEC" msprop:Generator_ColumnVarNameInTable="columnELEC" msprop:Generator_ColumnPropNameInRow="ELEC" msprop:Generator_ColumnPropNameInTable="ELECColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PQC" msprop:Generator_UserColumnName="PQC" msprop:Generator_ColumnVarNameInTable="columnPQC" msprop:Generator_ColumnPropNameInRow="PQC" msprop:Generator_ColumnPropNameInTable="PQCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QC" msprop:Generator_UserColumnName="QC" msprop:Generator_ColumnVarNameInTable="columnQC" msprop:Generator_ColumnPropNameInRow="QC" msprop:Generator_ColumnPropNameInTable="QCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FG" msprop:Generator_UserColumnName="FG" msprop:Generator_ColumnVarNameInTable="columnFG" msprop:Generator_ColumnPropNameInRow="FG" msprop:Generator_ColumnPropNameInTable="FGColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_UserColumnName="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="no_of_box" msprop:Generator_UserColumnName="no_of_box" msprop:Generator_ColumnVarNameInTable="columnno_of_box" msprop:Generator_ColumnPropNameInRow="no_of_box" msprop:Generator_ColumnPropNameInTable="no_of_boxColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="PART_LIST_HDR_PART_LIST_DTL" msdata:parent="PART_LIST_HDR" msdata:child="PART_LIST_DTL" msdata:parentkey="LOADING_NO CUSTOMER" msdata:childkey="LOADING_NO CUSTOMER" msprop:Generator_UserRelationName="PART_LIST_HDR_PART_LIST_DTL" msprop:Generator_RelationVarName="relationPART_LIST_HDR_PART_LIST_DTL" msprop:Generator_UserChildTable="PART_LIST_DTL" msprop:Generator_UserParentTable="PART_LIST_HDR" msprop:Generator_ParentPropName="PART_LIST_HDRRowParent" msprop:Generator_ChildPropName="GetPART_LIST_DTLRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

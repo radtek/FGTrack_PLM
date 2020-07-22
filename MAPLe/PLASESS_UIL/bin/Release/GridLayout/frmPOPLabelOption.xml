@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmPOPLabelOption</FormName>
+  <GridControl>grdLabelOption</GridControl>
+  <LastDefaultView>GridView</LastDefaultView>
+  <FormSize>
+    <Width>444</Width>
+    <Height>359</Height>
+  </FormSize>
+  <FormLocation>
+    <X>578</X>
+    <Y>255</Y>
+  </FormLocation>
+</FormConfigState>

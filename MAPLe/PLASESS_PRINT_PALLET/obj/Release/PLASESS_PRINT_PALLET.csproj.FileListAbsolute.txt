@@ -1,0 +1,794 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.config
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.BonusSkins.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Charts.v11.2.Core.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Printing.v11.2.Core.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Reports.v11.2.Designer.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Oracle.DataAccess.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.xml
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Data.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Data.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Data.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Data.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Utils.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Utils.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Utils.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Utils.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Component.BaseForm.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Component.ReportViewer.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.frmPrintPallet.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Reports.RPT_PALLET_DETAIL.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\PLASESS_PRINT_PALLET.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.licenses
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\Projects\PLASESS\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.config
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.BonusSkins.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Charts.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Printing.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Reports.v11.2.Designer.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.frmPrintPallet.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Properties.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Reports.RPT_PALLET_DETAIL.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\PLASESS_PRINT_PALLET.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.licenses
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.config
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.BonusSkins.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Charts.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Printing.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Reports.v11.2.Designer.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.xml
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.frmPrintPallet.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Properties.Resources.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Reports.RPT_PALLET_DETAIL.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\PLASESS_PRINT_PALLET.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.licenses
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.config
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.BonusSkins.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Charts.v11.2.Core.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Printing.v11.2.Core.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Reports.v11.2.Designer.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.pdb
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.xml
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Data.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Data.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Data.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Data.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Utils.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Utils.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Utils.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Utils.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\ResolveAssemblyReference.cache
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.frmPrintPallet.resources
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Properties.Resources.resources
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Reports.RPT_PALLET_DETAIL.resources
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\PLASESS_PRINT_PALLET.csproj.GenerateResource.Cache
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.licenses
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\BACKUP PROJECT\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.config
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.BonusSkins.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Charts.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Printing.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Reports.v11.2.Designer.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.xml
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Data.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Utils.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.frmPrintPallet.resources
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Properties.Resources.resources
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Reports.RPT_PALLET_DETAIL.resources
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\PLASESS_PRINT_PALLET.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.licenses
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.config
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.BonusSkins.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Charts.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Printing.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Reports.v11.2.Designer.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.xml
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraLayout.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Data.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Utils.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraEditors.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraGrid.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraCharts.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraBars.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.frmPrintPallet.resources
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Properties.Resources.resources
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Reports.RPT_PALLET_DETAIL.resources
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\PLASESS_PRINT_PALLET.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.licenses
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+D:\Repositories\FGTrack_PLH\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.BonusSkins.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Charts.v11.2.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Printing.v11.2.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Reports.v11.2.Designer.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraLayout.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.PivotGrid.v11.2.Core.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BLL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.BEL.PLASESS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Data.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.Utils.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraTreeList.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraEditors.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPivotGrid.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraGrid.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.RichEdit.v11.2.Core.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraCharts.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraBars.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraReports.v11.2.Extensions.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.QRCodeLib.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\Winforms.Components.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\HTN.BITS.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\DevExpress.XtraPrinting.v11.2.xml
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraLayout.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.PivotGrid.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Data.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.Utils.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraTreeList.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraEditors.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPivotGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraGrid.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.RichEdit.v11.2.Core.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraCharts.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraBars.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraReports.v11.2.Extensions.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\th\HTN.BITS.LIB.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\de\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\es\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ja\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\bin\Release\ru\DevExpress.XtraPrinting.v11.2.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.frmPrintPallet.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.Reports.RPT_PALLET_DETAIL.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\PLASESS_PRINT_PALLET.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe.licenses
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\MAPLe\PLASESS_PRINT_PALLET\obj\Release\HTN.BITS.UIL.PLASESS_PRINT_PALLET.pdb

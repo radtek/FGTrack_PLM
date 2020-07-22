@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmMainMenu</FormName>
+  <GridControl />
+  <LastDefaultView />
+  <FormSize>
+    <Width>1382</Width>
+    <Height>744</Height>
+  </FormSize>
+  <FormLocation>
+    <X>-8</X>
+    <Y>-8</Y>
+  </FormLocation>
+</FormConfigState>

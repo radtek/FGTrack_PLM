@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUser">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckValidationUserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CheckValidationUserResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckExistLocation">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="location" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckExistLocationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CheckExistLocationResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMatIn_Complete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialno" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="location" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMatIn_CompleteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ScanMatIn_CompleteResult" type="tns:MaterialCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="MaterialCard">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SERIAL_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="REC_NO" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="WH_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ARRIVAL_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="LINE_NO" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="LOT_DATE" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_SEQ_NO" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_CODE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_NAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_GRADE" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="MTL_COLOR" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UNIT_ID" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="QTY" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="CARGO_STATUS" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PIC_STOCK_IN" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="STOCK_IN_DATE" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="PIC_STOCK_OUT" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="STOCK_OUT_DATE" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="ORDER_CARD_NO" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="OUT_QTY" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="NO_OF_PRINT" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="PIC_LAST_PRINT" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="PRINT_LAST_DATE" nillable="true" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="REMARK" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="N_USER_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="U_USER_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="REC_STAT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PARTY_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PARTY_NAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LOCATION_ID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LOCATION_NAME" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="NO_OF_LABEL" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="REC_QTY" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="DOC_QTY" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="MIN_QTY" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="MAX_QTY" type="s:decimal" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ScanMatOut_Complete">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialno" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMatOut_CompleteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ScanMatOut_CompleteResult" type="tns:MaterialCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMat_Status">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMat_StatusResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ScanMat_StatusResult" type="tns:MaterialCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMat_Stock">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialno" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMat_StockResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ScanMat_StockResult" type="tns:MaterialCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMat_ChangeLocation">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="serialno" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="location" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userid" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ScanMat_ChangeLocationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ScanMat_ChangeLocationResult" type="tns:MaterialCard" />
+            <s:element minOccurs="0" maxOccurs="1" name="resultMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckValidationUser" />
+  </wsdl:message>
+  <wsdl:message name="CheckValidationUserSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckValidationUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="CheckExistLocationSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckExistLocation" />
+  </wsdl:message>
+  <wsdl:message name="CheckExistLocationSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckExistLocationResponse" />
+  </wsdl:message>
+  <wsdl:message name="ScanMatIn_CompleteSoapIn">
+    <wsdl:part name="parameters" element="tns:ScanMatIn_Complete" />
+  </wsdl:message>
+  <wsdl:message name="ScanMatIn_CompleteSoapOut">
+    <wsdl:part name="parameters" element="tns:ScanMatIn_CompleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ScanMatOut_CompleteSoapIn">
+    <wsdl:part name="parameters" element="tns:ScanMatOut_Complete" />
+  </wsdl:message>
+  <wsdl:message name="ScanMatOut_CompleteSoapOut">
+    <wsdl:part name="parameters" element="tns:ScanMatOut_CompleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ScanMat_StatusSoapIn">
+    <wsdl:part name="parameters" element="tns:ScanMat_Status" />
+  </wsdl:message>
+  <wsdl:message name="ScanMat_StatusSoapOut">
+    <wsdl:part name="parameters" element="tns:ScanMat_StatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="ScanMat_StockSoapIn">
+    <wsdl:part name="parameters" element="tns:ScanMat_Stock" />
+  </wsdl:message>
+  <wsdl:message name="ScanMat_StockSoapOut">
+    <wsdl:part name="parameters" element="tns:ScanMat_StockResponse" />
+  </wsdl:message>
+  <wsdl:message name="ScanMat_ChangeLocationSoapIn">
+    <wsdl:part name="parameters" element="tns:ScanMat_ChangeLocation" />
+  </wsdl:message>
+  <wsdl:message name="ScanMat_ChangeLocationSoapOut">
+    <wsdl:part name="parameters" element="tns:ScanMat_ChangeLocationResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service_MATSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">for check validation user scanner</wsdl:documentation>
+      <wsdl:input message="tns:CheckValidationUserSoapIn" />
+      <wsdl:output message="tns:CheckValidationUserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistLocation">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Check Existing Location</wsdl:documentation>
+      <wsdl:input message="tns:CheckExistLocationSoapIn" />
+      <wsdl:output message="tns:CheckExistLocationSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ScanMatIn_Complete">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Scan Material In Complete</wsdl:documentation>
+      <wsdl:input message="tns:ScanMatIn_CompleteSoapIn" />
+      <wsdl:output message="tns:ScanMatIn_CompleteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ScanMatOut_Complete">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Scan Material Out Complete</wsdl:documentation>
+      <wsdl:input message="tns:ScanMatOut_CompleteSoapIn" />
+      <wsdl:output message="tns:ScanMatOut_CompleteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_Status">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Scan Check Material Status</wsdl:documentation>
+      <wsdl:input message="tns:ScanMat_StatusSoapIn" />
+      <wsdl:output message="tns:ScanMat_StatusSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_Stock">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Scan Check Material Stock</wsdl:documentation>
+      <wsdl:input message="tns:ScanMat_StockSoapIn" />
+      <wsdl:output message="tns:ScanMat_StockSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_ChangeLocation">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Scan Material Change Location</wsdl:documentation>
+      <wsdl:input message="tns:ScanMat_ChangeLocationSoapIn" />
+      <wsdl:output message="tns:ScanMat_ChangeLocationSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service_MATSoap" type="tns:Service_MATSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistLocation">
+      <soap:operation soapAction="http://tempuri.org/CheckExistLocation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMatIn_Complete">
+      <soap:operation soapAction="http://tempuri.org/ScanMatIn_Complete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMatOut_Complete">
+      <soap:operation soapAction="http://tempuri.org/ScanMatOut_Complete" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_Status">
+      <soap:operation soapAction="http://tempuri.org/ScanMat_Status" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_Stock">
+      <soap:operation soapAction="http://tempuri.org/ScanMat_Stock" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_ChangeLocation">
+      <soap:operation soapAction="http://tempuri.org/ScanMat_ChangeLocation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service_MATSoap12" type="tns:Service_MATSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckValidationUser">
+      <soap12:operation soapAction="http://tempuri.org/CheckValidationUser" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckExistLocation">
+      <soap12:operation soapAction="http://tempuri.org/CheckExistLocation" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMatIn_Complete">
+      <soap12:operation soapAction="http://tempuri.org/ScanMatIn_Complete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMatOut_Complete">
+      <soap12:operation soapAction="http://tempuri.org/ScanMatOut_Complete" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_Status">
+      <soap12:operation soapAction="http://tempuri.org/ScanMat_Status" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_Stock">
+      <soap12:operation soapAction="http://tempuri.org/ScanMat_Stock" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ScanMat_ChangeLocation">
+      <soap12:operation soapAction="http://tempuri.org/ScanMat_ChangeLocation" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service_MAT">
+    <wsdl:port name="Service_MATSoap" binding="tns:Service_MATSoap">
+      <soap:address location="http://10.211.107.16/FGTrack_PM_Service/Service_MAT.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service_MATSoap12" binding="tns:Service_MATSoap12">
+      <soap12:address location="http://10.211.107.16/FGTrack_PM_Service/Service_MAT.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

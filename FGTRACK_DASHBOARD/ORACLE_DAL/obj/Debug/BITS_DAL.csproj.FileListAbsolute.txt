@@ -1,0 +1,10 @@
+D:\Web_Project\HLP_Service\HLP_Service\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Web_Project\HLP_Service\HLP_Service\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+D:\Web_Project\HLP_Service\HLP_Service\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Web_Project\HLP_Service\HLP_Service\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+D:\Web_Project\HLP_Service\HLP_Service\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+D:\Projects\HTN_HLP\HLP_Scanner\HLP_Service\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb

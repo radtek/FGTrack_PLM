@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_PRODUCT_CARD" targetNamespace="http://tempuri.org/DTS_PRODUCT_CARD.xsd" xmlns:mstns="http://tempuri.org/DTS_PRODUCT_CARD.xsd" xmlns="http://tempuri.org/DTS_PRODUCT_CARD.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_PRODUCT_CARD" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DTS_PRODUCT_CARD" msprop:Generator_DataSetName="DTS_PRODUCT_CARD" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_JOB_ORDER" msprop:Generator_UserTableName="T_JOB_ORDER" msprop:Generator_RowDeletedName="T_JOB_ORDERRowDeleted" msprop:Generator_RowChangedName="T_JOB_ORDERRowChanged" msprop:Generator_RowClassName="T_JOB_ORDERRow" msprop:Generator_RowChangingName="T_JOB_ORDERRowChanging" msprop:Generator_RowEvArgName="T_JOB_ORDERRowChangeEvent" msprop:Generator_RowEvHandlerName="T_JOB_ORDERRowChangeEventHandler" msprop:Generator_TableClassName="T_JOB_ORDERDataTable" msprop:Generator_TableVarName="tableT_JOB_ORDER" msprop:Generator_RowDeletingName="T_JOB_ORDERRowDeleting" msprop:Generator_TablePropName="T_JOB_ORDER">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JOB_NO" msprop:Generator_UserColumnName="JOB_NO" msprop:Generator_ColumnPropNameInRow="JOB_NO" msprop:Generator_ColumnVarNameInTable="columnJOB_NO" msprop:Generator_ColumnPropNameInTable="JOB_NOColumn" type="xs:string" />
+              <xs:element name="PROD_IMAGE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="PROD_IMAGE" msprop:Generator_ColumnPropNameInRow="PROD_IMAGE" msprop:Generator_ColumnVarNameInTable="columnPROD_IMAGE" msprop:Generator_ColumnPropNameInTable="PROD_IMAGEColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="PROCESS_SEQ" msprop:Generator_UserColumnName="PROCESS_SEQ" msprop:Generator_ColumnVarNameInTable="columnPROCESS_SEQ" msprop:Generator_ColumnPropNameInRow="PROCESS_SEQ" msprop:Generator_ColumnPropNameInTable="PROCESS_SEQColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="T_PRODUCT_CARD" msprop:Generator_UserTableName="T_PRODUCT_CARD" msprop:Generator_RowDeletedName="T_PRODUCT_CARDRowDeleted" msprop:Generator_RowChangedName="T_PRODUCT_CARDRowChanged" msprop:Generator_RowClassName="T_PRODUCT_CARDRow" msprop:Generator_RowChangingName="T_PRODUCT_CARDRowChanging" msprop:Generator_RowEvArgName="T_PRODUCT_CARDRowChangeEvent" msprop:Generator_RowEvHandlerName="T_PRODUCT_CARDRowChangeEventHandler" msprop:Generator_TableClassName="T_PRODUCT_CARDDataTable" msprop:Generator_TableVarName="tableT_PRODUCT_CARD" msprop:Generator_RowDeletingName="T_PRODUCT_CARDRowDeleting" msprop:Generator_TablePropName="T_PRODUCT_CARD">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JOB_NO" msprop:Generator_UserColumnName="JOB_NO" msprop:Generator_ColumnPropNameInRow="JOB_NO" msprop:Generator_ColumnVarNameInTable="columnJOB_NO" msprop:Generator_ColumnPropNameInTable="JOB_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIAL_NO" msprop:Generator_UserColumnName="SERIAL_NO" msprop:Generator_ColumnPropNameInRow="SERIAL_NO" msprop:Generator_ColumnVarNameInTable="columnSERIAL_NO" msprop:Generator_ColumnPropNameInTable="SERIAL_NOColumn" type="xs:string" />
+              <xs:element name="PRODUCT_NO" msprop:Generator_UserColumnName="PRODUCT_NO" msprop:Generator_ColumnPropNameInRow="PRODUCT_NO" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NO" msprop:Generator_ColumnPropNameInTable="PRODUCT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NAME" msprop:Generator_UserColumnName="PRODUCT_NAME" msprop:Generator_ColumnPropNameInRow="PRODUCT_NAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NAME" msprop:Generator_ColumnPropNameInTable="PRODUCT_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MTL_TYPE" msprop:Generator_UserColumnName="MTL_TYPE" msprop:Generator_ColumnPropNameInRow="MTL_TYPE" msprop:Generator_ColumnVarNameInTable="columnMTL_TYPE" msprop:Generator_ColumnPropNameInTable="MTL_TYPEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PARTY_NAME" msprop:Generator_UserColumnName="PARTY_NAME" msprop:Generator_ColumnPropNameInRow="PARTY_NAME" msprop:Generator_ColumnVarNameInTable="columnPARTY_NAME" msprop:Generator_ColumnPropNameInTable="PARTY_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MC_NO" msprop:Generator_UserColumnName="MC_NO" msprop:Generator_ColumnPropNameInRow="MC_NO" msprop:Generator_ColumnVarNameInTable="columnMC_NO" msprop:Generator_ColumnPropNameInTable="MC_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SHIFT" msprop:Generator_UserColumnName="SHIFT" msprop:Generator_ColumnPropNameInRow="SHIFT" msprop:Generator_ColumnVarNameInTable="columnSHIFT" msprop:Generator_ColumnPropNameInTable="SHIFTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_UserColumnName="QTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIT_ID" msprop:Generator_UserColumnName="UNIT_ID" msprop:Generator_ColumnPropNameInRow="UNIT_ID" msprop:Generator_ColumnVarNameInTable="columnUNIT_ID" msprop:Generator_ColumnPropNameInTable="UNIT_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NO_OF_LABEL" msprop:Generator_UserColumnName="NO_OF_LABEL" msprop:Generator_ColumnPropNameInRow="NO_OF_LABEL" msprop:Generator_ColumnVarNameInTable="columnNO_OF_LABEL" msprop:Generator_ColumnPropNameInTable="NO_OF_LABELColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BARCODE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:anyType" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:T_JOB_ORDER" />
+      <xs:field xpath="mstns:JOB_NO" />
+    </xs:unique>
+    <xs:unique name="T_PRODUCT_CARD_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:T_PRODUCT_CARD" />
+      <xs:field xpath="mstns:SERIAL_NO" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="T_PRODUCT_CARD_T_JOB_ORDER" msdata:parent="T_JOB_ORDER" msdata:child="T_PRODUCT_CARD" msdata:parentkey="JOB_NO" msdata:childkey="JOB_NO" msprop:Generator_UserRelationName="T_PRODUCT_CARD_T_JOB_ORDER" msprop:Generator_RelationVarName="relationT_PRODUCT_CARD_T_JOB_ORDER" msprop:Generator_UserChildTable="T_PRODUCT_CARD" msprop:Generator_UserParentTable="T_JOB_ORDER" msprop:Generator_ParentPropName="T_JOB_ORDERRow" msprop:Generator_ChildPropName="GetT_PRODUCT_CARDRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,8 @@
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\bin\Debug\QR_CODE_DEMO.exe
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\bin\Debug\QR_CODE_DEMO.pdb
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\obj\Debug\QR_CODE_DEMO.Properties.Resources.resources
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\obj\Debug\QR_CODE_DEMO.csproj.GenerateResource.Cache
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\obj\Debug\QR_CODE_DEMO.exe
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\obj\Debug\QR_CODE_DEMO.pdb
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking\QR_CODE_DEMO\obj\Debug\QR_CODE_DEMO.Form1.resources

@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Danger_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\danger_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Safe_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\safe_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Unknown_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\unknown_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Warning_Shield" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\warning_shield.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERR_INVALID_QTY" xml:space="preserve">
+    <value>Wrong Qty</value>
+  </data>
+  <data name="ERR_NO_DATA_FOUND" xml:space="preserve">
+    <value>No Data Found</value>
+  </data>
+  <data name="ERR_PROCESS_EXISTING" xml:space="preserve">
+    <value>Already Scan</value>
+  </data>
+  <data name="ERR_PROCESS_FINAL" xml:space="preserve">
+    <value>Already FG.</value>
+  </data>
+  <data name="ERR_PROCESS_FINISH" xml:space="preserve">
+    <value>Already Finish</value>
+  </data>
+  <data name="ERR_PROCESS_NOTALLOW" xml:space="preserve">
+    <value>This operation is not allowed</value>
+  </data>
+  <data name="ERR_PROCESS_QC" xml:space="preserve">
+    <value>Already QC.</value>
+  </data>
+  <data name="ERR_SYSTEM_ERROR" xml:space="preserve">
+    <value>System Error</value>
+  </data>
+  <data name="ERR_WRONG_LABEL" xml:space="preserve">
+    <value>Wrong Label</value>
+  </data>
+  <data name="ERR_WRONG_STEP" xml:space="preserve">
+    <value>This operation is not allowed</value>
+  </data>
+  <data name="frmAssignNG_btn01Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="frmAssignNG_btn01Save" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="frmAssignNG_lbl01MainMenu" xml:space="preserve">
+    <value>Assign NG  [INJECTION]</value>
+  </data>
+  <data name="frmAssignNG_lblQty" xml:space="preserve">
+    <value>Qty :</value>
+  </data>
+  <data name="frmMainMenu" xml:space="preserve">
+    <value>Main Menu</value>
+  </data>
+  <data name="frmMainMenu_btn01Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="frmMainMenu_btn01Production" xml:space="preserve">
+    <value>Production</value>
+  </data>
+  <data name="frmMainMenu_btn01QC" xml:space="preserve">
+    <value>QC</value>
+  </data>
+  <data name="frmMainMenu_btn01Utility" xml:space="preserve">
+    <value>Utility</value>
+  </data>
+  <data name="frmMainMenu_lbl01MainMenu" xml:space="preserve">
+    <value>Main Menu [INJECTION]</value>
+  </data>
+  <data name="frmMainMenu_lbl01MenuHeader" xml:space="preserve">
+    <value>Main Menu</value>
+  </data>
+  <data name="frmOKCargo_btn01Cancel" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="frmOKCargo_lbl01MainMenu" xml:space="preserve">
+    <value>QC Scan [INJECTION]</value>
+  </data>
+  <data name="frmOKCargo_lbl01NoOfBox" xml:space="preserve">
+    <value>Number of Box :</value>
+  </data>
+  <data name="frmOKCargo_lbl02Box" xml:space="preserve">
+    <value>Box</value>
+  </data>
+  <data name="frmOKCargo_lblBox" xml:space="preserve">
+    <value>Box</value>
+  </data>
+  <data name="frmOKCargo_lblBoxScanned" xml:space="preserve">
+    <value>Box Scanned :</value>
+  </data>
+  <data name="frmOKCargo_lblLabelQty" xml:space="preserve">
+    <value>Qty:</value>
+  </data>
+  <data name="frmProductCardInfo_btn01Cancel" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="frmProductCardInfo_lbl01MainMenu" xml:space="preserve">
+    <value>Product Card Info  [INJECTION]</value>
+  </data>
+  <data name="frmProductCardInfo_lblNG" xml:space="preserve">
+    <value>NG.:</value>
+  </data>
+  <data name="frmProductCardInfo_lblQty" xml:space="preserve">
+    <value>Qty:</value>
+  </data>
+  <data name="frmProductCardInfo_lblRep" xml:space="preserve">
+    <value>REP.:</value>
+  </data>
+  <data name="frmProductCardInfo_lblScanCard" xml:space="preserve">
+    <value>Scan Card #</value>
+  </data>
+  <data name="frmProductFinish_btn01Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="frmProductFinish_btn01Save" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="frmProductFinish_lbl01MainMenu" xml:space="preserve">
+    <value>Product Finish [INJECTION]</value>
+  </data>
+  <data name="frmProductFinish_lblBox" xml:space="preserve">
+    <value>Box.</value>
+  </data>
+  <data name="frmProductFinish_lblBoxScanned" xml:space="preserve">
+    <value>Box Scanned</value>
+  </data>
+  <data name="frmProductFinish_lblMachine" xml:space="preserve">
+    <value>M/C #</value>
+  </data>
+  <data name="frmProductFinish_lblMode" xml:space="preserve">
+    <value>Mode</value>
+  </data>
+  <data name="frmProductFinish_lblQty" xml:space="preserve">
+    <value>Qty :</value>
+  </data>
+  <data name="frmProduction_btn01Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="frmProduction_lbl01MainMenu" xml:space="preserve">
+    <value>Main Menu [INJECTION]</value>
+  </data>
+  <data name="frmProduction_lbl01MenuHeader" xml:space="preserve">
+    <value>Production</value>
+  </data>
+  <data name="frmQC_btn01ConfRep" xml:space="preserve">
+    <value>Conf. Rep.</value>
+  </data>
+  <data name="frmQC_btn01Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="frmQC_btn01NGCargo" xml:space="preserve">
+    <value>NG Cargo</value>
+  </data>
+  <data name="frmQC_btn01OKCargo" xml:space="preserve">
+    <value>OK Cargo</value>
+  </data>
+  <data name="frmQC_btn01QCReturn" xml:space="preserve">
+    <value>QC Return</value>
+  </data>
+  <data name="frmQC_lbl01MainMenu" xml:space="preserve">
+    <value>Main Menu [INJECTION]</value>
+  </data>
+  <data name="frmQC_lbl01MenuHeader" xml:space="preserve">
+    <value>QC</value>
+  </data>
+  <data name="INF_FINISH_PROCESS" xml:space="preserve">
+    <value>Operation Finished</value>
+  </data>
+  <data name="MSG_PLEASE_WAIT" xml:space="preserve">
+    <value>Please wait</value>
+  </data>
+  <data name="TITLE_ERROR" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="TITLE_INFO_COMPLETE" xml:space="preserve">
+    <value>Status Complete</value>
+  </data>
+  <data name="TITLE_PLEASE_CHECK" xml:space="preserve">
+    <value>Please Check</value>
+  </data>
+</root>

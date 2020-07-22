@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmProduct</FormName>
+  <GridControl>grdProduct,grdProdProcess</GridControl>
+  <LastDefaultView>GridView,GridView</LastDefaultView>
+  <FormSize>
+    <Width>1760</Width>
+    <Height>1011</Height>
+  </FormSize>
+  <FormLocation>
+    <X>-8</X>
+    <Y>-31</Y>
+  </FormLocation>
+</FormConfigState>

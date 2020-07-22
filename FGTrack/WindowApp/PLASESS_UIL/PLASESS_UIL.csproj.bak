@@ -1,0 +1,1122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{66310D71-F721-4B9D-9D99-FE73FFEDBB7F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HTN.BITS.UIL.PLASESS</RootNamespace>
+    <AssemblyName>HTN.BITS.UIL.PLASESS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>FG_Tracking.ico</ApplicationIcon>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=95fc6c5621878f0a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Reports.v11.2.Designer, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v11.2.Extensions, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <HintPath>C:\Program Files (x86)\DevExpress 2011.2\Components\Bin\Framework\DevExpress.XtraTreeList.v11.2.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrator\frmProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator\frmProgram.Designer.cs">
+      <DependentUpon>frmProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator\frmProgramType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator\frmProgramType.Designer.cs">
+      <DependentUpon>frmProgramType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator\frmRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator\frmRole.Designer.cs">
+      <DependentUpon>frmRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator\frmRoleProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator\frmRoleProgram.Designer.cs">
+      <DependentUpon>frmRoleProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator\frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator\frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvJobOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvJobOrder.Designer.cs">
+      <DependentUpon>frmAdvJobOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvLoadingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvLoadingOrder.Designer.cs">
+      <DependentUpon>frmAdvLoadingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvProduct.Designer.cs">
+      <DependentUpon>frmAdvProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvQCReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvQCReturn.Designer.cs">
+      <DependentUpon>frmAdvQCReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvShippingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvanceSearch\frmAdvShippingOrder.Designer.cs">
+      <DependentUpon>frmAdvShippingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\ApplicationRunningHelper.cs" />
+    <Compile Include="Component\BaseChildForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\BaseChildForm.Designer.cs">
+      <DependentUpon>BaseChildForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\BaseChildFormPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\BaseChildFormPopup.Designer.cs">
+      <DependentUpon>BaseChildFormPopup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\BaseDialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\BaseDialogForm.Designer.cs">
+      <DependentUpon>BaseDialogForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\BaseForm.Designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\eFormState.cs" />
+    <Compile Include="Component\eViewType.cs" />
+    <Compile Include="Component\ExecutionStopwatch.cs" />
+    <Compile Include="Component\frmUserInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\frmUserInfo.Designer.cs">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\GridViewControl\GridCheckMarksSelection.cs" />
+    <Compile Include="Component\GridViewControl\GridExportController.cs" />
+    <Compile Include="Component\MemoryCleaner.cs" />
+    <Compile Include="Component\ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\ReportViewer.designer.cs">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\ShowSelectedInExplorer.cs" />
+    <Compile Include="Component\SysFileInfo\CopyFiles.cs" />
+    <Compile Include="Component\SysFileInfo\DIA_CopyFiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\SysFileInfo\DIA_CopyFiles.designer.cs">
+      <DependentUpon>DIA_CopyFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\SysFileInfo\SHGetFileInfo.cs" />
+    <Compile Include="Component\UiUtility.cs" />
+    <Compile Include="Component\UiValidations.cs" />
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmAdjustInInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmAdjustInInterface.designer.cs">
+      <DependentUpon>frmAdjustInInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmAsmInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmAsmInterface.Designer.cs">
+      <DependentUpon>frmAsmInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\frmPurchaseInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface\frmPurchaseInterface.designer.cs">
+      <DependentUpon>frmPurchaseInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOVForms\eFormCalling.cs" />
+    <Compile Include="LOVForms\frmLOVMachine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVMachine.Designer.cs">
+      <DependentUpon>frmLOVMachine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVMtlType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVMtlType.Designer.cs">
+      <DependentUpon>frmLOVMtlType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVParty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVParty.Designer.cs">
+      <DependentUpon>frmLOVParty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVProduct.Designer.cs">
+      <DependentUpon>frmLOVProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOVForms\frmLOVRole.Designer.cs">
+      <DependentUpon>frmLOVRole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmMachine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmMachine.Designer.cs">
+      <DependentUpon>frmMachine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmMaterialType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmMaterialType.Designer.cs">
+      <DependentUpon>frmMaterialType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmParty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmParty.Designer.cs">
+      <DependentUpon>frmParty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmProduct.Designer.cs">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Master\frmProductionType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Master\frmProductionType.Designer.cs">
+      <DependentUpon>frmProductionType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForms\frmPickingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForms\frmPickingList.Designer.cs">
+      <DependentUpon>frmPickingList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForms\frmPopResultUpRevision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForms\frmPopResultUpRevision.Designer.cs">
+      <DependentUpon>frmPopResultUpRevision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForms\frmPopTestReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForms\frmPopTestReport.Designer.cs">
+      <DependentUpon>frmPopTestReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForms\frmPrintProductCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForms\frmPrintProductCard.Designer.cs">
+      <DependentUpon>frmPrintProductCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopupForms\frmPrintRTProductCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopupForms\frmPrintRTProductCard.designer.cs">
+      <DependentUpon>frmPrintRTProductCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Administrator\frmProgram.resx">
+      <DependentUpon>frmProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrator\frmProgramType.resx">
+      <DependentUpon>frmProgramType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrator\frmRole.resx">
+      <DependentUpon>frmRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrator\frmUser.resx">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvanceSearch\frmAdvJobOrder.resx">
+      <DependentUpon>frmAdvJobOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvanceSearch\frmAdvLoadingOrder.resx">
+      <DependentUpon>frmAdvLoadingOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvanceSearch\frmAdvProduct.resx">
+      <DependentUpon>frmAdvProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvanceSearch\frmAdvQCReturn.resx">
+      <DependentUpon>frmAdvQCReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvanceSearch\frmAdvShippingOrder.resx">
+      <DependentUpon>frmAdvShippingOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\BaseChildForm.resx">
+      <DependentUpon>BaseChildForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\BaseChildFormPopup.resx">
+      <DependentUpon>BaseChildFormPopup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\BaseDialogForm.resx">
+      <DependentUpon>BaseDialogForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\BaseForm.resx">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\frmUserInfo.resx">
+      <DependentUpon>frmUserInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\ReportViewer.resx">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\SysFileInfo\DIA_CopyFiles.resx">
+      <DependentUpon>DIA_CopyFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmAdjustInInterface.resx">
+      <DependentUpon>frmAdjustInInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmAsmInterface.resx">
+      <DependentUpon>frmAsmInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface\frmPurchaseInterface.resx">
+      <DependentUpon>frmPurchaseInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOVForms\frmLOVMachine.resx">
+      <DependentUpon>frmLOVMachine.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOVForms\frmLOVMtlType.resx">
+      <DependentUpon>frmLOVMtlType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOVForms\frmLOVParty.resx">
+      <DependentUpon>frmLOVParty.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOVForms\frmLOVProduct.resx">
+      <DependentUpon>frmLOVProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOVForms\frmLOVRole.resx">
+      <DependentUpon>frmLOVRole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmMachine.resx">
+      <DependentUpon>frmMachine.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmMaterialType.resx">
+      <DependentUpon>frmMaterialType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmParty.resx">
+      <DependentUpon>frmParty.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmProduct.resx">
+      <DependentUpon>frmProduct.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Master\frmProductionType.resx">
+      <DependentUpon>frmProductionType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForms\frmPickingList.resx">
+      <DependentUpon>frmPickingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForms\frmPopResultUpRevision.resx">
+      <DependentUpon>frmPopResultUpRevision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForms\frmPopTestReport.resx">
+      <DependentUpon>frmPopTestReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForms\frmPrintProductCard.resx">
+      <DependentUpon>frmPrintProductCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopupForms\frmPrintRTProductCard.resx">
+      <DependentUpon>frmPrintRTProductCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\frmProductionSummaryDaily.resx">
+      <DependentUpon>frmProductionSummaryDaily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\frmProductTracking.resx">
+      <DependentUpon>frmProductTracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\frmStockAsOn.resx">
+      <DependentUpon>frmStockAsOn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\frmStockAsOnDate.resx">
+      <DependentUpon>frmStockAsOnDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\frmStockInOut.resx">
+      <DependentUpon>frmStockInOut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\frmStockInSummary.resx">
+      <DependentUpon>frmStockInSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\frmStockOutSummary.resx">
+      <DependentUpon>frmStockOutSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query_Popup\frmQupJobTracking.resx">
+      <DependentUpon>frmQupJobTracking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query_Popup\frmQupLoadingInfo.resx">
+      <DependentUpon>frmQupLoadingInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query_Popup\frmQupPickingInfo.resx">
+      <DependentUpon>frmQupPickingInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query_Popup\frmQupStockAsOnDate.resx">
+      <DependentUpon>frmQupStockAsOnDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query_Popup\frmQupStockOutSummaryDetial.resx">
+      <DependentUpon>frmQupStockOutSummaryDetial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query_Popup\frmQupSummaryDailyDetail.resx">
+      <DependentUpon>frmQupSummaryDailyDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_CUSTOMER_RETURN.resx">
+      <DependentUpon>RPT_CUSTOMER_RETURN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_DELIVERY_ORDER.resx">
+      <DependentUpon>RPT_DELIVERY_ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_DELIVERY_SLIP.resx">
+      <DependentUpon>RPT_DELIVERY_SLIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_FG_QC_RETURN.resx">
+      <DependentUpon>RPT_FG_QC_RETURN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_FG_RETURN_WH.resx">
+      <DependentUpon>RPT_FG_RETURN_WH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_JOB_ORDER.resx">
+      <DependentUpon>RPT_JOB_ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_LOADING_ORDER.resx">
+      <DependentUpon>RPT_LOADING_ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_MACHINE.resx">
+      <DependentUpon>RPT_MACHINE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_PARTLIST_IN_PALLET.resx">
+      <DependentUpon>RPT_PARTLIST_IN_PALLET.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_PICKING_LIST.resx">
+      <DependentUpon>RPT_PICKING_LIST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_PRODUCT_CARD.resx">
+      <DependentUpon>RPT_PRODUCT_CARD.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_PRODUCT_CARD_1.resx">
+      <DependentUpon>RPT_PRODUCT_CARD_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RPT_TRANSFER_ORDER.resx">
+      <DependentUpon>RPT_TRANSFER_ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\frmDeliveryOrder.resx">
+      <DependentUpon>frmDeliveryOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\frmJobOrder.resx">
+      <DependentUpon>frmJobOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\frmLoadingOrder.resx">
+      <DependentUpon>frmLoadingOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\frmShippingOrder.resx">
+      <DependentUpon>frmShippingOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\frmProductCardInfo.resx">
+      <DependentUpon>frmProductCardInfo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\frmQCReturn_Customer.resx">
+      <DependentUpon>frmQCReturn_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\frmQCReturn_WH.resx">
+      <DependentUpon>frmQCReturn_WH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utility\frmQCTransfer_Order.resx">
+      <DependentUpon>frmQCTransfer_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TableSchema\DTS_DELIVERY_ORDER.xsc">
+      <DependentUpon>DTS_DELIVERY_ORDER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_DELIVERY_ORDER.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_DELIVERY_ORDER.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TableSchema\DTS_DELIVERY_ORDER.xss">
+      <DependentUpon>DTS_DELIVERY_ORDER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_DELIVERY_SLIP.xsc">
+      <DependentUpon>DTS_DELIVERY_SLIP.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_DELIVERY_SLIP.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_DELIVERY_SLIP1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TableSchema\DTS_DELIVERY_SLIP.xss">
+      <DependentUpon>DTS_DELIVERY_SLIP.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_FG_QC_RETURN.xsc">
+      <DependentUpon>DTS_FG_QC_RETURN.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_FG_QC_RETURN.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_FG_QC_RETURN.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_FG_QC_RETURN.xss">
+      <DependentUpon>DTS_FG_QC_RETURN.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_FG_RETURN_CUSTOMER.xsc">
+      <DependentUpon>DTS_FG_RETURN_CUSTOMER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_FG_RETURN_CUSTOMER.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_FG_RETURN_CUSTOMER.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_FG_RETURN_CUSTOMER.xss">
+      <DependentUpon>DTS_FG_RETURN_CUSTOMER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_FG_RETURN_WH.xsc">
+      <DependentUpon>DTS_FG_RETURN_WH.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_FG_RETURN_WH.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_FG_RETURN_WH.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_FG_RETURN_WH.xss">
+      <DependentUpon>DTS_FG_RETURN_WH.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_JOB_ORDER.xsc">
+      <DependentUpon>DTS_JOB_ORDER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_JOB_ORDER.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_JOB_ORDER1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_JOB_ORDER.xss">
+      <DependentUpon>DTS_JOB_ORDER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_LOADING_ORDER.xsc">
+      <DependentUpon>DTS_LOADING_ORDER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_LOADING_ORDER.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_LOADING_ORDER1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_LOADING_ORDER.xss">
+      <DependentUpon>DTS_LOADING_ORDER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_MACHINE.xsc">
+      <DependentUpon>DTS_MACHINE.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_MACHINE.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_MACHINE.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_MACHINE.xss">
+      <DependentUpon>DTS_MACHINE.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_PARTLIST_IN_PALLET.xsc">
+      <DependentUpon>DTS_PARTLIST_IN_PALLET.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_PARTLIST_IN_PALLET.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_PARTLIST_IN_PALLET.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_PARTLIST_IN_PALLET.xss">
+      <DependentUpon>DTS_PARTLIST_IN_PALLET.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_PICKING_LIST.xsc">
+      <DependentUpon>DTS_PICKING_LIST.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_PICKING_LIST.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_PICKING_LIST1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_PICKING_LIST.xss">
+      <DependentUpon>DTS_PICKING_LIST.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_PRODUCT_CARD.xsc">
+      <DependentUpon>DTS_PRODUCT_CARD.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_PRODUCT_CARD.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_PRODUCT_CARD.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="TableSchema\DTS_PRODUCT_CARD.xss">
+      <DependentUpon>DTS_PRODUCT_CARD.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_TRANSFER_ORDER.xsc">
+      <DependentUpon>DTS_TRANSFER_ORDER.xsd</DependentUpon>
+    </None>
+    <None Include="TableSchema\DTS_TRANSFER_ORDER.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DTS_TRANSFER_ORDER.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TableSchema\DTS_TRANSFER_ORDER.xss">
+      <DependentUpon>DTS_TRANSFER_ORDER.xsd</DependentUpon>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmDashboard.Designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmProductionSummaryDaily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmProductionSummaryDaily.Designer.cs">
+      <DependentUpon>frmProductionSummaryDaily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmProductTracking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmProductTracking.Designer.cs">
+      <DependentUpon>frmProductTracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmStockAsOn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmStockAsOn.Designer.cs">
+      <DependentUpon>frmStockAsOn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmStockAsOnDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmStockAsOnDate.designer.cs">
+      <DependentUpon>frmStockAsOnDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmStockInOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmStockInOut.Designer.cs">
+      <DependentUpon>frmStockInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmStockInSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmStockInSummary.designer.cs">
+      <DependentUpon>frmStockInSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\frmStockOutSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\frmStockOutSummary.designer.cs">
+      <DependentUpon>frmStockOutSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupJobTracking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupJobTracking.Designer.cs">
+      <DependentUpon>frmQupJobTracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupLoadingInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupLoadingInfo.designer.cs">
+      <DependentUpon>frmQupLoadingInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupPickingInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupPickingInfo.designer.cs">
+      <DependentUpon>frmQupPickingInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupStockAsOnDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupStockAsOnDate.Designer.cs">
+      <DependentUpon>frmQupStockAsOnDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupStockOutSummaryDetial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupStockOutSummaryDetial.designer.cs">
+      <DependentUpon>frmQupStockOutSummaryDetial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupSummaryDailyDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query_Popup\frmQupSummaryDailyDetail.designer.cs">
+      <DependentUpon>frmQupSummaryDailyDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_CUSTOMER_RETURN.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_CUSTOMER_RETURN.Designer.cs">
+      <DependentUpon>RPT_CUSTOMER_RETURN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_DELIVERY_ORDER.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_DELIVERY_ORDER.Designer.cs">
+      <DependentUpon>RPT_DELIVERY_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_DELIVERY_SLIP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_DELIVERY_SLIP.Designer.cs">
+      <DependentUpon>RPT_DELIVERY_SLIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_FG_QC_RETURN.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_FG_QC_RETURN.Designer.cs">
+      <DependentUpon>RPT_FG_QC_RETURN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_FG_RETURN_WH.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_FG_RETURN_WH.Designer.cs">
+      <DependentUpon>RPT_FG_RETURN_WH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_JOB_ORDER.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_JOB_ORDER.Designer.cs">
+      <DependentUpon>RPT_JOB_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_LOADING_ORDER.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_LOADING_ORDER.Designer.cs">
+      <DependentUpon>RPT_LOADING_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_MACHINE.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_MACHINE.Designer.cs">
+      <DependentUpon>RPT_MACHINE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_PARTLIST_IN_PALLET.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_PARTLIST_IN_PALLET.Designer.cs">
+      <DependentUpon>RPT_PARTLIST_IN_PALLET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_PICKING_LIST.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_PICKING_LIST.Designer.cs">
+      <DependentUpon>RPT_PICKING_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_PRODUCT_CARD.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_PRODUCT_CARD.Designer.cs">
+      <DependentUpon>RPT_PRODUCT_CARD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_PRODUCT_CARD_1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_PRODUCT_CARD_1.designer.cs">
+      <DependentUpon>RPT_PRODUCT_CARD_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RPT_TRANSFER_ORDER.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\RPT_TRANSFER_ORDER.Designer.cs">
+      <DependentUpon>RPT_TRANSFER_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_DELIVERY_ORDER.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_DELIVERY_ORDER.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_DELIVERY_SLIP.cs">
+      <DependentUpon>DTS_DELIVERY_SLIP.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TableSchema\DTS_DELIVERY_SLIP.Designer.cs">
+      <DependentUpon>DTS_DELIVERY_SLIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_FG_QC_RETURN.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_FG_QC_RETURN.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_FG_RETURN_CUSTOMER.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_FG_RETURN_CUSTOMER.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_FG_RETURN_WH.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_FG_RETURN_WH.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_JOB_ORDER.cs">
+      <DependentUpon>DTS_JOB_ORDER.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TableSchema\DTS_JOB_ORDER.Designer.cs">
+      <DependentUpon>DTS_JOB_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_LOADING_ORDER.cs">
+      <DependentUpon>DTS_LOADING_ORDER.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TableSchema\DTS_LOADING_ORDER.Designer.cs">
+      <DependentUpon>DTS_LOADING_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_MACHINE.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_MACHINE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_PARTLIST_IN_PALLET.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_PARTLIST_IN_PALLET.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_PICKING_LIST.cs">
+      <DependentUpon>DTS_PICKING_LIST.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TableSchema\DTS_PICKING_LIST.Designer.cs">
+      <DependentUpon>DTS_PICKING_LIST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_PRODUCT_CARD.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_PRODUCT_CARD.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TableSchema\DTS_TRANSFER_ORDER.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DTS_TRANSFER_ORDER.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\frmDeliveryOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\frmDeliveryOrder.designer.cs">
+      <DependentUpon>frmDeliveryOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\frmJobOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\frmJobOrder.Designer.cs">
+      <DependentUpon>frmJobOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\frmLoadingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\frmLoadingOrder.Designer.cs">
+      <DependentUpon>frmLoadingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\frmShippingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\frmShippingOrder.Designer.cs">
+      <DependentUpon>frmShippingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\frmProductCardInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\frmProductCardInfo.Designer.cs">
+      <DependentUpon>frmProductCardInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\frmQCReturn_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\frmQCReturn_Customer.designer.cs">
+      <DependentUpon>frmQCReturn_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\frmQCReturn_WH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\frmQCReturn_WH.Designer.cs">
+      <DependentUpon>frmQCReturn_WH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\frmQCTransfer_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\frmQCTransfer_Order.Designer.cs">
+      <DependentUpon>frmQCTransfer_Order.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FG_Tracking.ico" />
+    <Content Include="Image\Buttons\ButtonAdd.png" />
+    <Content Include="Image\Buttons\ButtonCancel.png" />
+    <Content Include="Image\Buttons\ButtonDelete.png" />
+    <Content Include="Image\Buttons\ButtonEdit.png" />
+    <Content Include="Image\Buttons\ButtonExit.png" />
+    <Content Include="Image\Buttons\ButtonExport.png" />
+    <Content Include="Image\Buttons\ButtonGenerateLabel.png" />
+    <Content Include="Image\Buttons\ButtonLogin.png" />
+    <Content Include="Image\Buttons\ButtonPrinter.png" />
+    <Content Include="Image\Buttons\ButtonRefresh.png" />
+    <Content Include="Image\Buttons\ButtonSave.png" />
+    <Content Include="Image\Buttons\ButtonSearch.png" />
+    <Content Include="Image\Buttons\ButtonSelect.png" />
+    <Content Include="Image\Buttons\ButtonUploadFile.png" />
+    <Content Include="Image\Buttons\ButtonView.png" />
+    <Content Include="Image\Buttons\PrintCargoCheckSheet.png" />
+    <Content Include="Image\Buttons\PrintReceivingLabel.png" />
+    <Content Include="Image\Document.ico" />
+    <Content Include="Image\FG_Tracking.ico" />
+    <Content Include="Resources\Upload Database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BITS_BEL\BITS_BEL.csproj">
+      <Project>{B0A08877-F1B9-4C30-BC93-2A77359958EB}</Project>
+      <Name>BITS_BEL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BITS_LIB\BITS_LIB.csproj">
+      <Project>{21F900AA-4D62-418D-B654-834DA9024399}</Project>
+      <Name>BITS_LIB</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BITS_QRCodeLib\BITS_QRCodeLib.csproj">
+      <Project>{79E4DD87-2AA7-4AE6-BBD8-D56045D75390}</Project>
+      <Name>BITS_QRCodeLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PLASESS_BLL\PLASESS_BLL.csproj">
+      <Project>{1609958F-104A-416E-B4D4-63E3F339734A}</Project>
+      <Name>PLASESS_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Winforms.Components\Winforms.Components.csproj">
+      <Project>{C93CD6B7-7890-48D9-98AA-9F447F519654}</Project>
+      <Name>Winforms.Components</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

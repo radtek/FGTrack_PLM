@@ -1,0 +1,67 @@
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\bin\Release\HTN.BITS.LIB.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\bin\Release\HTN.BITS.LIB.pdb
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.NotifierResult.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.th.resources
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\BITS_LIB.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.dll.licenses
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\th\HTN.BITS.LIB.resources.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.dll
+D:\Projects\PLASESS\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\bin\Release\HTN.BITS.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\bin\Release\HTN.BITS.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.NotifierResult.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.th.resources
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\BITS_LIB.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\th\HTN.BITS.LIB.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\bin\Release\HTN.BITS.LIB.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\bin\Release\HTN.BITS.LIB.pdb
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.NotifierResult.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.th.resources
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\BITS_LIB.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\th\HTN.BITS.LIB.resources.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.dll
+D:\Repositories\FGTrack_PLH\FGTrack\WindowApp\BITS_LIB\obj\Release\HTN.BITS.LIB.pdb
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\bin\Release\HTN.BITS.LIB.dll
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\bin\Release\HTN.BITS.LIB.pdb
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\ResolveAssemblyReference.cache
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.resources
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.NotifierResult.resources
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.th.resources
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\BITS_LIB.csproj.GenerateResource.Cache
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\th\HTN.BITS.LIB.resources.dll
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.dll
+D:\BACKUP PROJECT\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\bin\Release\HTN.BITS.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\bin\Release\HTN.BITS.LIB.pdb
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.resources
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.NotifierResult.resources
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.th.resources
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\BITS_LIB.csproj.GenerateResource.Cache
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\th\HTN.BITS.LIB.resources.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.dll
+D:\PROJECTS\PLASESS_HI-TECH\Maples\FGTrack\BITS_LIB\obj\Release\HTN.BITS.LIB.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\bin\Release\HTN.BITS.LIB.dll
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\bin\Release\HTN.BITS.LIB.pdb
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\bin\Release\th\HTN.BITS.LIB.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.resources
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\HTN.BITS.LIB.NotifierResult.resources
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\HTN.BITS.LIB.App_GlobalResources.LanguageResource.th.resources
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\BITS_LIB.csproj.GenerateResource.Cache
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\th\HTN.BITS.LIB.resources.dll
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\HTN.BITS.LIB.dll
+D:\Repositories\FGTrack_PLH\MAPLe\BITS_LIB\obj\Release\HTN.BITS.LIB.pdb

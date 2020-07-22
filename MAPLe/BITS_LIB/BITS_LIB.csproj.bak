@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21F900AA-4D62-418D-B654-834DA9024399}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HTN.BITS.LIB</RootNamespace>
+    <AssemblyName>HTN.BITS.LIB</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Printing.v11.2.Core, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.2, Version=11.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LanguageRes.cs" />
+    <Compile Include="LocalizTranslation.cs" />
+    <Compile Include="NotifierResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotifierResult.designer.cs">
+      <DependentUpon>NotifierResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validations.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="App_GlobalResources\LanguageResource.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App_GlobalResources\LanguageResource.th.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotifierResult.resx">
+      <DependentUpon>NotifierResult.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\BackgroundPLS.png" />
+    <Content Include="Images\BG_PLASESS.jpg" />
+    <Content Include="Images\Button\btnRollback.png" />
+    <Content Include="Images\Button\ButtonExport.png" />
+    <Content Include="Images\Button\ButtonLoadingNo.png" />
+    <Content Include="Images\Button\buttonLogin.png" />
+    <Content Include="Images\Button\ButtonRefresh.png" />
+    <Content Include="Images\Button\PrintCard.png" />
+    <Content Include="Images\Button\PrintDelivery.png" />
+    <Content Include="Images\Button\PrintLoading.png" />
+    <Content Include="Images\Button\PrintOrder.png" />
+    <Content Include="Images\Button\PrintPartList.png" />
+    <Content Include="Images\Button\ReturnDocument.png" />
+    <Content Include="Images\Button\Upload Database.png" />
+    <Content Include="Images\DropdownButton\DropdownAdvView.bmp" />
+    <Content Include="Images\DropdownButton\DropdownBandedView.bmp" />
+    <Content Include="Images\DropdownButton\DropdownCardView.bmp" />
+    <Content Include="Images\DropdownButton\DropdownGridView.bmp" />
+    <Content Include="Images\DropdownButton\DropdownHTML.png" />
+    <Content Include="Images\DropdownButton\DropdownPDF.png" />
+    <Content Include="Images\DropdownButton\DropdownPrint.png" />
+    <Content Include="Images\DropdownButton\DropdownRTF.png" />
+    <Content Include="Images\DropdownButton\DropdownTXT.png" />
+    <Content Include="Images\DropdownButton\DropdownXLS.png" />
+    <Content Include="Images\DropdownButton\DropdownXLSX.png" />
+    <Content Include="Images\EmptyImage.png" />
+    <Content Include="Images\FG_Tracking.ico" />
+    <Content Include="Images\Icons\btnDetail.ico" />
+    <Content Include="Images\LoginHeader.png" />
+    <Content Include="Images\Menu\LogOff.png" />
+    <Content Include="Images\Menu\Master.png" />
+    <Content Include="Images\Menu\Transaction.png" />
+    <Content Include="Images\PLASESS_BK.jpg" />
+    <Content Include="Images\UserAuthentication.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

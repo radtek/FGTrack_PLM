@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmMachine</FormName>
+  <GridControl>grdMachine</GridControl>
+  <LastDefaultView>GridView</LastDefaultView>
+  <FormSize>
+    <Width>700</Width>
+    <Height>481</Height>
+  </FormSize>
+  <FormLocation>
+    <X>362</X>
+    <Y>155</Y>
+  </FormLocation>
+</FormConfigState>

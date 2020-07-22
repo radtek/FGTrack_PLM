@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmPrintProductCard</FormName>
+  <GridControl>grdProductCard</GridControl>
+  <LastDefaultView>GridView</LastDefaultView>
+  <FormSize>
+    <Width>727</Width>
+    <Height>594</Height>
+  </FormSize>
+  <FormLocation>
+    <X>436</X>
+    <Y>138</Y>
+  </FormLocation>
+</FormConfigState>

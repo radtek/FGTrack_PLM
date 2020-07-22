@@ -1,0 +1,24 @@
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.fr-CA.resources
+D:\Work\FGTRACK\FGTRACK_PLH\FGTrack\ScannerApp\SCN_FGTracking_MtstVertical\obj\Debug\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmFGReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmMTSTIn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmMTSTOut.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\HTN.BITS.FGTRACK.MTSTVER.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_MtstVertical\obj\Debug\SCN_FGTracking_MtstVertical.csproj.GenerateResource.Cache

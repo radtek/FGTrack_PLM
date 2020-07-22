@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<FormConfigState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FormName>frmPopUpload_SO</FormName>
+  <GridControl>grdSO_HDR,grdSO_DTL</GridControl>
+  <LastDefaultView>GridView,GridView</LastDefaultView>
+  <FormSize>
+    <Width>767</Width>
+    <Height>559</Height>
+  </FormSize>
+  <FormLocation>
+    <X>256</X>
+    <Y>105</Y>
+  </FormLocation>
+</FormConfigState>

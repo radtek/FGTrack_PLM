@@ -1,0 +1,74 @@
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmCheckUser.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFinishGoodIn.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFinishGoodOut.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmLoading.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmMainMenu.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmPicking.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmUtility.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\SCN_FGTracking_FGWHS.csproj.GenerateResource.Cache
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.FGWHS.exe.config
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.FGWHS.exe
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.FGWHS.pdb
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\en-US\HTN.BITS.FGTRACK.FGWHS.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\fr-CA\HTN.BITS.FGTRACK.FGWHS.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\Intermec.DataCollection.CF3.5.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\Intermec.Device.CF3.5.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\Intermec.DataCollection.CF3.5.xml
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Properties.Resources.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Resources.Resources.en-US.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Resources.Resources.fr-CA.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\en-US\HTN.BITS.FGTRACK.FGWHS.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\fr-CA\HTN.BITS.FGTRACK.FGWHS.resources.dll
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.exe
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.pdb
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmProductCardInfo.resources
+J:\Projects\PLASESS\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFGReturn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmCheckUser.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFGReturn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFinishGoodIn.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFinishGoodOut.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmLoading.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmMainMenu.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmPicking.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmProductCardInfo.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmUtility.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\SCN_FGTracking_FGWHS.csproj.GenerateResource.Cache
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.FGWHS.exe.config
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.FGWHS.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.FGWHS.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\en-US\HTN.BITS.FGTRACK.FGWHS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\fr-CA\HTN.BITS.FGTRACK.FGWHS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.LIB.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\Intermec.DataCollection.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\Intermec.Device.CF3.5.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\HTN.BITS.FGTRACK.LIB.pdb
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\bin\Debug\Intermec.DataCollection.CF3.5.xml
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Properties.Resources.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Resources.Resources.en-US.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Resources.Resources.fr-CA.resources
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\en-US\HTN.BITS.FGTRACK.FGWHS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\fr-CA\HTN.BITS.FGTRACK.FGWHS.resources.dll
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.exe
+D:\Projects\PLASESS\FGTrack\ScannerApp\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmLoadPallet.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmRePacking.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFGReturn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFinishGoodIn.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmFinishGoodOut.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmLoading.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmPicking.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\SCN_FGTracking_FGWHS.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.exe
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_FGWHS\obj\Debug\HTN.BITS.FGTRACK.FGWHS.pdb

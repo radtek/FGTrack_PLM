@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_FG_RETURN_CUSTOMER" targetNamespace="http://tempuri.org/DTS_FG_RETURN_CUSTOMER.xsd" xmlns:mstns="http://tempuri.org/DTS_FG_RETURN_CUSTOMER.xsd" xmlns="http://tempuri.org/DTS_FG_RETURN_CUSTOMER.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_FG_RETURN_CUSTOMER" msdata:IsDataSet="true" msdata:Locale="en-US" msprop:Generator_UserDSName="DTS_FG_RETURN_CUSTOMER" msprop:Generator_DataSetName="DTS_FG_RETURN_CUSTOMER" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_RETURN_ORDER" msprop:Generator_UserTableName="T_RETURN_ORDER" msprop:Generator_RowDeletedName="T_RETURN_ORDERRowDeleted" msprop:Generator_RowChangedName="T_RETURN_ORDERRowChanged" msprop:Generator_RowClassName="T_RETURN_ORDERRow" msprop:Generator_RowChangingName="T_RETURN_ORDERRowChanging" msprop:Generator_RowEvArgName="T_RETURN_ORDERRowChangeEvent" msprop:Generator_RowEvHandlerName="T_RETURN_ORDERRowChangeEventHandler" msprop:Generator_TableClassName="T_RETURN_ORDERDataTable" msprop:Generator_TableVarName="tableT_RETURN_ORDER" msprop:Generator_RowDeletingName="T_RETURN_ORDERRowDeleting" msprop:Generator_TablePropName="T_RETURN_ORDER">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JOB_NO" msprop:Generator_UserColumnName="JOB_NO" msprop:Generator_ColumnPropNameInRow="JOB_NO" msprop:Generator_ColumnVarNameInTable="columnJOB_NO" msprop:Generator_ColumnPropNameInTable="JOB_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCTION_TYPE" msprop:Generator_UserColumnName="PRODUCTION_TYPE" msprop:Generator_ColumnPropNameInRow="PRODUCTION_TYPE" msprop:Generator_ColumnVarNameInTable="columnPRODUCTION_TYPE" msprop:Generator_ColumnPropNameInTable="PRODUCTION_TYPEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REF_NO" msprop:Generator_UserColumnName="REF_NO" msprop:Generator_ColumnPropNameInRow="REF_NO" msprop:Generator_ColumnVarNameInTable="columnREF_NO" msprop:Generator_ColumnPropNameInTable="REF_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PLAN_DATE" msprop:Generator_UserColumnName="PLAN_DATE" msprop:Generator_ColumnPropNameInRow="PLAN_DATE" msprop:Generator_ColumnVarNameInTable="columnPLAN_DATE" msprop:Generator_ColumnPropNameInTable="PLAN_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER" msprop:Generator_UserColumnName="CUSTOMER" msprop:Generator_ColumnPropNameInRow="CUSTOMER" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER" msprop:Generator_ColumnPropNameInTable="CUSTOMERColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PROD_SEQ_NO" msprop:Generator_UserColumnName="PROD_SEQ_NO" msprop:Generator_ColumnPropNameInRow="PROD_SEQ_NO" msprop:Generator_ColumnVarNameInTable="columnPROD_SEQ_NO" msprop:Generator_ColumnPropNameInTable="PROD_SEQ_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NO" msprop:Generator_UserColumnName="PRODUCT_NO" msprop:Generator_ColumnPropNameInRow="PRODUCT_NO" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NO" msprop:Generator_ColumnPropNameInTable="PRODUCT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NAME" msprop:Generator_UserColumnName="PRODUCT_NAME" msprop:Generator_ColumnPropNameInRow="PRODUCT_NAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NAME" msprop:Generator_ColumnPropNameInTable="PRODUCT_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MTL_TYPE" msprop:Generator_UserColumnName="MTL_TYPE" msprop:Generator_ColumnPropNameInRow="MTL_TYPE" msprop:Generator_ColumnVarNameInTable="columnMTL_TYPE" msprop:Generator_ColumnPropNameInTable="MTL_TYPEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MC_NO" msprop:Generator_UserColumnName="MC_NO" msprop:Generator_ColumnPropNameInRow="MC_NO" msprop:Generator_ColumnVarNameInTable="columnMC_NO" msprop:Generator_ColumnPropNameInTable="MC_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MP_START_DATE" msprop:Generator_UserColumnName="MP_START_DATE" msprop:Generator_ColumnPropNameInRow="MP_START_DATE" msprop:Generator_ColumnVarNameInTable="columnMP_START_DATE" msprop:Generator_ColumnPropNameInTable="MP_START_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MP_STOP_DATE" msprop:Generator_UserColumnName="MP_STOP_DATE" msprop:Generator_ColumnPropNameInRow="MP_STOP_DATE" msprop:Generator_ColumnVarNameInTable="columnMP_STOP_DATE" msprop:Generator_ColumnPropNameInTable="MP_STOP_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PLAN_QTY" msprop:Generator_UserColumnName="PLAN_QTY" msprop:Generator_ColumnPropNameInRow="PLAN_QTY" msprop:Generator_ColumnVarNameInTable="columnPLAN_QTY" msprop:Generator_ColumnPropNameInTable="PLAN_QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIT_ID" msprop:Generator_UserColumnName="UNIT_ID" msprop:Generator_ColumnPropNameInRow="UNIT_ID" msprop:Generator_ColumnVarNameInTable="columnUNIT_ID" msprop:Generator_ColumnPropNameInTable="UNIT_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BARCODE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:anyType" minOccurs="0" />
+              <xs:element name="SHIFT_DATE" msprop:Generator_UserColumnName="SHIFT_DATE" msprop:Generator_ColumnPropNameInRow="SHIFT_DATE" msprop:Generator_ColumnVarNameInTable="columnSHIFT_DATE" msprop:Generator_ColumnPropNameInTable="SHIFT_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SHIFT" msprop:Generator_UserColumnName="SHIFT" msprop:Generator_ColumnPropNameInRow="SHIFT" msprop:Generator_ColumnVarNameInTable="columnSHIFT" msprop:Generator_ColumnPropNameInTable="SHIFTColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="T_DESIGN_LOT" msprop:Generator_UserTableName="T_DESIGN_LOT" msprop:Generator_RowDeletedName="T_DESIGN_LOTRowDeleted" msprop:Generator_RowChangedName="T_DESIGN_LOTRowChanged" msprop:Generator_RowClassName="T_DESIGN_LOTRow" msprop:Generator_RowChangingName="T_DESIGN_LOTRowChanging" msprop:Generator_RowEvArgName="T_DESIGN_LOTRowChangeEvent" msprop:Generator_RowEvHandlerName="T_DESIGN_LOTRowChangeEventHandler" msprop:Generator_TableClassName="T_DESIGN_LOTDataTable" msprop:Generator_TableVarName="tableT_DESIGN_LOT" msprop:Generator_RowDeletingName="T_DESIGN_LOTRowDeleting" msprop:Generator_TablePropName="T_DESIGN_LOT">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JOB_NO" msprop:Generator_UserColumnName="JOB_NO" msprop:Generator_ColumnPropNameInRow="JOB_NO" msprop:Generator_ColumnVarNameInTable="columnJOB_NO" msprop:Generator_ColumnPropNameInTable="JOB_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LINE_NO" msprop:Generator_UserColumnName="LINE_NO" msprop:Generator_ColumnPropNameInRow="LINE_NO" msprop:Generator_ColumnVarNameInTable="columnLINE_NO" msprop:Generator_ColumnPropNameInTable="LINE_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PLAN_DATE" msprop:Generator_UserColumnName="PLAN_DATE" msprop:Generator_ColumnPropNameInRow="PLAN_DATE" msprop:Generator_ColumnVarNameInTable="columnPLAN_DATE" msprop:Generator_ColumnPropNameInTable="PLAN_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SHIFT" msprop:Generator_UserColumnName="SHIFT" msprop:Generator_ColumnPropNameInRow="SHIFT" msprop:Generator_ColumnVarNameInTable="columnSHIFT" msprop:Generator_ColumnPropNameInTable="SHIFTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="JOB_LOT" msprop:Generator_UserColumnName="JOB_LOT" msprop:Generator_ColumnPropNameInRow="JOB_LOT" msprop:Generator_ColumnVarNameInTable="columnJOB_LOT" msprop:Generator_ColumnPropNameInTable="JOB_LOTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NO_OF_LABEL" msprop:Generator_UserColumnName="NO_OF_LABEL" msprop:Generator_ColumnPropNameInRow="NO_OF_LABEL" msprop:Generator_ColumnVarNameInTable="columnNO_OF_LABEL" msprop:Generator_ColumnPropNameInTable="NO_OF_LABELColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LABEL_QTY" msprop:Generator_UserColumnName="LABEL_QTY" msprop:Generator_ColumnPropNameInRow="LABEL_QTY" msprop:Generator_ColumnVarNameInTable="columnLABEL_QTY" msprop:Generator_ColumnPropNameInTable="LABEL_QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTAL_QTY" msprop:Generator_UserColumnName="TOTAL_QTY" msprop:Generator_ColumnPropNameInRow="TOTAL_QTY" msprop:Generator_ColumnVarNameInTable="columnTOTAL_QTY" msprop:Generator_ColumnPropNameInTable="TOTAL_QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIT_ID" msprop:Generator_UserColumnName="UNIT_ID" msprop:Generator_ColumnPropNameInRow="UNIT_ID" msprop:Generator_ColumnVarNameInTable="columnUNIT_ID" msprop:Generator_ColumnPropNameInTable="UNIT_IDColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="T_RETURN_ORDER_T_DESIGN_LOT" msdata:parent="T_RETURN_ORDER" msdata:child="T_DESIGN_LOT" msdata:parentkey="JOB_NO" msdata:childkey="JOB_NO" msprop:Generator_UserRelationName="T_RETURN_ORDER_T_DESIGN_LOT" msprop:Generator_RelationVarName="relationT_RETURN_ORDER_T_DESIGN_LOT" msprop:Generator_UserChildTable="T_DESIGN_LOT" msprop:Generator_UserParentTable="T_RETURN_ORDER" msprop:Generator_ParentPropName="T_RETURN_ORDERRow" msprop:Generator_ChildPropName="GetT_DESIGN_LOTRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

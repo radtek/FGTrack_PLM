@@ -1,0 +1,5 @@
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.DAL\bin\Release\HTN.BITS.FGTRACK.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.DAL\bin\Release\HTN.BITS.FGTRACK.DAL.pdb
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.DAL\bin\Release\Oracle.DataAccess.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.DAL\obj\Release\HTN.BITS.FGTRACK.DAL.dll
+D:\Repositories\FGTrack_PLH\FGTrack_API\FGTrack_API.DAL\obj\Release\HTN.BITS.FGTRACK.DAL.pdb

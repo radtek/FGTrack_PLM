@@ -1,0 +1,20 @@
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+J:\Projects\PLASESS\FG_Tracking_Solution\FG_Tracking_Service\FG_Tracking_Service\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+D:\Projects\PLASESS\FGTrack\WebService\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+C:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\bin\Debug\HTN.BITS.DAL.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\bin\Debug\HTN.BITS.DAL.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Debug\HTN.BITS.DAL.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\WebService\BITS_DAL\obj\Debug\HTN.BITS.DAL.pdb

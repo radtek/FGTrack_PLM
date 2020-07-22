@@ -1,0 +1,89 @@
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\app.config
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe.config
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.pdb
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\en-US\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\ja-JP\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\Microsoft.Windowsce.Forms.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\mscorlib.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\System.Windows.Forms.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\ResolveAssemblyReference.cache
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmAssignNG.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmCheckUser.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmMainMenu.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmNGConfirmRep.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmOKCargo.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProductCardInfo.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProductFinish.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmQC.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmUtility.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Properties.Resources.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Resources.Resources.en-US.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Resources.Resources.ja-JP.resources
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\SCN_FGTracking_Assembly.csproj.GenerateResource.Cache
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\en-US\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\ja-JP\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe
+C:\Project_iConext\Nittsu Project\Repositories\MAPLe_Standard\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.pdb
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\app.config
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe.config
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.pdb
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\en-US\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\ja-JP\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\Microsoft.Windowsce.Forms.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\mscorlib.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\System.Windows.Forms.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\ResolveAssemblyReference.cache
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmAssignNG.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmCheckUser.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmMainMenu.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmNGConfirmRep.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmOKCargo.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProductCardInfo.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProductFinish.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProduction.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmQC.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmUtility.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Properties.Resources.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Resources.Resources.en-US.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Resources.Resources.ja-JP.resources
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\SCN_FGTracking_Assembly.csproj.GenerateResource.Cache
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\en-US\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\ja-JP\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe
+D:\Repositories\MAPLe_ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\app.config
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe.config
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.ASSEMBLY.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\en-US\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\ja-JP\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.LIB.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\Microsoft.Windowsce.Forms.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\mscorlib.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\System.Windows.Forms.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\bin\Release\HTN.BITS.FGTRACK.LIB.pdb
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\ResolveAssemblyReference.cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmAssignNG.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmCheckUser.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmMainMenu.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmNGConfirmRep.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmOKCargo.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProductCardInfo.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProductFinish.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmProduction.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmQC.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.frmUtility.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Properties.Resources.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Resources.Resources.en-US.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.Resources.Resources.ja-JP.resources
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\SCN_FGTracking_Assembly.csproj.GenerateResource.Cache
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\en-US\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\ja-JP\HTN.BITS.FGTRACK.ASSEMBLY.resources.dll
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.exe
+D:\Project_iConext\Nittsu Project\Repositories\FGTrack_PLM\FGTrack\ScannerApp_Keyence\SCN_FGTracking_Assembly\obj\Release\HTN.BITS.FGTRACK.ASSEMBLY.pdb

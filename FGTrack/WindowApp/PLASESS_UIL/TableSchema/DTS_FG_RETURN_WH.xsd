@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DTS_FG_RETURN_WH" targetNamespace="http://tempuri.org/DTS_FG_RETURN_WH.xsd" xmlns:mstns="http://tempuri.org/DTS_FG_RETURN_WH.xsd" xmlns="http://tempuri.org/DTS_FG_RETURN_WH.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DTS_FG_RETURN_WH" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DTS_FG_RETURN_WH" msprop:Generator_DataSetName="DTS_FG_RETURN_WH" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="T_RETURN_HDR" msprop:Generator_UserTableName="T_RETURN_HDR" msprop:Generator_RowDeletedName="T_RETURN_HDRRowDeleted" msprop:Generator_RowChangedName="T_RETURN_HDRRowChanged" msprop:Generator_RowClassName="T_RETURN_HDRRow" msprop:Generator_RowChangingName="T_RETURN_HDRRowChanging" msprop:Generator_RowEvArgName="T_RETURN_HDRRowChangeEvent" msprop:Generator_RowEvHandlerName="T_RETURN_HDRRowChangeEventHandler" msprop:Generator_TableClassName="T_RETURN_HDRDataTable" msprop:Generator_TableVarName="tableT_RETURN_HDR" msprop:Generator_RowDeletingName="T_RETURN_HDRRowDeleting" msprop:Generator_TablePropName="T_RETURN_HDR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RT_NO" msprop:Generator_UserColumnName="RT_NO" msprop:Generator_ColumnVarNameInTable="columnRT_NO" msprop:Generator_ColumnPropNameInRow="RT_NO" msprop:Generator_ColumnPropNameInTable="RT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RT_DATE" msprop:Generator_UserColumnName="RT_DATE" msprop:Generator_ColumnVarNameInTable="columnRT_DATE" msprop:Generator_ColumnPropNameInRow="RT_DATE" msprop:Generator_ColumnPropNameInTable="RT_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="WH_ID" msprop:Generator_UserColumnName="WH_ID" msprop:Generator_ColumnVarNameInTable="columnWH_ID" msprop:Generator_ColumnPropNameInRow="WH_ID" msprop:Generator_ColumnPropNameInTable="WH_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARK" msprop:Generator_UserColumnName="REMARK" msprop:Generator_ColumnVarNameInTable="columnREMARK" msprop:Generator_ColumnPropNameInRow="REMARK" msprop:Generator_ColumnPropNameInTable="REMARKColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NO_OF_LABEL" msprop:Generator_UserColumnName="NO_OF_LABEL" msprop:Generator_ColumnVarNameInTable="columnNO_OF_LABEL" msprop:Generator_ColumnPropNameInRow="NO_OF_LABEL" msprop:Generator_ColumnPropNameInTable="NO_OF_LABELColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ISSUED_BY" msprop:Generator_UserColumnName="ISSUED_BY" msprop:Generator_ColumnVarNameInTable="columnISSUED_BY" msprop:Generator_ColumnPropNameInRow="ISSUED_BY" msprop:Generator_ColumnPropNameInTable="ISSUED_BYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ISSUED_DATE" msprop:Generator_UserColumnName="ISSUED_DATE" msprop:Generator_ColumnVarNameInTable="columnISSUED_DATE" msprop:Generator_ColumnPropNameInRow="ISSUED_DATE" msprop:Generator_ColumnPropNameInTable="ISSUED_DATEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BARCODE" msdata:DataType="System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:anyType" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="T_RETURN_DTL" msprop:Generator_UserTableName="T_RETURN_DTL" msprop:Generator_RowDeletedName="T_RETURN_DTLRowDeleted" msprop:Generator_RowChangedName="T_RETURN_DTLRowChanged" msprop:Generator_RowClassName="T_RETURN_DTLRow" msprop:Generator_RowChangingName="T_RETURN_DTLRowChanging" msprop:Generator_RowEvArgName="T_RETURN_DTLRowChangeEvent" msprop:Generator_RowEvHandlerName="T_RETURN_DTLRowChangeEventHandler" msprop:Generator_TableClassName="T_RETURN_DTLDataTable" msprop:Generator_TableVarName="tableT_RETURN_DTL" msprop:Generator_RowDeletingName="T_RETURN_DTLRowDeleting" msprop:Generator_TablePropName="T_RETURN_DTL">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RT_NO" msprop:Generator_UserColumnName="RT_NO" msprop:Generator_ColumnVarNameInTable="columnRT_NO" msprop:Generator_ColumnPropNameInRow="RT_NO" msprop:Generator_ColumnPropNameInTable="RT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER" msprop:Generator_UserColumnName="CUSTOMER" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER" msprop:Generator_ColumnPropNameInRow="CUSTOMER" msprop:Generator_ColumnPropNameInTable="CUSTOMERColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NO" msprop:Generator_UserColumnName="PRODUCT_NO" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NO" msprop:Generator_ColumnPropNameInRow="PRODUCT_NO" msprop:Generator_ColumnPropNameInTable="PRODUCT_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PRODUCT_NAME" msprop:Generator_UserColumnName="PRODUCT_NAME" msprop:Generator_ColumnVarNameInTable="columnPRODUCT_NAME" msprop:Generator_ColumnPropNameInRow="PRODUCT_NAME" msprop:Generator_ColumnPropNameInTable="PRODUCT_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIAL_NO" msprop:Generator_UserColumnName="SERIAL_NO" msprop:Generator_ColumnVarNameInTable="columnSERIAL_NO" msprop:Generator_ColumnPropNameInRow="SERIAL_NO" msprop:Generator_ColumnPropNameInTable="SERIAL_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTY" msprop:Generator_UserColumnName="QTY" msprop:Generator_ColumnVarNameInTable="columnQTY" msprop:Generator_ColumnPropNameInRow="QTY" msprop:Generator_ColumnPropNameInTable="QTYColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIT_ID" msprop:Generator_UserColumnName="UNIT_ID" msprop:Generator_ColumnVarNameInTable="columnUNIT_ID" msprop:Generator_ColumnPropNameInRow="UNIT_ID" msprop:Generator_ColumnPropNameInTable="UNIT_IDColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="T_RETURN_HDR_T_RETURN_DTL" msdata:parent="T_RETURN_HDR" msdata:child="T_RETURN_DTL" msdata:parentkey="RT_NO" msdata:childkey="RT_NO" msprop:Generator_UserRelationName="T_RETURN_HDR_T_RETURN_DTL" msprop:Generator_RelationVarName="relationT_RETURN_HDR_T_RETURN_DTL" msprop:Generator_UserChildTable="T_RETURN_DTL" msprop:Generator_UserParentTable="T_RETURN_HDR" msprop:Generator_ParentPropName="T_RETURN_HDRRow" msprop:Generator_ChildPropName="GetT_RETURN_DTLRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

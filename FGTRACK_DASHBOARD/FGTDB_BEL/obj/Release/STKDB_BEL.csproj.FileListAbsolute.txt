@@ -1,0 +1,10 @@
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BEL\bin\Release\HTN.BITS.STKDB.BEL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BEL\bin\Release\HTN.BITS.STKDB.BEL.pdb
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BEL\obj\Release\HTN.BITS.STKDB.BEL.dll
+D:\PROJECTS\PROJECT_HTN\HTN_BITS\E-Stock\Stock_Dashboard\STKDB_BEL\obj\Release\HTN.BITS.STKDB.BEL.pdb
+D:\PROJECTS\Stock_Dashboard\STKDB_BEL\bin\Release\HTN.BITS.STKDB.BEL.dll
+D:\PROJECTS\Stock_Dashboard\STKDB_BEL\bin\Release\HTN.BITS.STKDB.BEL.pdb
+D:\PROJECTS\Stock_Dashboard\STKDB_BEL\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\Stock_Dashboard\STKDB_BEL\obj\Release\HTN.BITS.STKDB.BEL.dll
+D:\PROJECTS\Stock_Dashboard\STKDB_BEL\obj\Release\HTN.BITS.STKDB.BEL.pdb
